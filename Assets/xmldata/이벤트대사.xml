@@ -118,10 +118,6 @@
 		<Korean>오우! 역시 도서관에 있던 것인가!</Korean>
 	</Unit>
 	<Unit key="후배1">
-		<Name>???</Name>
-		<Korean>흐음… 선배 보기와는 다르게 공부 잘 하시는 군요?</Korean>
-	</Unit>
-	<Unit key="후배1">
 		<Name>주인공</Name>
 		<Korean>그럼 이 몸은 이만!</Korean>
 	</Unit>
@@ -262,11 +258,30 @@
 	<Unit key="후배1">
 		<Type>2</Type>
 		<Name>연서</Name>
-		<Korean>제 이름은 서연서에요.
-중간고사까지 잘 부탁드릴게요 선배.</Korean>
+		<Korean>제 이름은 고연서에요.
+중간고사까지 남은 한 달간 잘 부탁드릴게요 선배.</Korean>
 	</Unit>
 	<Unit key="후배1">
 		<Type>4</Type>
 		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="후배2">
+		<Korean>친구가 없어 점심시간에 매일 도서관에서 공부만 하는 나에게 귀여운 후배가 공부를 가르쳐주길 요청해왔다.</Korean>
+	</Unit>
+	<Unit key="후배2">
+		<Korean>이름은 고연서, 조금 무뚝뚝한 것 같지만 심성은 착한 애라고 생각한다.
+이 몸의 전력 몸통박치기를 당하고 부상을 입었지만 내가 미안해하지 않도록 내색하지 않은 점에서 그 애의 상냥함을 느꼈다.</Korean>
+	</Unit>
+	<Unit key="후배2">
+		<Korean>하지만 배려해주면 오히려 불편해지는 것이 바로 이몸.
+내키지 않았지만 공부를 가르쳐달라는 부탁을 거절할 수 없었던 것이다!</Korean>
+	</Unit>
+	<Unit key="후배2">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="후배2">
+		<Name>주인공</Name>
+		<Korean>그나저나 이 녀석 첫 날부터 지각이냐!</Korean>
 	</Unit>
 </Root>
