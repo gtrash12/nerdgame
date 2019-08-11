@@ -9,6 +9,8 @@ public class ScriptEvent : MonoBehaviour
     public TextAsset ScriptXml;
     public UnityEngine.UI.Text TextBox;
     public UnityEngine.UI.Image Cha;
+    public UnityEngine.UI.Image BackGroundImage;
+    public GameObject Effect;
     public AudioSource SFXSource;
     private XmlDocument LocalizeFile = new XmlDocument();
     private XmlNodeList EventNodes;
@@ -65,8 +67,28 @@ public class ScriptEvent : MonoBehaviour
             }else if(type == 3)
             {
                 SFXSource.PlayOneShot(Resources.Load<AudioClip>(currentNode.SelectSingleNode("Korean").InnerText));
+            }else if(type == 4)
+            {
+                ShortEffect(currentNode.SelectSingleNode("Korean").InnerText);
             }
             getText();
+        }
+    }
+
+    void ShortEffect(string ef)
+    {
+        if(ef == "흔들림")
+        {
+            ShakeScript src = Effect.GetComponent<ShakeScript>();
+            src.enabled = true;
+            src.ShortShake();
+            //src.Invoke("OFF", 1000f);
+        }
+        else if(ef == "플래시")
+        {
+            BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
+            src.enabled = true;
+            src.Flash();
         }
     }
 }
