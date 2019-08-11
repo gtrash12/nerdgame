@@ -9,6 +9,7 @@ public class ScriptEvent : MonoBehaviour
     public TextAsset ScriptXml;
     public UnityEngine.UI.Text TextBox;
     public UnityEngine.UI.Image Cha;
+    public AudioSource SFXSource;
     private XmlDocument LocalizeFile = new XmlDocument();
     private XmlNodeList EventNodes;
     private XmlNode currentNode;
@@ -61,6 +62,9 @@ public class ScriptEvent : MonoBehaviour
             if(type == 2)
             {
                 Cha.sprite = Resources.Load<Sprite>(currentNode.SelectSingleNode("Korean").InnerText);
+            }else if(type == 3)
+            {
+                SFXSource.PlayOneShot(Resources.Load<AudioClip>(currentNode.SelectSingleNode("Korean").InnerText));
             }
             getText();
         }
