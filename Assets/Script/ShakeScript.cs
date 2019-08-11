@@ -27,6 +27,7 @@ public class ShakeScript : MonoBehaviour
     void OFF()
     {
         src.enabled = false;
+        enabled = false;
     }
 
 }

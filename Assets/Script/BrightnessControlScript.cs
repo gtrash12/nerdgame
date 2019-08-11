@@ -15,7 +15,7 @@ public class BrightnessControlScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        src._Brightness = src._Brightness - (src._Brightness - targetB) / 2;
+        src._Brightness = src._Brightness - (src._Brightness - targetB) / 3;
     }
 
     public void Flash()
@@ -29,5 +29,6 @@ public class BrightnessControlScript : MonoBehaviour
     void OFF()
     {
         src.enabled = false;
+        enabled = false;
     }
 }

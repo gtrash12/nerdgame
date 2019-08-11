@@ -11,6 +11,7 @@ public class ScriptEvent : MonoBehaviour
     public UnityEngine.UI.Image Cha;
     public UnityEngine.UI.Image BackGroundImage;
     public GameObject Effect;
+    public Animator ChaAnim;
     public AudioSource SFXSource;
     private XmlDocument LocalizeFile = new XmlDocument();
     private XmlNodeList EventNodes;
@@ -63,6 +64,7 @@ public class ScriptEvent : MonoBehaviour
             int type = System.Convert.ToInt16(currentNode.SelectSingleNode("Type").InnerText);
             if(type == 2)
             {
+                Cha.enabled = true;
                 Cha.sprite = Resources.Load<Sprite>(currentNode.SelectSingleNode("Korean").InnerText);
             }else if(type == 3)
             {
@@ -89,6 +91,14 @@ public class ScriptEvent : MonoBehaviour
             BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
             src.enabled = true;
             src.Flash();
+        }
+        else if(ef == "바운스")
+        {
+            ChaAnim.SetTrigger("Bounce");
+        }
+        else if(ef == "이미지오프")
+        {
+            Cha.enabled = false;
         }
     }
 }

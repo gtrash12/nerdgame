@@ -14,15 +14,31 @@
 지금 전력 대쉬로 되찾으로 가는 중 이라구!</Korean>
 	</Unit>
 	<Unit key="후배1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="후배1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="후배1">
 		<Type>3</Type>
 		<Korean>쿵</Korean>
 	</Unit>
 	<Unit key="후배1">
-		<Korean>쾅! 하는 소리와 함께 나는 뒤로 꼬꾸라졌다.</Korean>
+		<Type>4</Type>
+		<Korean>바운스</Korean>
 	</Unit>
 	<Unit key="후배1">
 		<Type>2</Type>
 		<Korean>후배</Korean>
+	</Unit>
+	<Unit key="후배1">
+		<Korean>쾅!</Korean>
+	</Unit>
+	<Unit key="후배1">
+		<Korean>쾅!
+하는 소리와 함께 나는 뒤로 꼬꾸라졌다.</Korean>
 	</Unit>
 	<Unit key="후배1">
 		<Name>???</Name>
@@ -79,6 +95,10 @@
 	<Unit key="후배1">
 		<Name>주인공</Name>
 		<Korean>..?</Korean>
+	</Unit>
+	<Unit key="후배1">
+		<Type>4</Type>
+		<Korean>바운스</Korean>
 	</Unit>
 	<Unit key="후배1">
 		<Name>???</Name>
@@ -242,7 +262,6 @@
 		<Korean>사나이 @이름 약속은 지킨다구!</Korean>
 	</Unit>
 	<Unit key="후배1">
-		<Type>2</Type>
 		<Name>???</Name>
 		<Korean>그럼 매일 점심시간에 도서관에서 선배를 기다리고 있을게요.</Korean>
 	</Unit>
@@ -251,12 +270,10 @@
 		<Korean>또다시 귀찮은 임무를 떠맡고 말았군!</Korean>
 	</Unit>
 	<Unit key="후배1">
-		<Type>2</Type>
 		<Name>???</Name>
 		<Korean>그러고보니 제 이름도 알려드리지 않았네요.</Korean>
 	</Unit>
 	<Unit key="후배1">
-		<Type>2</Type>
 		<Name>연서</Name>
 		<Korean>제 이름은 고연서에요.
 중간고사까지 남은 한 달간 잘 부탁드릴게요 선배.</Korean>
