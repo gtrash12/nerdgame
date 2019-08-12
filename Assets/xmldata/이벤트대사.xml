@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Unit key="후배1">
+		<Type>5</Type>
+		<Korean>잔잔</Korean>
+	</Unit>
+	<Unit key="후배1">
 		<Name>주인공</Name>
 		<Korean>후우! 후우! 후우!
 큰일이다! 소중한 시험대비 필살노트를 잃어버렸다앗!

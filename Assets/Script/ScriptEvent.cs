@@ -13,6 +13,7 @@ public class ScriptEvent : MonoBehaviour
     public GameObject Effect;
     public Animator ChaAnim;
     public AudioSource SFXSource;
+    public AudioSource BGMSource;
     private XmlDocument LocalizeFile = new XmlDocument();
     private XmlNodeList EventNodes;
     private XmlNode currentNode;
@@ -72,6 +73,11 @@ public class ScriptEvent : MonoBehaviour
             }else if(type == 4)
             {
                 ShortEffect(currentNode.SelectSingleNode("Korean").InnerText);
+            }
+            else if (type == 5)
+            {
+                BGMSource.clip = Resources.Load<AudioClip>(currentNode.SelectSingleNode("Korean").InnerText);
+                BGMSource.Play();
             }
             getText();
         }
