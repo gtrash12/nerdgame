@@ -133,7 +133,7 @@ public class ScriptEvent : MonoBehaviour
             src.enabled = true;
             src.FadeSwitch();
             auto = false;
-            Invoke("getText", 10f);
+            Invoke("getText", 4f);
         }
         return auto;
     }
