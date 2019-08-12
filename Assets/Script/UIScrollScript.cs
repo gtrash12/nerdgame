@@ -14,14 +14,13 @@ public class UIScrollScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        scrollBox.position = Vector3.Lerp(scrollBox.position, pivot, Time.deltaTime * 8);
+        scrollBox.anchoredPosition = Vector3.Lerp(scrollBox.anchoredPosition, pivot, Time.deltaTime * 8);
     }
 
     public void changePivot(RectTransform t)
     {
         pivot = t.localPosition;
         pivot.x *= -1;
-        pivot.y = 200;
     }
     public void UnderbarDown()
     {
