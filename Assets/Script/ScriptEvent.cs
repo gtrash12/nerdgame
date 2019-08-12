@@ -17,10 +17,12 @@ public class ScriptEvent : MonoBehaviour
     private XmlDocument LocalizeFile = new XmlDocument();
     private XmlNodeList EventNodes;
     private XmlNode currentNode;
+    private UnityEngine.UI.Button btn;
     private int i;
     // Start is called before the first frame update
     void Start()
     {
+        btn = GetComponent<UnityEngine.UI.Button>();
         PlayerPrefs.SetString("Language", "Korean");
         SetDB();
         getEvent("후배1");
@@ -47,6 +49,7 @@ public class ScriptEvent : MonoBehaviour
     {
         if (i >= EventNodes.Count)
             return;
+        btn.enabled = true;
         currentNode = EventNodes.Item(i);
         i++;
         if (currentNode.SelectSingleNode("Type") == null) {
@@ -62,6 +65,7 @@ public class ScriptEvent : MonoBehaviour
         }
         else
         {
+            bool auto = true;
             int type = System.Convert.ToInt16(currentNode.SelectSingleNode("Type").InnerText);
             if(type == 2)
             {
@@ -72,20 +76,24 @@ public class ScriptEvent : MonoBehaviour
                 SFXSource.PlayOneShot(Resources.Load<AudioClip>(currentNode.SelectSingleNode("Korean").InnerText));
             }else if(type == 4)
             {
-                ShortEffect(currentNode.SelectSingleNode("Korean").InnerText);
+                auto = ShortEffect(currentNode.SelectSingleNode("Korean").InnerText);
             }
             else if (type == 5)
             {
                 BGMSource.clip = Resources.Load<AudioClip>(currentNode.SelectSingleNode("Korean").InnerText);
                 BGMSource.Play();
             }
-            getText();
+            if (auto == true)
+            {
+                getText();
+            }
         }
     }
 
-    void ShortEffect(string ef)
+    bool ShortEffect(string ef)
     {
-        if(ef == "흔들림")
+        bool auto = true;
+        if (ef == "흔들림")
         {
             ShakeScript src = Effect.GetComponent<ShakeScript>();
             src.enabled = true;
@@ -106,5 +114,27 @@ public class ScriptEvent : MonoBehaviour
         {
             Cha.enabled = false;
         }
+        else if(ef == "종료")
+        {
+            BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
+            src.enabled = true;
+            src.FlashFadeOut();
+        }
+        else if (ef == "시작")
+        {
+            BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
+            src.enabled = true;
+            src.FlashFadeIn();
+        }
+        else if (ef == "페이드전환")
+        {
+            btn.enabled = false;
+            BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
+            src.enabled = true;
+            src.FadeSwitch();
+            auto = false;
+            Invoke("getText", 10f);
+        }
+        return auto;
     }
 }

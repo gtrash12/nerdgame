@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Unit key="후배1">
+		<Type>4</Type>
+		<Korean>시작</Korean>
+	</Unit>
+	<Unit key="후배1">
 		<Type>5</Type>
 		<Korean>잔잔</Korean>
 	</Unit>
