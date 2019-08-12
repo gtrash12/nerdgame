@@ -10,8 +10,6 @@ public class UIScrollScript : MonoBehaviour
     void Start()
     {
         scrollBox = GetComponent<RectTransform>();
-        pivot = Vector3.zero;
-        pivot.y = 200;
     }
     // Update is called once per frame
     void Update()
@@ -23,6 +21,14 @@ public class UIScrollScript : MonoBehaviour
     {
         pivot = t.localPosition;
         pivot.x *= -1;
+        pivot.y = 200;
+    }
+    public void UnderbarDown()
+    {
+        pivot.y = -200;
+    }
+    public void UnderbarUp()
+    {
         pivot.y = 200;
     }
 }
