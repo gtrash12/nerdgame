@@ -30,4 +30,12 @@ public class UIScrollScript : MonoBehaviour
     {
         pivot.y = 200;
     }
+    public void WindowDown()
+    {
+        pivot.y = -1000;
+    }
+    public void WindowUp()
+    {
+        pivot.y = 0;
+    }
 }
