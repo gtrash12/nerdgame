@@ -2,6 +2,10 @@
 <Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Unit key="후배1">
 		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="후배1">
+		<Type>4</Type>
 		<Korean>시작</Korean>
 	</Unit>
 	<Unit key="후배1">
@@ -39,7 +43,7 @@
 	</Unit>
 	<Unit key="후배1">
 		<Type>2</Type>
-		<Korean>후배</Korean>
+		<Korean>고연서</Korean>
 	</Unit>
 	<Unit key="후배1">
 		<Korean>쾅!</Korean>
@@ -227,7 +231,7 @@
 	</Unit>
 	<Unit key="후배1">
 		<Type>2</Type>
-		<Korean>후배</Korean>
+		<Korean>고연서</Korean>
 	</Unit>
 	<Unit key="후배1">
 		<Name>???</Name>
@@ -259,7 +263,7 @@
 	</Unit>
 	<Unit key="후배1">
 		<Type>2</Type>
-		<Korean>후배</Korean>
+		<Korean>고연서</Korean>
 	</Unit>
 	<Unit key="후배1">
 		<Name>???</Name>
