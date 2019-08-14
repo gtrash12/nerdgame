@@ -6,16 +6,29 @@ public class EventWindowControlScript : MonoBehaviour
 {
     RectTransform myRT;
     public RectTransform Relative;
+    Vector2 nVector2;
+    public Vector3 nVector3;
     // Start is called before the first frame update
     void Start()
     {
         myRT = GetComponent<RectTransform>();
+        nVector2.x = myRT.sizeDelta.x;
+        nVector3.y = 0;
     }
 
     // Update is called once per frame
     void Update()
     {
-        myRT.sizeDelta = new Vector2(myRT.sizeDelta.x, -950-Relative.anchoredPosition.y);
-        Debug.Log(myRT.sizeDelta);
+        if (Relative.anchoredPosition.x > 5760)
+        {
+            nVector3.x = Relative.anchoredPosition.x - 5760;
+        }
+        else
+        {
+            nVector3.x = 0;
+        }
+        nVector2.y =  -950 - Relative.anchoredPosition.y;
+        myRT.sizeDelta = nVector2;
+        myRT.anchoredPosition = nVector3;
     }
 }
