@@ -706,8 +706,22 @@
 	</Unit>
 	<Unit key="연소고1">
 		<Type>4</Type>
+		<Korean>싸움세팅</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
 		<Korean>싸움시작</Korean>
 	</Unit>
+	<Unit/>
+	<Unit/>
+	<Unit/>
+	<Unit/>
+	<Unit/>
+	<Unit/>
+	<Unit/>
+	<Unit/>
+	<Unit/>
+	<Unit/>
 	<Unit/>
 	<Unit key="연소고2">
 		<Type>4</Type>

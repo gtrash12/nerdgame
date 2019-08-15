@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Unit key="연소고1">
+		<Korean>최진혁</Korean>
+		<Hp>1000</Hp>
+		<Power>5</Power>
+		<Spd>1</Spd>
+		<Reword>100</Reword>
+		<Idle>따까리</Idle>
+		<Hit1>따까리</Hit1>
+		<Hit2>따까리</Hit2>
+		<Hit3>따까리</Hit3>
+		<Attack>따까리</Attack>
+		<Next>연소고1-1</Next>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>곽종훈</Korean>
+		<Hp>1200</Hp>
+		<Power>6</Power>
+		<Spd>1</Spd>
+		<Reword>110</Reword>
+		<Idle>따까리</Idle>
+		<Hit1>따까리</Hit1>
+		<Hit2>따까리</Hit2>
+		<Hit3>따까리</Hit3>
+		<Attack>따까리</Attack>
+		<Next>연소고1엔딩</Next>
+	</Unit>
+</Root>

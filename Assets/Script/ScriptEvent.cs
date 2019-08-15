@@ -7,6 +7,7 @@ using UnityEngine;
 public class ScriptEvent : MonoBehaviour
 {
     public TextAsset ScriptXml;
+    public BattleScript battlescript;
     public UnityEngine.UI.Text TextBox;
     public UnityEngine.UI.Image Cha;
     public UnityEngine.UI.Image BackGroundImage;
@@ -22,12 +23,13 @@ public class ScriptEvent : MonoBehaviour
     private XmlNode currentNode;
     private UnityEngine.UI.Button btn;
     private int i;
+    string currentkey;
     // Start is called before the first frame update
     void Start()
     {
         btn = GetComponent<UnityEngine.UI.Button>();
         PlayerPrefs.SetString("Language", "Korean");
-        SetDB();
+        SetData();
         getEvent("후배1");
     }
 
@@ -37,13 +39,14 @@ public class ScriptEvent : MonoBehaviour
         
     }
 
-    public void SetDB()
+    public void SetData()
     {
         LocalizeFile.LoadXml(ScriptXml.text);
     }
 
     public void getEvent(string key)
     {
+        currentkey = key;
         EventNodes = LocalizeFile.SelectNodes("Root/Unit[@key='" + key + "']");
         i = 0;
     }
@@ -59,15 +62,20 @@ public class ScriptEvent : MonoBehaviour
             if(currentNode.SelectSingleNode("Name") != null)
             {
                 TextBox.text = "<color=#6799FF>[" + currentNode.SelectSingleNode("Name").InnerText + "]</color>\n";
+                TextBox.text += currentNode.SelectSingleNode(PlayerPrefs.GetString("Language")).InnerText;
             }
             else
             {
-                TextBox.text = "";
+                TextBox.text = "<color=#6799FF>" + currentNode.SelectSingleNode(PlayerPrefs.GetString("Language")).InnerText + "</color>" ;
+
             }
-            TextBox.text += currentNode.SelectSingleNode(PlayerPrefs.GetString("Language")).InnerText;
+           
+
+
         }
         else
         {
+            TextBox.text = "";
             bool auto = true;
             int type = System.Convert.ToInt16(currentNode.SelectSingleNode("Type").InnerText);
             if(type == 2)
@@ -75,7 +83,7 @@ public class ScriptEvent : MonoBehaviour
                 Cha.enabled = true;
                 Cha.sprite = Resources.Load<Sprite>(currentNode.SelectSingleNode("Korean").InnerText) as Sprite;
                 Cha.RecalculateClipping();
-                //Cha.Rebuild(UnityEngine.UI.CanvasUpdate.Layout);
+                ChaAnim.Play("Idle");
             }else if(type == 3)
             {
                 SFXSource.PlayOneShot(Resources.Load<AudioClip>(currentNode.SelectSingleNode("Korean").InnerText));
@@ -124,7 +132,7 @@ public class ScriptEvent : MonoBehaviour
             src.enabled = true;
             src.Flash();
         }
-        else if(ef == "바운스" || ef == "흔들" || ef == "갸우뚱")
+        else if(ef == "바운스" || ef == "흔들" || ef == "갸우뚱" || ef == "피격1" || ef == "피격2")
         {
             ChaAnim.SetTrigger(ef);
         }
@@ -170,8 +178,12 @@ public class ScriptEvent : MonoBehaviour
         }else if(ef == "싸움시작")
         {
             ScrollPannel.WindowDown();
-            PunchBtn.SetActive(true);
             UnderBar.UnderbarUp();
+            battlescript.Ready();
+        }
+        else if(ef == "싸움세팅")
+        {
+            battlescript.SetEnemyList(currentkey);
         }
         return auto;
     }

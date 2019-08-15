@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+<Unit key="">
+<Korean>cvbcvb</Korean>
+<English>cvb cvb</English>
+<Japanese>cvbcvb</Japanese>
+<Hp>1000</Hp>
+<Power>5</Power>
+<Spd>1</Spd>
+<Reword>100</Reword>
+<Idle></Idle>
+<Hit1></Hit1>
+<Hit2></Hit2>
+<Hit3></Hit3>
+<Attack></Attack>
+<Next></Next>
+<Skill>hjj</Skill>
+</Unit>
+<Unit key="">
+<Korean>cvbcvb</Korean>
+<English>cvb cvb</English>
+<Japanese>cvbcvb</Japanese>
+<Hp>1000</Hp>
+<Power>5</Power>
+<Spd>1</Spd>
+<Reword>100</Reword>
+<Idle></Idle>
+<Hit1></Hit1>
+<Hit2></Hit2>
+<Hit3></Hit3>
+<Attack></Attack>
+<Next></Next>
+<Skill>hjj</Skill>
+</Unit>
+</Root>
