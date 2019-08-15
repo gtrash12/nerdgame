@@ -21,7 +21,8 @@ public class BrightnessControlScript : MonoBehaviour
         if(Mathf.Abs(src._Brightness - targetB) < spd * Time.deltaTime)
         {
             src._Brightness = targetB;
-            Invoke(next,0);
+            if (next != "")
+                Invoke(next,0);
         }
     }
 
@@ -70,6 +71,13 @@ public class BrightnessControlScript : MonoBehaviour
         spd = 0.5f;
         next = "OFF";
         // Invoke("OFF", 5f);
+    }
+    public void FadeOut()
+    {
+        src.enabled = true;
+        targetB = 0;
+        spd = 0.5f;
+        next = "";
     }
 
     void OFF()

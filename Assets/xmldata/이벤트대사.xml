@@ -6,7 +6,7 @@
 	</Unit>
 	<Unit key="후배1">
 		<Type>4</Type>
-		<Korean>시작</Korean>
+		<Korean>플래시페이드인</Korean>
 	</Unit>
 	<Unit key="후배1">
 		<Type>5</Type>
@@ -286,13 +286,13 @@
 		<Korean>그러고보니 제 이름도 알려드리지 않았네요.</Korean>
 	</Unit>
 	<Unit key="후배1">
-		<Name>연서</Name>
+		<Name>고연서</Name>
 		<Korean>제 이름은 고연서에요.
 중간고사까지 남은 한 달간 잘 부탁드릴게요 선배.</Korean>
 	</Unit>
 	<Unit key="후배1">
 		<Type>4</Type>
-		<Korean>종료</Korean>
+		<Korean>플래시페이드아웃</Korean>
 	</Unit>
 	<Unit key="후배2">
 		<Korean>친구가 없어 점심시간에 매일 도서관에서 공부만 하는 나에게 귀여운 후배가 공부를 가르쳐주길 요청해왔다.</Korean>
@@ -313,4 +313,440 @@
 		<Name>주인공</Name>
 		<Korean>그나저나 이 녀석 첫 날부터 지각이냐!</Korean>
 	</Unit>
+	<Unit/>
+	<Unit/>
+	<Unit/>
+	<Unit key="연소고1">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>러브레터 사건 이후 많은 것이 바꼈다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>가장 먼저 바뀐것은 주변의 시선.
+이전까진 무관심에 가깝던 시선들이 어딘가 꺼림칙한 시선으로 바뀐 것이다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>전교생들 앞에서 그런 창피한 꼴을 당했으니 엮이고 싶어하지 않는 것도 당연하다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>또 하나, 날 괴롭히는 무리들이 늘었다.
+전에는 서민결 패거리들만 괴롭혔는데 이제는 공식 동네북 느낌이다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>지금도 뒤에서 무수한 지우개가루가 날아와 내 뒤통수에 꽂히고 있다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>3</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>주인공</Name>
+		<Korean>아! 하지말라고!!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생1</Name>
+		<Korean>해지맬래궈~~ ㅋㅋㅋ 개웃겨!! ㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생2</Name>
+		<Korean>야! 조심해 ㅋㅋ 저 새x 화나면 또 누구 한 명 잡고 고백해서 혼내준다고! ㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>주인공</Name>
+		<Korean>내 순수한 마음을 짖밟지 말라고!!!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생1</Name>
+		<Korean>짖밟지 말라궈~~ ㅋㅋㅋㅋ 아 이 새x 왜이렇게 웃기냐 ㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생3</Name>
+		<Korean>야 뭐 그럼 네 돼지같은 몸뚱아리는 짖밟아도 되냐?</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>3</Type>
+		<Korean>펀치</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>주기적흔들림</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>5</Type>
+		<Korean>펀치</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>그 순간 그 녀석은 내 복부를 걷어차 넘어트리고는 무차별적으로 밟기 시작했다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>3</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생3</Name>
+		<Korean>더러운 변태 돼지새x야! 더 개겨봐! 어?!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>주인공</Name>
+		<Korean>으으으…</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생1</Name>
+		<Korean>돼지두루치기 요리중ㅋㅋㅋ 엌!!!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>왜 내가 이런꼴을 당해야 하는거지…</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>내가 뭘 잘못했다고…</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>5</Type>
+		<Korean>비장</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>???</Name>
+		<Korean>너네 뭐해!!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>3</Type>
+		<Korean>펀치</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>피격2</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>누군가가 큰소리로 왜치며 나를 패던 무리들을 밀쳐냈다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>???</Name>
+		<Korean>돼지 괜찮아?</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>이 녀석은 내 소꿉친구 최우정이다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>우정이는 다른 반 이지만 지나가다 내가 맞고있는 것을 본 모양이다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>우정이에게만은 내가 왕따당하는 중이라는 걸 들키고 싶지 않았는데…
+좋은 녀석이라 말려들게 하고 싶지 않다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생3</Name>
+		<Korean>넌 뭔데?!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>최우정</Name>
+		<Korean>나 돼지 친구다! 어쩔건데?!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>최우정</Name>
+		<Korean>너네 우리 돼지가 좀 약하고 만만하다고 해서 이래도 되는 거야?!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생2</Name>
+		<Korean>ㅋㅋㅋ 야 너 저 변태돼지랑 어울리면 어떻게 되는지 몰라?</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>갸우뚱</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>최우정</Name>
+		<Korean>어떻게 되는데?</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생1</Name>
+		<Korean>너 못 봤구나? 저 돼지가 우리 반 아리를 전교생 앞에서 공개적으로 고백해서 혼내준거! ㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>최우정</Name>
+		<Korean>그게 무슨…
+돼지. 정말이야?</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>주인공</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>최우정</Name>
+		<Korean>말 좀 해봐!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>주인공</Name>
+		<Korean>가…</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>최우정</Name>
+		<Korean>응?</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>쉐이크</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>3</Type>
+		<Korean>펀치</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>피격1</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>주인공</Name>
+		<Korean>가라고 좀!!!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>최우정</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생1</Name>
+		<Korean>예예 퇴장하시랍니다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>최우정</Name>
+		<Korean>자, 잠깐!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>무리 중 한명이 우정이를 끌고 나갔다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생3</Name>
+		<Korean>꼴에 여자 앞이라고 가오는 ㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생3</Name>
+		<Korean>자 그럼 방해꾼도 없어졌으니 다시 시작해볼까?</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>억울하다…
+나는 공개적으로 고백 할 생각 없었는데…</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>서연결이 시켜서… 맞기 싫어서 어쩔 수 없이 한 것 뿐인데.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>그런 일로 내가 왜 이런 꼴을 당해야 하는 거지?</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>화난다…
+이유를 만들어서 나를 괴롭히는 이 녀석들에게 화난다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Korean>우정이에게 내 비참한 모습을 드러내버린 이 녀석들이게 화가 난다.</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>주인공</Name>
+		<Korean>우오오오오오오오!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생3</Name>
+		<Korean>우왓! 뭐야?</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생2</Name>
+		<Korean>갑자기 돼지멱은 왜 따는 거냐?!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>주인공</Name>
+		<Korean>더 이상 못참아!!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>학생3</Name>
+		<Korean>못 참으면 어쩔건데?!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Name>주인공</Name>
+		<Korean>한 판 뜨자! 이 씨X!!!!</Korean>
+	</Unit>
+	<Unit key="연소고1">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit/>
+	<Unit key="연소고2">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="연소고2">
+		<Type>4</Type>
+		<Korean>시작</Korean>
+	</Unit>
+	<Unit key="연소고2">
+		<Name>주인공</Name>
+		<Korean>후 드디어 수업이 끝났네.
+집에 가서 훈련해볼까?</Korean>
+	</Unit>
+	<Unit key="연소고2">
+		<Korean>짐을 챙겨 집에 가려던 순간 어디선가 소란스러운 소리가 들려왔다.</Korean>
+	</Unit>
+	<Unit key="연소고2">
+		<Name>주인공</Name>
+		<Korean>무슨일이지?
+이 몸은 궁금한 것은 못 참는다구!</Korean>
+	</Unit>
+	<Unit key="연소고2">
+		<Korean>나는 소리가 나는 쪽으로 조심스럽게 다가갔다.</Korean>
+	</Unit>
+	<Unit key="연소고2">
+		<Korean>그리고 그 곳에서 기다리고 있는 장면은 내가 이성의 끊을 놓게 하기에 충분했다.</Korean>
+	</Unit>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
+	<Unit key="연소고2"/>
 </Root>

@@ -24,8 +24,21 @@ public class ShakeScript : MonoBehaviour
         Invoke("OFF", 0.2f);
     }
 
-    void OFF()
+    public void PeriodicShake()
     {
+        src.enabled = true;
+        Invoke("stopShake", 0.2f);
+        Invoke("PeriodicShake", 0.4f);
+    }
+
+    void stopShake()
+    {
+        src.enabled = false;
+    }
+
+    public void OFF()
+    {
+        CancelInvoke();
         src.enabled = false;
         enabled = false;
     }

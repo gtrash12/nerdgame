@@ -14,6 +14,9 @@ public class ScriptEvent : MonoBehaviour
     public Animator ChaAnim;
     public AudioSource SFXSource;
     public AudioSource BGMSource;
+    public UIScrollScript ScrollPannel;
+    public UIScrollScript UnderBar;
+    public GameObject PunchBtn;
     private XmlDocument LocalizeFile = new XmlDocument();
     private XmlNodeList EventNodes;
     private XmlNode currentNode;
@@ -70,7 +73,9 @@ public class ScriptEvent : MonoBehaviour
             if(type == 2)
             {
                 Cha.enabled = true;
-                Cha.sprite = Resources.Load<Sprite>(currentNode.SelectSingleNode("Korean").InnerText);
+                Cha.sprite = Resources.Load<Sprite>(currentNode.SelectSingleNode("Korean").InnerText) as Sprite;
+                Cha.RecalculateClipping();
+                //Cha.Rebuild(UnityEngine.UI.CanvasUpdate.Layout);
             }else if(type == 3)
             {
                 SFXSource.PlayOneShot(Resources.Load<AudioClip>(currentNode.SelectSingleNode("Korean").InnerText));
@@ -80,8 +85,15 @@ public class ScriptEvent : MonoBehaviour
             }
             else if (type == 5)
             {
-                BGMSource.clip = Resources.Load<AudioClip>(currentNode.SelectSingleNode("Korean").InnerText);
-                BGMSource.Play();
+                string src = currentNode.SelectSingleNode("Korean").InnerText;
+                if (src == "종료")
+                    BGMSource.Stop();
+                else
+                {
+                    BGMSource.clip = Resources.Load<AudioClip>(src);
+                    BGMSource.Play();
+                }
+                
             }
             if (auto == true)
             {
@@ -100,27 +112,33 @@ public class ScriptEvent : MonoBehaviour
             src.ShortShake();
             //src.Invoke("OFF", 1000f);
         }
+        else if(ef == "주기적흔들림")
+        {
+            ShakeScript src = Effect.GetComponent<ShakeScript>();
+            src.enabled = true;
+            src.PeriodicShake();
+        }
         else if(ef == "플래시")
         {
             BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
             src.enabled = true;
             src.Flash();
         }
-        else if(ef == "바운스")
+        else if(ef == "바운스" || ef == "흔들" || ef == "갸우뚱")
         {
-            ChaAnim.SetTrigger("Bounce");
+            ChaAnim.SetTrigger(ef);
         }
         else if(ef == "이미지오프")
         {
             Cha.enabled = false;
         }
-        else if(ef == "종료")
+        else if(ef == "플래시페이드아웃")
         {
             BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
             src.enabled = true;
             src.FlashFadeOut();
         }
-        else if (ef == "시작")
+        else if (ef == "플래시페이드인")
         {
             BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
             src.enabled = true;
@@ -134,6 +152,26 @@ public class ScriptEvent : MonoBehaviour
             src.FadeSwitch();
             auto = false;
             Invoke("getText", 4f);
+        }
+        else if(ef == "페이드아웃")
+        {
+            btn.enabled = false;
+            BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
+            src.enabled = true;
+            src.FadeOut();
+            auto = false;
+            Invoke("getText", 2f);
+        }
+        else if(ef == "흔들림종료")
+        {
+            ShakeScript src = Effect.GetComponent<ShakeScript>();
+            src.enabled = true;
+            src.OFF();
+        }else if(ef == "싸움시작")
+        {
+            ScrollPannel.WindowDown();
+            PunchBtn.SetActive(true);
+            UnderBar.UnderbarUp();
         }
         return auto;
     }

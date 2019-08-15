@@ -28,7 +28,7 @@ public class UIScrollScript : MonoBehaviour
     }
     public void UnderbarUp()
     {
-        pivot.y = 200;
+        pivot.y = 0;
     }
     public void WindowDown()
     {

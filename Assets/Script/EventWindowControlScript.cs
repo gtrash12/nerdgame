@@ -27,7 +27,7 @@ public class EventWindowControlScript : MonoBehaviour
         {
             nVector3.x = 0;
         }
-        nVector2.y =  -950 - Relative.anchoredPosition.y;
+        nVector2.y =  -950 - Relative.position.y - Relative.anchoredPosition.y;
         myRT.sizeDelta = nVector2;
         myRT.anchoredPosition = nVector3;
     }

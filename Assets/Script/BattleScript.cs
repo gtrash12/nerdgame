@@ -29,6 +29,7 @@ public class BattleScript : MonoBehaviour
         if (rand == 0)
         {
             Enem.sprite = Hit1;
+            Enem.Rebuild(UnityEngine.UI.CanvasUpdate.LatePreRender);
             Punch.gameObject.SetActive(true);
             EnemAnim.Play("피격1");
             Punch.Play("펀치1");
@@ -36,6 +37,7 @@ public class BattleScript : MonoBehaviour
         else if(rand == 1)
         {
             Enem.sprite = Hit2;
+            Enem.Rebuild(UnityEngine.UI.CanvasUpdate.LatePreRender);
             Punch.gameObject.SetActive(true);
             EnemAnim.Play("피격2");
             Punch.Play("펀치2");
@@ -43,6 +45,7 @@ public class BattleScript : MonoBehaviour
         else
         {
             Enem.sprite = Hit3;
+            Enem.Rebuild(UnityEngine.UI.CanvasUpdate.LatePreRender);
             Punch.gameObject.SetActive(true);
             EnemAnim.Play("피격3");
             Punch.Play("펀치3");
