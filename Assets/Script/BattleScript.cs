@@ -58,6 +58,8 @@ public class BattleScript : MonoBehaviour
     private XmlNodeList NodeList;
     private int enemIndex = 0;
     public GameObject fightMotion;
+
+    private int power;
     // Start is called before the first frame update
     void Start()
     {
@@ -102,6 +104,7 @@ public class BattleScript : MonoBehaviour
             EnemAnim.Play("피격3");
             Punch.Play("펀치3");
         }
+        HPGuage.damage(power);
     }
 
     public void SetEnemyList(string key)
@@ -149,6 +152,8 @@ public class BattleScript : MonoBehaviour
         Hit2 = Resources.Load<Sprite>(EnemList[enemIndex].Hit2);
         Hit3 = Resources.Load<Sprite>(EnemList[enemIndex].Hit3);
         enemIndex++;
+
+        power = PlayerPrefs.GetInt("power",10);
     }
 
     public void Fight()
