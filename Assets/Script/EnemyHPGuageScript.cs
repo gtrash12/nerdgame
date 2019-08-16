@@ -31,6 +31,7 @@ public class EnemyHPGuageScript : MonoBehaviour
                 state = 1;
                 //bts.Fight();
                 bts.fightMotion.SetActive(true);
+                bts.fightMotion.GetComponent<Animator>().Play("파이트");
             }
         }
             HpText.text = currentHp.ToString();

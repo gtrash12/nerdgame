@@ -42,6 +42,7 @@ public class EUnit
 
 public class BattleScript : MonoBehaviour
 {
+    public ParticleSystem HitEff;
     public TextAsset EnemyXmlData;
     List<EUnit> EnemList = new List<EUnit>();
     public EnemyHPGuageScript HPGuage;
@@ -59,6 +60,7 @@ public class BattleScript : MonoBehaviour
     private XmlNodeList NodeList;
     private int enemIndex = 0;
     public GameObject fightMotion;
+    public CollectingEffectScript collectingEff;
 
     public int power;
     // Start is called before the first frame update
@@ -105,6 +107,10 @@ public class BattleScript : MonoBehaviour
             EnemAnim.Play("피격3");
             Punch.Play("펀치3");
         }
+        HitEff.transform.position = new Vector2((Input.mousePosition.x - 720) /2880,
+            (Input.mousePosition.y - HitEff.transform.parent.GetComponent<RectTransform>().sizeDelta.y / 2) / HitEff.transform.parent.GetComponent<RectTransform>().sizeDelta.y * 10);
+        //HitEff.transform.position = Input.mousePosition;
+        HitEff.Play();
         HPGuage.damage(power);
     }
 
@@ -120,7 +126,7 @@ public class BattleScript : MonoBehaviour
             newEU.hp = System.Convert.ToInt16(NodeList.Item(i).SelectSingleNode("Hp").InnerText);
             newEU.power = System.Convert.ToInt16(NodeList.Item(i).SelectSingleNode("Power").InnerText);
             newEU.spd = (float)System.Convert.ToDouble(NodeList.Item(i).SelectSingleNode("Spd").InnerText);
-            newEU.reward = System.Convert.ToInt16(NodeList.Item(i).SelectSingleNode("Hp").InnerText);
+            newEU.reward = System.Convert.ToInt16(NodeList.Item(i).SelectSingleNode("Reword").InnerText);
             newEU.Idle = NodeList.Item(i).SelectSingleNode("Idle").InnerText;
             newEU.Hit1 = NodeList.Item(i).SelectSingleNode("Hit1").InnerText;
             newEU.Hit2 = NodeList.Item(i).SelectSingleNode("Hit2").InnerText;
@@ -156,7 +162,7 @@ public class BattleScript : MonoBehaviour
         Enem.enabled = true;
         enemIndex++;
         
-        power = PlayerPrefs.GetInt("power",10) + 1000;
+        power = PlayerPrefs.GetInt("power",10) + 200;
     }
 
     public void Fight()
@@ -168,9 +174,13 @@ public class BattleScript : MonoBehaviour
     {
         
         atkbtn.SetActive(false);
-        
-        
-        
+
+        int totalreward = EnemList[enemIndex - 1].reward;
+        int effnum = EnemList[enemIndex - 1].reward / 10;
+        Debug.Log(effnum);
+        PlayerPrefs.SetInt("Money", PlayerPrefs.GetInt("Money")+ totalreward);
+        collectingEff.get(10, 1, effnum);
+        collectingEff.get(totalreward % 10, 1, 1);
         Time.timeScale = 0.03f;
         Invoke("시간제위치", 0.06f);
         
@@ -190,6 +200,6 @@ public class BattleScript : MonoBehaviour
         Evs.ScrollPannel.WindowUp();
         Evs.UnderBar.UnderbarDown();
         Evs.getEvent(EnemList[enemIndex - 1].next);
-        Evs.Invoke("getText", 2);
+        Evs.Invoke("getText", 0);
     }
 }

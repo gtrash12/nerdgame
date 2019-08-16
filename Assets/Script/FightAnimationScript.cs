@@ -20,21 +20,21 @@ public class FightAnimationScript : MonoBehaviour
     void fight()
     {
         bts.Fight();
-        gameObject.SetActive(false);
+        //gameObject.SetActive(false);
     }
 
     void offtive()
     {
         bts.NextEvent();
-        gameObject.SetActive(false);
+        //gameObject.SetActive(false);
     }
 
     void 둥()
     {
-        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("둥"));
+        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("케이오"));
     }
     void 칭()
     {
-        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("칭"));
+        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("파이트"));
     }
 }
