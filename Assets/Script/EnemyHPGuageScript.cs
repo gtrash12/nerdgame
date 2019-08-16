@@ -42,7 +42,7 @@ public class EnemyHPGuageScript : MonoBehaviour
     public void init(int hp)
     {
         state = 0;
-        Anim.Play("등장");
+        Anim.Play("체력바등장");
         curveHp = 0;
         maxHp = hp;
         currentHp = 0;
@@ -52,5 +52,16 @@ public class EnemyHPGuageScript : MonoBehaviour
     {
         Anim.SetTrigger("흔들");
         currentHp -= pow;
+        if(currentHp <= 0)
+        {
+            Anim.Play("체력바깨짐");
+            bts.KnockOff();
+        }
+    }
+
+    public void OFF()
+    {
+        Anim.Play("체력바깨짐");
+        gameObject.SetActive(false);
     }
 }

@@ -22,6 +22,11 @@ public class UIScrollScript : MonoBehaviour
         pivot = t.localPosition;
         pivot.x *= -1;
     }
+    public void SetDefault()
+    {
+        pivot.y = 0;
+        pivot.x = 2880;
+    }
     public void UnderbarDown()
     {
         pivot.y = -200;

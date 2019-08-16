@@ -67,6 +67,7 @@ public class BrightnessControlScript : MonoBehaviour
     public void FadeIn()
     {
         src.enabled = true;
+        src._Brightness = 0;
         targetB = 1;
         spd = 0.5f;
         next = "OFF";

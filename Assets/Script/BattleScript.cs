@@ -46,6 +46,7 @@ public class BattleScript : MonoBehaviour
     List<EUnit> EnemList = new List<EUnit>();
     public EnemyHPGuageScript HPGuage;
     public UnityEngine.UI.Image Enem;
+    public ScriptEvent Evs;
     public Animator EnemAnim;
     public Animator Punch;
     public Sprite Idle;
@@ -59,7 +60,7 @@ public class BattleScript : MonoBehaviour
     private int enemIndex = 0;
     public GameObject fightMotion;
 
-    private int power;
+    public int power;
     // Start is called before the first frame update
     void Start()
     {
@@ -155,11 +156,40 @@ public class BattleScript : MonoBehaviour
         Enem.enabled = true;
         enemIndex++;
         
-        power = PlayerPrefs.GetInt("power",10);
+        power = PlayerPrefs.GetInt("power",10) + 1000;
     }
 
     public void Fight()
     {
         atkbtn.SetActive(true);
+    }
+
+    public void KnockOff()
+    {
+        
+        atkbtn.SetActive(false);
+        
+        
+        
+        Time.timeScale = 0.03f;
+        Invoke("시간제위치", 0.06f);
+        
+    }
+
+    void 시간제위치()
+    {
+        fightMotion.SetActive(true);
+        fightMotion.GetComponent<Animator>().SetTrigger("넉오프");
+        EnemAnim.Play("쓰러짐");
+        Evs.Effect.GetComponent<BrightnessControlScript>().Flash();
+        Time.timeScale = 1f;
+    }
+
+    public void NextEvent()
+    {
+        Evs.ScrollPannel.WindowUp();
+        Evs.UnderBar.UnderbarDown();
+        Evs.getEvent(EnemList[enemIndex - 1].next);
+        Evs.Invoke("getText", 2);
     }
 }

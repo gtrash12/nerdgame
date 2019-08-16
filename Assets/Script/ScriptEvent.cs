@@ -171,6 +171,15 @@ public class ScriptEvent : MonoBehaviour
             auto = false;
             Invoke("getText", 2f);
         }
+        else if (ef == "페이드인")
+        {
+            btn.enabled = false;
+            BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
+            src.enabled = true;
+            src.FadeIn();
+            //auto = false;
+            //Invoke("getText", 2f);
+        }
         else if(ef == "흔들림종료")
         {
             ShakeScript src = Effect.GetComponent<ShakeScript>();
@@ -185,6 +194,11 @@ public class ScriptEvent : MonoBehaviour
         else if(ef == "싸움세팅")
         {
             battlescript.SetEnemyList(currentkey);
+        }
+        else if (ef == "종료")
+        {
+            UnderBar.UnderbarUp();
+            ScrollPannel.SetDefault();
         }
         return auto;
     }

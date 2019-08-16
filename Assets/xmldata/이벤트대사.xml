@@ -294,6 +294,10 @@
 		<Type>4</Type>
 		<Korean>플래시페이드아웃</Korean>
 	</Unit>
+	<Unit key="후배1">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
 	<Unit key="후배2">
 		<Korean>친구가 없어 점심시간에 매일 도서관에서 공부만 하는 나에게 귀여운 후배가 공부를 가르쳐주길 요청해왔다.</Korean>
 	</Unit>
@@ -366,11 +370,11 @@
 		<Korean>흔들</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생1</Name>
+		<Name>정원호</Name>
 		<Korean>해지맬래궈~~ ㅋㅋㅋ 개웃겨!! ㅋㅋㅋ</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생2</Name>
+		<Name>곽종훈</Name>
 		<Korean>야! 조심해 ㅋㅋ 저 새x 화나면 또 누구 한 명 잡고 고백해서 혼내준다고! ㅋㅋㅋ</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -378,11 +382,11 @@
 		<Korean>내 순수한 마음을 짖밟지 말라고!!!</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생1</Name>
+		<Name>정원호</Name>
 		<Korean>짖밟지 말라궈~~ ㅋㅋㅋㅋ 아 이 새x 왜이렇게 웃기냐 ㅋㅋㅋ</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생3</Name>
+		<Name>최진혁</Name>
 		<Korean>야 뭐 그럼 네 돼지같은 몸뚱아리는 짖밟아도 되냐?</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -413,7 +417,7 @@
 		<Korean>플래시</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생3</Name>
+		<Name>최진혁</Name>
 		<Korean>더러운 변태 돼지새x야! 더 개겨봐! 어?!</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -421,7 +425,7 @@
 		<Korean>으으으…</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생1</Name>
+		<Name>정원호</Name>
 		<Korean>돼지두루치기 요리중ㅋㅋㅋ 엌!!!</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -488,7 +492,7 @@
 		<Korean>따까리</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생3</Name>
+		<Name>최진혁</Name>
 		<Korean>넌 뭔데?!</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -512,7 +516,7 @@
 		<Korean>따까리</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생2</Name>
+		<Name>곽종훈</Name>
 		<Korean>ㅋㅋㅋ 야 너 저 변태돼지랑 어울리면 어떻게 되는지 몰라?</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -532,7 +536,7 @@
 		<Korean>따까리</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생1</Name>
+		<Name>정원호</Name>
 		<Korean>너 못 봤구나? 저 돼지가 우리 반 아리를 전교생 앞에서 공개적으로 고백해서 혼내준거! ㅋㅋㅋ</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -617,7 +621,7 @@
 		<Korean>따까리</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생1</Name>
+		<Name>정원호</Name>
 		<Korean>예예 퇴장하시랍니다.</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -644,11 +648,11 @@
 		<Korean>따까리</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생3</Name>
+		<Name>최진혁</Name>
 		<Korean>꼴에 여자 앞이라고 가오는 ㅋㅋㅋ</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생3</Name>
+		<Name>최진혁</Name>
 		<Korean>자 그럼 방해꾼도 없어졌으니 다시 시작해볼까?</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -660,7 +664,7 @@
 나는 공개적으로 고백 할 생각 없었는데…</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Korean>서연결이 시켜서… 맞기 싫어서 어쩔 수 없이 한 것 뿐인데.</Korean>
+		<Korean>서민결이 시켜서… 맞기 싫어서 어쩔 수 없이 한 것 뿐인데.</Korean>
 	</Unit>
 	<Unit key="연소고1">
 		<Korean>그런 일로 내가 왜 이런 꼴을 당해야 하는 거지?</Korean>
@@ -681,11 +685,11 @@
 		<Korean>우오오오오오오오!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생3</Name>
+		<Name>최진혁</Name>
 		<Korean>우왓! 뭐야?</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생2</Name>
+		<Name>곽종훈</Name>
 		<Korean>갑자기 돼지멱은 왜 따는 거냐?!</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -697,7 +701,7 @@
 		<Korean>더 이상 못참아!!</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Name>학생3</Name>
+		<Name>최진혁</Name>
 		<Korean>못 참으면 어쩔건데?!</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -716,21 +720,157 @@
 		<Type>2</Type>
 		<Korean>따까리</Korean>
 	</Unit>
-	<Unit>
+	<Unit key="연소고1-1">
+		<Type>6</Type>
+		<Korean>펀치</Korean>
+	</Unit>
+	<Unit key="연소고1-1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="연소고1-1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="연소고1-1">
 		<Type>3</Type>
 		<Korean>흔들</Korean>
 	</Unit>
-	<Unit>
-		<Name>학생2</Name>
-		<Korean>뭐, 뭐야..!</Korean>
+	<Unit key="연소고1-1">
+		<Name>최진혁</Name>
+		<Korean>으윽!</Korean>
 	</Unit>
-	<Unit/>
-	<Unit/>
-	<Unit/>
-	<Unit/>
-	<Unit/>
-	<Unit/>
-	<Unit/>
+	<Unit key="연소고1-1">
+		<Type>3</Type>
+		<Korean>갸우뚱</Korean>
+	</Unit>
+	<Unit key="연소고1-1">
+		<Name>곽종훈</Name>
+		<Korean>뭐냐 너 저 찐따한테 발리고?</Korean>
+	</Unit>
+	<Unit key="연소고1-1">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="연소고1-1">
+		<Name>최진혁</Name>
+		<Korean>아 몰라…</Korean>
+	</Unit>
+	<Unit key="연소고1-1">
+		<Name>곽종훈</Name>
+		<Korean>쯧쯧 형이 하는 거 잘 봐둬라.</Korean>
+	</Unit>
+	<Unit key="연소고1-1">
+		<Name>곽종훈</Name>
+		<Korean>덤벼 돼지.</Korean>
+	</Unit>
+	<Unit key="연소고1-1">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Type>4</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Type>6</Type>
+		<Korean>펀치</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Type>3</Type>
+		<Korean>피격2</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Name>곽종훈</Name>
+		<Korean>아아악!!</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Name>주인공</Name>
+		<Korean>후욱… 후욱…</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Name>정원호</Name>
+		<Korean>얘들아 나왔…
+뭐하냐 너네…</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Name>최진혁</Name>
+		<Korean>우리 돼지한테 발린 거 아니다…
+돼지 괴롭히다 넘어진거야…</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Name>정원호</Name>
+		<Korean>이거 실화..?</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Name>주인공</Name>
+		<Korean>왜? 너도 나랑 한 판 하게?</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Name>정원호</Name>
+		<Korean>자신 있나보네? ㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Type>6</Type>
+		<Korean>학교종</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Korean>당장이라도 한 판 붙을 것 같은 분위기에 수업종이 찬 물을 끼얹었다.</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Name>정원호</Name>
+		<Korean>아쉽네 ㅋㅋ 다음 라운드는 다음에 하자고 ㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Name>주인공</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Korean>나는 진정하고 내 자리로 가서 태연한 척 앉았다.</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Korean>녀석은 아쉽다고 했지만 내 마음은 다르다.
+그 순간 학교종이 울려 다행이라 생각하고 있다.</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Korean>내가 다음으로 상대할 저 녀석은 앞의 두 녀석과는 차원이 다르다는 걸 나 자신이 잘 알기 때문이다.</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Korean>잘 웃고 개그를 치는 걸 좋아하지만 정원호 그 녀석도 파이터다.</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Korean>학교짱 서민결 급은 아니지만 분명히 싸움의 고수…</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Korean>내가 과연 이길 수 있을까…</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Korean>그런 걱정을 하고있자 순식간에 시간이 흘러 방과후가 되었다.</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="연소고1엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
 	<Unit/>
 	<Unit/>
 	<Unit key="연소고2">

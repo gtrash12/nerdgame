@@ -17,9 +17,24 @@ public class FightAnimationScript : MonoBehaviour
         
     }
     
-    void oftive()
+    void fight()
     {
         bts.Fight();
         gameObject.SetActive(false);
+    }
+
+    void offtive()
+    {
+        bts.NextEvent();
+        gameObject.SetActive(false);
+    }
+
+    void 둥()
+    {
+        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("둥"));
+    }
+    void 칭()
+    {
+        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("칭"));
     }
 }
