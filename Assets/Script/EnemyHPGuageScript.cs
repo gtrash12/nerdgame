@@ -12,7 +12,7 @@ public class EnemyHPGuageScript : MonoBehaviour
     public int currentHp;
     public int maxHp;
     public int curveHp;
-    int state;
+    int state=1;
     // Start is called before the first frame update
     void Start()
     {

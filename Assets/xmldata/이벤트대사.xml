@@ -34,11 +34,11 @@
 		<Korean>플래시</Korean>
 	</Unit>
 	<Unit key="후배1">
-		<Type>3</Type>
+		<Type>6</Type>
 		<Korean>쿵</Korean>
 	</Unit>
 	<Unit key="후배1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>바운스</Korean>
 	</Unit>
 	<Unit key="후배1">
@@ -61,7 +61,7 @@
 		<English>ㅇㅇ</English>
 	</Unit>
 	<Unit key="후배1">
-		<Type>3</Type>
+		<Type>6</Type>
 		<Korean>푸식</Korean>
 	</Unit>
 	<Unit key="후배1">
@@ -97,7 +97,7 @@
 		<Korean>그러곤 잠시 후 어쩐지 심기가 불편해 보이기 시작하더니 갑자기 날 째려보기 시작했다.</Korean>
 	</Unit>
 	<Unit key="후배1">
-		<Type>3</Type>
+		<Type>6</Type>
 		<Korean>의문</Korean>
 	</Unit>
 	<Unit key="후배1">
@@ -109,7 +109,7 @@
 		<Korean>..?</Korean>
 	</Unit>
 	<Unit key="후배1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>바운스</Korean>
 	</Unit>
 	<Unit key="후배1">
@@ -218,7 +218,7 @@
 		<Korean>저 다리는 나 때문인 것인가…</Korean>
 	</Unit>
 	<Unit key="후배1">
-		<Type>3</Type>
+		<Type>6</Type>
 		<Korean>파칭</Korean>
 	</Unit>
 	<Unit key="후배1">
@@ -342,7 +342,7 @@
 		<Korean>지금도 뒤에서 무수한 지우개가루가 날아와 내 뒤통수에 꽂히고 있다.</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>3</Type>
+		<Type>6</Type>
 		<Korean>파칭</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -362,7 +362,7 @@
 		<Korean>따까리</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>흔들</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -386,7 +386,7 @@
 		<Korean>야 뭐 그럼 네 돼지같은 몸뚱아리는 짖밟아도 되냐?</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>3</Type>
+		<Type>6</Type>
 		<Korean>펀치</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -405,7 +405,7 @@
 		<Korean>그 순간 그 녀석은 내 복부를 걷어차 넘어트리고는 무차별적으로 밟기 시작했다.</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>3</Type>
+		<Type>6</Type>
 		<Korean>파칭</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -443,7 +443,7 @@
 		<Korean>플래시</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>바운스</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -455,11 +455,11 @@
 		<Korean>흔들림</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>3</Type>
+		<Type>6</Type>
 		<Korean>펀치</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>피격2</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -492,7 +492,7 @@
 		<Korean>넌 뭔데?!</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>바운스</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -520,7 +520,7 @@
 		<Korean>최우정</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>갸우뚱</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -540,7 +540,7 @@
 		<Korean>최우정</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>흔들</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -553,7 +553,7 @@
 		<Korean>…</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>바운스</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -589,11 +589,11 @@
 		<Korean>파칭</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>바운스</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>3</Type>
+		<Type>6</Type>
 		<Korean>펀치</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -601,7 +601,7 @@
 		<Korean>흔들림</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>피격1</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -621,7 +621,7 @@
 		<Korean>예예 퇴장하시랍니다.</Korean>
 	</Unit>
 	<Unit key="연소고1">
-		<Type>4</Type>
+		<Type>3</Type>
 		<Korean>흔들</Korean>
 	</Unit>
 	<Unit key="연소고1">
@@ -712,8 +712,18 @@
 		<Type>4</Type>
 		<Korean>싸움시작</Korean>
 	</Unit>
-	<Unit/>
-	<Unit/>
+	<Unit key="연소고1-1">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit>
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit>
+		<Name>학생2</Name>
+		<Korean>뭐, 뭐야..!</Korean>
+	</Unit>
 	<Unit/>
 	<Unit/>
 	<Unit/>

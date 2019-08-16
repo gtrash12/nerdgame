@@ -82,12 +82,13 @@ public class ScriptEvent : MonoBehaviour
             {
                 Cha.enabled = true;
                 Cha.sprite = Resources.Load<Sprite>(currentNode.SelectSingleNode("Korean").InnerText) as Sprite;
-                Cha.RecalculateClipping();
                 ChaAnim.Play("Idle");
             }else if(type == 3)
             {
-                SFXSource.PlayOneShot(Resources.Load<AudioClip>(currentNode.SelectSingleNode("Korean").InnerText));
-            }else if(type == 4)
+
+                ChaAnim.SetTrigger(currentNode.SelectSingleNode("Korean").InnerText);
+            }
+            else if(type == 4)
             {
                 auto = ShortEffect(currentNode.SelectSingleNode("Korean").InnerText);
             }
@@ -101,7 +102,11 @@ public class ScriptEvent : MonoBehaviour
                     BGMSource.clip = Resources.Load<AudioClip>(src);
                     BGMSource.Play();
                 }
-                
+
+            }
+            else if(type == 6)
+            {
+                SFXSource.PlayOneShot(Resources.Load<AudioClip>(currentNode.SelectSingleNode("Korean").InnerText));
             }
             if (auto == true)
             {
@@ -131,10 +136,6 @@ public class ScriptEvent : MonoBehaviour
             BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
             src.enabled = true;
             src.Flash();
-        }
-        else if(ef == "바운스" || ef == "흔들" || ef == "갸우뚱" || ef == "피격1" || ef == "피격2")
-        {
-            ChaAnim.SetTrigger(ef);
         }
         else if(ef == "이미지오프")
         {
@@ -186,5 +187,11 @@ public class ScriptEvent : MonoBehaviour
             battlescript.SetEnemyList(currentkey);
         }
         return auto;
+    }
+
+    public void Skip()
+    {
+        i = EventNodes.Count - 2;
+        getText();
     }
 }

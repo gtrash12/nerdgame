@@ -151,8 +151,10 @@ public class BattleScript : MonoBehaviour
         Hit1 = Resources.Load<Sprite>(EnemList[enemIndex].Hit1);
         Hit2 = Resources.Load<Sprite>(EnemList[enemIndex].Hit2);
         Hit3 = Resources.Load<Sprite>(EnemList[enemIndex].Hit3);
+        Enem.sprite = Idle;
+        Enem.enabled = true;
         enemIndex++;
-
+        
         power = PlayerPrefs.GetInt("power",10);
     }
 
