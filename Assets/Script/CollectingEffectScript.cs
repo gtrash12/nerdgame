@@ -15,7 +15,7 @@ public class CollectingEffectScript : MonoBehaviour
         {
             i.gameObject.SetActive(false);
         }
-        money.set(PlayerPrefs.GetInt("Money"));
+        money.set(PlayerPrefs.GetInt("돈"));
     }
 
     // Update is called once per frame

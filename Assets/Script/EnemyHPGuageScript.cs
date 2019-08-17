@@ -11,7 +11,7 @@ public class EnemyHPGuageScript : MonoBehaviour
     Vector2 contV;
     public int currentHp;
     public int maxHp;
-    public int curveHp;
+    float latencyHp;
     int state=1;
     // Start is called before the first frame update
     void Start()
@@ -35,8 +35,8 @@ public class EnemyHPGuageScript : MonoBehaviour
             }
         }
             HpText.text = currentHp.ToString();
-            curveHp += Mathf.RoundToInt((currentHp - curveHp) / 2 * Time.deltaTime * 8);
-            Guage.fillAmount = (float)curveHp / maxHp;
+            latencyHp += (currentHp - latencyHp) / 2 * Time.deltaTime * 8;
+            Guage.fillAmount = (float)latencyHp / maxHp;
         
     }
 
@@ -44,7 +44,7 @@ public class EnemyHPGuageScript : MonoBehaviour
     {
         state = 0;
         Anim.Play("체력바등장");
-        curveHp = 0;
+        latencyHp = 0;
         maxHp = hp;
         currentHp = 0;
     }

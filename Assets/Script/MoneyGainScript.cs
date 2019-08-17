@@ -33,9 +33,9 @@ public class MoneyGainScript : MonoBehaviour
 
     void spread()
     {
-        scroll.transform.position = new Vector3(720, height / 2, 0);
         scroll.enabled = true;
         scroll.pivot = new Vector3(Random.Range(200, 1240), Random.Range(-height/4, -height/4*2), 0);
+        scroll.transform.position = new Vector3((scroll.pivot.x-720)*0.2f + 720 , (scroll.pivot.y - height/2) * 0.2f + height/2 , 0);
         next = "get";
     }
 

@@ -42,6 +42,7 @@ public class EUnit
 
 public class BattleScript : MonoBehaviour
 {
+    public GuageScript PlayerHp;
     public ParticleSystem HitEff;
     public TextAsset EnemyXmlData;
     List<EUnit> EnemList = new List<EUnit>();
@@ -66,6 +67,7 @@ public class BattleScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Singleton.Instance.init();
         SetData();   
     }
 
@@ -107,9 +109,8 @@ public class BattleScript : MonoBehaviour
             EnemAnim.Play("피격3");
             Punch.Play("펀치3");
         }
-        HitEff.transform.position = new Vector2((Input.mousePosition.x - 720) /2880,
+        HitEff.transform.position = new Vector2((Input.mousePosition.x - 720) *0.0014f,
             (Input.mousePosition.y - HitEff.transform.parent.GetComponent<RectTransform>().sizeDelta.y / 2) / HitEff.transform.parent.GetComponent<RectTransform>().sizeDelta.y * 10);
-        //HitEff.transform.position = Input.mousePosition;
         HitEff.Play();
         HPGuage.damage(power);
     }
@@ -152,6 +153,7 @@ public class BattleScript : MonoBehaviour
 
     public void Ready()
     {
+        Evs.UnderBar.GetComponent<Animator>().SetInteger("언더바상태", 1);
         HPGuage.gameObject.SetActive(true);
         HPGuage.init(EnemList[enemIndex].hp);
         Idle = Resources.Load<Sprite>(EnemList[enemIndex].Idle);
@@ -162,28 +164,30 @@ public class BattleScript : MonoBehaviour
         Enem.enabled = true;
         enemIndex++;
         
-        power = PlayerPrefs.GetInt("power",10) + 200;
+        power = PlayerPrefs.GetInt("힘") + 200;
     }
 
     public void Fight()
     {
         atkbtn.SetActive(true);
+        Invoke("EnemAttack", EnemList[enemIndex-1].spd);
     }
 
     public void KnockOff()
     {
-        
+        CancelInvoke();
         atkbtn.SetActive(false);
-
         int totalreward = EnemList[enemIndex - 1].reward;
         int effnum = EnemList[enemIndex - 1].reward / 10;
         Debug.Log(effnum);
-        PlayerPrefs.SetInt("Money", PlayerPrefs.GetInt("Money")+ totalreward);
+        PlayerPrefs.SetInt("돈", PlayerPrefs.GetInt("돈")+ totalreward);
         collectingEff.get(10, 1, effnum);
         collectingEff.get(totalreward % 10, 1, 1);
         Time.timeScale = 0.03f;
         Invoke("시간제위치", 0.06f);
-        
+        Evs.SFXSource.PlayOneShot(Resources.Load<AudioClip>("칭"));
+        Evs.SFXSource.GetComponent<AudioReverbFilter>().enabled = true;
+        Evs.SFXSource.GetComponent<AudioEchoFilter>().enabled = true;
     }
 
     void 시간제위치()
@@ -193,6 +197,8 @@ public class BattleScript : MonoBehaviour
         EnemAnim.Play("쓰러짐");
         Evs.Effect.GetComponent<BrightnessControlScript>().Flash();
         Time.timeScale = 1f;
+        Evs.SFXSource.GetComponent<AudioReverbFilter>().enabled = false;
+        Evs.SFXSource.GetComponent<AudioEchoFilter>().enabled = false;
     }
 
     public void NextEvent()
@@ -201,5 +207,21 @@ public class BattleScript : MonoBehaviour
         Evs.UnderBar.UnderbarDown();
         Evs.getEvent(EnemList[enemIndex - 1].next);
         Evs.Invoke("getText", 0);
+        Evs.UnderBar.GetComponent<Animator>().SetInteger("언더바상태", 0);
+    }
+
+    void EnemAttack()
+    {
+        Evs.SFXSource.PlayOneShot(Resources.Load<AudioClip>("푸식"));
+        BrightnessControlScript src = Evs.Effect.GetComponent<BrightnessControlScript>();
+        src.enabled = true;
+        src.Flash();
+
+        ShakeScript src2 = Evs.Effect.GetComponent<ShakeScript>();
+        src2.enabled = true;
+        src2.ShortShake();
+
+        PlayerHp.damage(EnemList[enemIndex - 1].power);
+        Invoke("EnemAttack", EnemList[enemIndex - 1].spd);
     }
 }
