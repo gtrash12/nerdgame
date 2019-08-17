@@ -44,8 +44,8 @@ public class UIScrollScript : MonoBehaviour
         pivot.y = 0;
     }
 
-    public bool distanceCheck()
+    public float distance()
     {
-        return Vector3.Distance(pivot, scrollBox.anchoredPosition) <= 5;
+        return Vector3.Distance(pivot, scrollBox.anchoredPosition);
     }
 }

@@ -8,6 +8,7 @@ public class EnemyHPGuageScript : MonoBehaviour
     public Animator Anim;
     public UnityEngine.UI.Image Guage;
     public UnityEngine.UI.Text HpText;
+    public UnityEngine.UI.Text nametxt;
     Vector2 contV;
     public int currentHp;
     public int maxHp;

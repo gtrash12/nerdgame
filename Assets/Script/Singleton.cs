@@ -26,8 +26,9 @@ public class Singleton
 
     public void init()
     {
-        PlayerPrefs.SetInt("체력", 100);
+        PlayerPrefs.SetInt("최대체력", 100);
         PlayerPrefs.GetInt("체력", 100);
+        PlayerPrefs.GetInt("최대체력", 100);
         PlayerPrefs.GetInt("돈", 0);
         PlayerPrefs.GetInt("에너지", 20);
         PlayerPrefs.GetInt("지능", 10);

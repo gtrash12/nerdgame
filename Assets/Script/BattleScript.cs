@@ -156,6 +156,7 @@ public class BattleScript : MonoBehaviour
         Evs.UnderBar.GetComponent<Animator>().SetInteger("언더바상태", 1);
         HPGuage.gameObject.SetActive(true);
         HPGuage.init(EnemList[enemIndex].hp);
+        HPGuage.nametxt.text = EnemList[enemIndex].name;
         Idle = Resources.Load<Sprite>(EnemList[enemIndex].Idle);
         Hit1 = Resources.Load<Sprite>(EnemList[enemIndex].Hit1);
         Hit2 = Resources.Load<Sprite>(EnemList[enemIndex].Hit2);

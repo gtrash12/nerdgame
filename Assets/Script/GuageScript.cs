@@ -7,14 +7,15 @@ public class GuageScript : MonoBehaviour
     public UnityEngine.UI.Image Guage;
     public UnityEngine.UI.Text Text;
     public string conectedValue;
+    public string conectedMaxValue;
     public int currentValue;
     public int maxValue;
     public float latencyValue;
     // Start is called before the first frame update
     void Start()
     {
-        maxValue = PlayerPrefs.GetInt(conectedValue);
-        currentValue = maxValue;
+        currentValue = PlayerPrefs.GetInt(conectedValue);
+        maxValue = PlayerPrefs.GetInt(conectedMaxValue);
     }
 
     // Update is called once per frame
@@ -27,6 +28,8 @@ public class GuageScript : MonoBehaviour
 
     public void damage(int pow)
     {
+        
         currentValue -= pow;
+        PlayerPrefs.SetInt(conectedValue, currentValue);
     }
 }

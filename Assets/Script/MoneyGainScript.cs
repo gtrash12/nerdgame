@@ -9,6 +9,7 @@ public class MoneyGainScript : MonoBehaviour
     string next;
     public int value;
     public ValuetoTextScript target;
+    int rotatepower;
     // Start is called before the first frame update
     void Awake()
     {
@@ -19,7 +20,8 @@ public class MoneyGainScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(scroll.distanceCheck() == true)
+        transform.Rotate(scroll.pivot.normalized*Time.deltaTime*rotatepower* scroll.distance());
+        if (scroll.distance() <= 5)
         {
             Invoke(next,0);
         }
@@ -33,6 +35,7 @@ public class MoneyGainScript : MonoBehaviour
 
     void spread()
     {
+        rotatepower = 10;
         scroll.enabled = true;
         scroll.pivot = new Vector3(Random.Range(200, 1240), Random.Range(-height/4, -height/4*2), 0);
         scroll.transform.position = new Vector3((scroll.pivot.x-720)*0.2f + 720 , (scroll.pivot.y - height/2) * 0.2f + height/2 , 0);
@@ -41,6 +44,7 @@ public class MoneyGainScript : MonoBehaviour
 
     void get()
     {
+        rotatepower = 0;
         scroll.pivot = new Vector3(100,-100, 0);
         next = "OFF";
     }
