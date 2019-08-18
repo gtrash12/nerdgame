@@ -165,7 +165,7 @@ public class BattleScript : MonoBehaviour
         Enem.enabled = true;
         enemIndex++;
         
-        power = PlayerPrefs.GetInt("힘") + 200;
+        power = PlayerPrefs.GetInt("힘") + 30;
     }
 
     public void Fight()

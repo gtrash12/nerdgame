@@ -21,7 +21,7 @@ public class GuageScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Text.text = currentValue.ToString();
+        Text.text = (currentValue + "/" + maxValue).ToString();
         latencyValue += (currentValue - latencyValue) / 2 * Time.deltaTime * 8;
         Guage.fillAmount = latencyValue / maxValue;
     }
