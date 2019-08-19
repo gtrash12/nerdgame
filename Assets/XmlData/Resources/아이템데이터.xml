@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Item key="조깅">
+		<Korean>조깅</Korean>
+		<CostHp>20</CostHp>
+		<Rank>1</Rank>
+		<Info>우선 집앞 산책로를 열심히 뛰어다녀서 체력을 늘려볼까?
+보기보다 겁.나.힘.듭.니.다.만?</Info>
+		<MaxHp>1</MaxHp>
+	</Item>
+	<Item key="삼각김밥">
+		<Korean>삼각김밥</Korean>
+		<Cost>100</Cost>
+		<Rank>1</Rank>
+		<Info>이 몸은 음식을 섭취하면 체력을 회복할 수 있지!
+하지만 52! 아무리 돈이 없다고 해도 삼각김밥은 간에 기별도 안간다고!</Info>
+		<Hp>20</Hp>
+	</Item>
+	<Item key="자습">
+		<Korean>자습</Korean>
+		<CostHp>10</CostHp>
+		<CostUnlock>1000</CostUnlock>
+		<Rank>1</Rank>
+		<Info>공부는 역시 자습이지. 절.대. 돈이 없어서 그런 것이 아니라구?
+자습서 가격을 무시하는 거냐고! 52!</Info>
+		<Int>1</Int>
+	</Item>
+	<Item key="팔굽혀펴기">
+		<Korean>팔굽혀펴기</Korean>
+		<CostHp>20</CostHp>
+		<CostUnlock>100</CostUnlock>
+		<Rank>1</Rank>
+		<Info>힘을 키워 날 괴롭히던 녀석들에게 복수할거라구!
+하루 100개만 하면 그런 녀석들 따위 한방이지!</Info>
+		<NeedPow>10</NeedPow>
+		<Pow>1</Pow>
+	</Item>
+	<Item key="얼굴마사지">
+		<Korean>얼굴마사지</Korean>
+		<CostHp>10</CostHp>
+		<CostUnlock>1000</CostUnlock>
+		<Rank>1</Rank>
+		<Info>얼굴마사지기를 사용하면 V라인이 될 수 있다던데 하나 사 봐?</Info>
+		<Look>1</Look>
+	</Item>
+</Root>

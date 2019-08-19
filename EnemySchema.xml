@@ -7,7 +7,7 @@
 <Hp>1000</Hp>
 <Power>5</Power>
 <Spd>1</Spd>
-<Reword>100</Reword>
+<Reward>100</Reward>
 <Idle></Idle>
 <Hit1></Hit1>
 <Hit2></Hit2>
@@ -23,7 +23,7 @@
 <Hp>1000</Hp>
 <Power>5</Power>
 <Spd>1</Spd>
-<Reword>100</Reword>
+<Reward>100</Reward>
 <Idle></Idle>
 <Hit1></Hit1>
 <Hit2></Hit2>
