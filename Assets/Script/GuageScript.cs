@@ -14,8 +14,7 @@ public class GuageScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        currentValue = PlayerPrefs.GetInt(conectedValue);
-        maxValue = PlayerPrefs.GetInt(conectedMaxValue);
+        
     }
 
     // Update is called once per frame
@@ -31,5 +30,11 @@ public class GuageScript : MonoBehaviour
         
         currentValue -= pow;
         PlayerPrefs.SetInt(conectedValue, currentValue);
+    }
+
+    public void Refresh()
+    {
+        currentValue = PlayerPrefs.GetInt(conectedValue);
+        maxValue = PlayerPrefs.GetInt(conectedMaxValue);
     }
 }

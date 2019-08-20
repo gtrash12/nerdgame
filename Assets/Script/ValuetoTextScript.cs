@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ValuetoTextScript : MonoBehaviour
 {
+    public string connectedValue;
     public int value;
     public UnityEngine.UI.Text txt;
     // Start is called before the first frame update
@@ -19,5 +20,11 @@ public class ValuetoTextScript : MonoBehaviour
     {
         value += v;
         txt.text = value.ToString();
+    }
+
+    string unitCal(int v)
+    {
+        //if(v >= 100000)
+        return "";
     }
 }

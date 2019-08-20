@@ -80,7 +80,7 @@ public class ActivityScript : MonoBehaviour
         return null;
     }
 
-    public void Use()
+    public void Use(int index)
     {
         for (int i = 0; i < costlist.Count; i++)
         {
@@ -89,7 +89,6 @@ public class ActivityScript : MonoBehaviour
                 return;
             }
         }
-        img.GetComponent<UnityEngine.UI.Button>().enabled = false;
         for (int i = 0; i < costlist.Count; i++)
         {
             PlayerPrefs.SetInt(KeytoValue(costlist[i].key), PlayerPrefs.GetInt(KeytoValue(costlist[i].key)) - costlist[i].value);
@@ -99,6 +98,15 @@ public class ActivityScript : MonoBehaviour
         {
             PlayerPrefs.SetInt(KeytoValue(uplist[i].key), PlayerPrefs.GetInt(KeytoValue(uplist[i].key)) + uplist[i].value);
         }
+        img.GetComponent<UnityEngine.UI.Button>().enabled = false;
         img.SetInteger("상태", 1);
+        PlayerPrefs.SetString("슬롯" + index.ToString(), "");
+        Singleton.Instance.RollManager.use();
+        Singleton.Instance.textRefresh();
+    }
+
+    public void slideIn()
+    {
+        img.SetInteger("상태", 0);
     }
 }

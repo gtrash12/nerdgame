@@ -60,9 +60,36 @@ public class Singleton
     public List<string> legend = new List<string>();
     private XmlDocument ItemXml = new XmlDocument();
 
-    public void init()
+    public RollScript RollManager;
+    public AudioSource SFXSource;
+    public GuageScript HpG;
+    public UnityEngine.UI.Text energyT;
+    public UnityEngine.UI.Text powT;
+    public UnityEngine.UI.Text intT;
+    public UnityEngine.UI.Text lookT;
+    public UnityEngine.UI.Text conT;
+    public UnityEngine.UI.Text pieT;
+    public UnityEngine.UI.Text artT;
+
+    public void init(RollScript roll, AudioSource SFXSource,GuageScript hpg, UnityEngine.UI.Text energyt, UnityEngine.UI.Text powt, UnityEngine.UI.Text intt, UnityEngine.UI.Text lookt, UnityEngine.UI.Text cont, UnityEngine.UI.Text piet, UnityEngine.UI.Text artt)
     {
+        RollManager = roll;
+        this.SFXSource = SFXSource;
+        HpG = hpg;
+        energyT = energyt;
+        powT = powt;
+        intT = intt;
+        lookT = lookt;
+        conT = cont;
+        pieT = piet;
+        artT = artt;
+
+
+        //xml로드
         ItemXml.LoadXml(Resources.Load<TextAsset>("아이템데이터").text);
+
+
+        //능력치
         PlayerPrefs.GetInt("체력", 100);
         PlayerPrefs.GetInt("최대체력", 100);
         PlayerPrefs.GetInt("힘", 10);
@@ -73,14 +100,20 @@ public class Singleton
         PlayerPrefs.GetInt("화술", 0);
         PlayerPrefs.GetInt("신앙심", 0);
         PlayerPrefs.GetInt("예술", 0);
-        PlayerPrefs.GetInt("인성", 0);
 
         // 행동
-        PlayerPrefs.SetInt("조깅", 1);
-        PlayerPrefs.SetInt("삼각김밥", 1);
+        PlayerPrefs.GetInt("조깅", 1);
+        PlayerPrefs.GetInt("삼각김밥", 1);
         PlayerPrefs.GetInt("자습", 0);
         PlayerPrefs.GetInt("팔굽혀펴기", 0);
         PlayerPrefs.GetInt("얼굴마사지", 0);
+
+        //슬롯
+        PlayerPrefs.GetString("슬롯0", "");
+        PlayerPrefs.GetString("슬롯1", "");
+        PlayerPrefs.GetString("슬롯2", "");
+        PlayerPrefs.GetString("슬롯3", "");
+        PlayerPrefs.GetString("슬롯4", "");
         LoadItem();
     }
 
@@ -174,5 +207,17 @@ public class Singleton
         {
             legend.Add(key);
         }
+    }
+
+    public void textRefresh()
+    {
+        energyT.text = PlayerPrefs.GetInt("에너지").ToString() +" / 20";
+        powT.text = PlayerPrefs.GetInt("힘").ToString();
+        intT.text = PlayerPrefs.GetInt("지능").ToString();
+        lookT.text = PlayerPrefs.GetInt("외모").ToString();
+        conT.text = PlayerPrefs.GetInt("화술").ToString();
+        pieT.text = PlayerPrefs.GetInt("신앙심").ToString();
+        artT.text = PlayerPrefs.GetInt("예술").ToString();
+        HpG.Refresh();
     }
 }

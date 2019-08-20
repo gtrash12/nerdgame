@@ -25,6 +25,7 @@
 <Con></Con>
 <Pie></Pie>
 <Art></Art>
+<Earn></Earn>
 </Item>
 <Item key="">
 <Korean></Korean>
@@ -51,5 +52,6 @@
 <Con></Con>
 <Pie></Pie>
 <Art></Art>
+<Earn></Earn>
 </Item>
 </Root>

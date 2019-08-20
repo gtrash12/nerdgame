@@ -67,7 +67,6 @@ public class BattleScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Singleton.Instance.init();
         SetData();   
     }
 
@@ -165,7 +164,7 @@ public class BattleScript : MonoBehaviour
         Enem.enabled = true;
         enemIndex++;
         
-        power = PlayerPrefs.GetInt("힘") + 30;
+        power = PlayerPrefs.GetInt("힘");
     }
 
     public void Fight()
