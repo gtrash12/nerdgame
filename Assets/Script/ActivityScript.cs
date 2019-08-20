@@ -6,7 +6,8 @@ public class ActivityScript : MonoBehaviour
 {
     public string Key;
     public UnityEngine.UI.Text name;
-    public Animator img;
+    public UnityEngine.UI.Image img;
+    public Animator Anim;
     public List<TextandImageScript> Costs = new List<TextandImageScript>();
     public List<TextandImageScript> Ups = new List<TextandImageScript>();
 
@@ -34,7 +35,7 @@ public class ActivityScript : MonoBehaviour
     public void set(string key)
     {
         Key = key;
-        img.GetComponent<UnityEngine.UI.Image>().sprite = Resources.Load<Sprite>(key);
+        img.sprite = Resources.Load<Sprite>(key);
         name.text = Singleton.Instance.getLocalItemName(key);
         offAll();
         costlist = Singleton.Instance.getItemCosts(key);
@@ -98,15 +99,20 @@ public class ActivityScript : MonoBehaviour
         {
             PlayerPrefs.SetInt(KeytoValue(uplist[i].key), PlayerPrefs.GetInt(KeytoValue(uplist[i].key)) + uplist[i].value);
         }
-        img.GetComponent<UnityEngine.UI.Button>().enabled = false;
-        img.SetInteger("상태", 1);
+        Anim.GetComponent<UnityEngine.UI.Button>().enabled = false;
+        Anim.SetInteger("상태", 1);
         PlayerPrefs.SetString("슬롯" + index.ToString(), "");
         Singleton.Instance.RollManager.use();
         Singleton.Instance.textRefresh();
     }
 
+    public void getNeedInfo()
+    {
+        Singleton.Instance.NeedManager.set(Key);
+    }
+
     public void slideIn()
     {
-        img.SetInteger("상태", 0);
+        Anim.SetInteger("상태", 0);
     }
 }

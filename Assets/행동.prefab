@@ -60,7 +60,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Key: 
   name: {fileID: 3925437759921033510}
-  img: {fileID: 3925437760371896118}
+  img: {fileID: 3925437760371896113}
+  Anim: {fileID: 3925437760371896118}
   Costs:
   - {fileID: 3925437758824438237}
   - {fileID: 3925437759524405070}

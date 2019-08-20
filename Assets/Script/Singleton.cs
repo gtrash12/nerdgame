@@ -62,6 +62,7 @@ public class Singleton
 
     public RollScript RollManager;
     public AudioSource SFXSource;
+    public NeedMonitorScript NeedManager;
     public GuageScript HpG;
     public UnityEngine.UI.Text energyT;
     public UnityEngine.UI.Text powT;
@@ -71,10 +72,11 @@ public class Singleton
     public UnityEngine.UI.Text pieT;
     public UnityEngine.UI.Text artT;
 
-    public void init(RollScript roll, AudioSource SFXSource,GuageScript hpg, UnityEngine.UI.Text energyt, UnityEngine.UI.Text powt, UnityEngine.UI.Text intt, UnityEngine.UI.Text lookt, UnityEngine.UI.Text cont, UnityEngine.UI.Text piet, UnityEngine.UI.Text artt)
+    public void init(RollScript roll, AudioSource SFXSource, NeedMonitorScript NeedManager, GuageScript hpg, UnityEngine.UI.Text energyt, UnityEngine.UI.Text powt, UnityEngine.UI.Text intt, UnityEngine.UI.Text lookt, UnityEngine.UI.Text cont, UnityEngine.UI.Text piet, UnityEngine.UI.Text artt)
     {
         RollManager = roll;
         this.SFXSource = SFXSource;
+        this.NeedManager = NeedManager;
         HpG = hpg;
         energyT = energyt;
         powT = powt;
@@ -185,7 +187,11 @@ public class Singleton
     public string getLocalItemName(string key)
     {
         return ItemXml.SelectSingleNode("Root/Item[@key='" + key + "']/"+PlayerPrefs.GetString("Language")).InnerText;
-        
+    }
+
+    public int getItemUnlockCost(string key)
+    {
+        return System.Convert.ToInt16(ItemXml.SelectSingleNode("Root/Item[@key='" + key + "']/CostUnlock").InnerText);
     }
 
     public void addItem(string key)

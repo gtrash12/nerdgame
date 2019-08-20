@@ -28,14 +28,14 @@ public class RollScript : MonoBehaviour
         {
             string k = PlayerPrefs.GetString("슬롯" + i.ToString());
             if (k == "") {
-                slots[i].img.SetInteger("상태", 1);
+                slots[i].Anim.SetInteger("상태", 1);
                 usedSlot++;
                 continue;
             }
             slots[i].img.GetComponent<UnityEngine.UI.Button>().enabled = true;
             slots[i].set(k);
-            slots[i].img.Play("슬롯_오른쪽");
-            slots[i].img.SetInteger("상태", 0);
+            slots[i].Anim.Play("슬롯_오른쪽");
+            slots[i].Anim.SetInteger("상태", 0);
         }
         if (usedSlot == 5)
             roll();
@@ -59,8 +59,8 @@ public class RollScript : MonoBehaviour
             int r = Random.Range(0, item.Count);
             PlayerPrefs.SetString("슬롯" + i.ToString(), item[r]);
             slots[i].set(item[r]);
-            slots[i].img.Play("슬롯_오른쪽");
-            slots[i].img.SetInteger("상태", 1);
+            slots[i].Anim.Play("슬롯_오른쪽");
+            slots[i].Anim.SetInteger("상태", 1);
             slots[i].Invoke("slideIn", 0.2f*i);
             slots[i].img.GetComponent<UnityEngine.UI.Button>().enabled = true;
         }
