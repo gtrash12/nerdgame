@@ -157,7 +157,6 @@ public class Singleton
         List<itAttribute> atts = new List<itAttribute>();
         foreach(XmlNode i in lst)
         {
-            Debug.Log(i.Name);
             atts.Add(new itAttribute(i.Name, System.Convert.ToInt16(i.InnerText)));
         }
         return atts;
@@ -169,7 +168,6 @@ public class Singleton
         List<itAttribute> atts = new List<itAttribute>();
         foreach (XmlNode i in lst)
         {
-            Debug.Log(i.Name);
             atts.Add(new itAttribute(i.Name, System.Convert.ToInt16(i.InnerText)));
         }
         return atts;
@@ -181,7 +179,6 @@ public class Singleton
         List<itAttribute> atts = new List<itAttribute>();
         foreach (XmlNode i in lst)
         {
-            Debug.Log(i.Name);
             atts.Add(new itAttribute(i.Name, System.Convert.ToInt16(i.InnerText)));
         }
         return atts;
@@ -229,6 +226,8 @@ public class Singleton
         conT.text = PlayerPrefs.GetInt("화술").ToString();
         pieT.text = PlayerPrefs.GetInt("신앙심").ToString();
         artT.text = PlayerPrefs.GetInt("예술").ToString();
+        if (PlayerPrefs.GetInt("체력") > PlayerPrefs.GetInt("최대체력"))
+            PlayerPrefs.SetInt("체력", PlayerPrefs.GetInt("최대체력"));
         HpG.Refresh();
     }
 }
