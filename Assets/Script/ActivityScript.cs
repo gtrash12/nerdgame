@@ -16,8 +16,13 @@ public class ActivityScript : MonoBehaviour
 
     private void Start()
     {
-        if (Key != "")
-            set(Key);
+        if (Key != "" && costlist.Count == 0)
+        {
+            if (PlayerPrefs.GetInt(Key) != 0)
+                gameObject.SetActive(false);
+            else
+                set(Key);
+        }
     }
 
     public void offAll()
@@ -108,7 +113,7 @@ public class ActivityScript : MonoBehaviour
 
     public void getNeedInfo()
     {
-        Singleton.Instance.NeedManager.set(Key);
+        Singleton.Instance.NeedManager.set(this);
     }
 
     public void slideIn()

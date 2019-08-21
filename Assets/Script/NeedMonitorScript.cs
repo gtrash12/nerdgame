@@ -5,12 +5,16 @@ using UnityEngine;
 public class NeedMonitorScript : MonoBehaviour
 {
     public List<ValuetoTextScript> Needs = new List<ValuetoTextScript>();
+    public ActivityScript selectedItem;
     int cost;
-    public void set(string key)
+
+    public void set(ActivityScript item)
     {
+        selectedItem = item;
+        
         bool deserve = true; 
         offAll();
-        List<itAttribute> needlist = Singleton.Instance.getItemNeeds(key);
+        List<itAttribute> needlist = Singleton.Instance.getItemNeeds(selectedItem.Key);
 
         for (int i = 0; i < needlist.Count; i++)
         {
@@ -23,7 +27,7 @@ public class NeedMonitorScript : MonoBehaviour
         }
         if (deserve == true)
         {
-            cost = Singleton.Instance.getItemUnlockCost(key);
+            cost = Singleton.Instance.getItemUnlockCost(selectedItem.Key);
             Needs[7].set(cost);
             Needs[7].gameObject.SetActive(true);
         }
@@ -37,6 +41,19 @@ public class NeedMonitorScript : MonoBehaviour
             i.gameObject.SetActive(false);
         }
     }
+
+   public void Buy()
+    {
+        if (PlayerPrefs.GetInt("돈") < cost)
+            return;
+        PlayerPrefs.SetInt("돈", PlayerPrefs.GetInt("돈") - cost);
+        Singleton.Instance.addItem(selectedItem.Key);
+        Singleton.Instance.textRefresh();
+        selectedItem.gameObject.SetActive(false);
+    }
+
+
+
 
     int KeytoIndex(string key)
     {

@@ -64,6 +64,7 @@ public class Singleton
     public AudioSource SFXSource;
     public NeedMonitorScript NeedManager;
     public GuageScript HpG;
+    public UnityEngine.UI.Text MoneyT;
     public UnityEngine.UI.Text energyT;
     public UnityEngine.UI.Text powT;
     public UnityEngine.UI.Text intT;
@@ -72,11 +73,12 @@ public class Singleton
     public UnityEngine.UI.Text pieT;
     public UnityEngine.UI.Text artT;
 
-    public void init(RollScript roll, AudioSource SFXSource, NeedMonitorScript NeedManager, GuageScript hpg, UnityEngine.UI.Text energyt, UnityEngine.UI.Text powt, UnityEngine.UI.Text intt, UnityEngine.UI.Text lookt, UnityEngine.UI.Text cont, UnityEngine.UI.Text piet, UnityEngine.UI.Text artt)
+    public void init(RollScript roll, AudioSource SFXSource, NeedMonitorScript NeedManager, UnityEngine.UI.Text MoneyT, GuageScript hpg, UnityEngine.UI.Text energyt, UnityEngine.UI.Text powt, UnityEngine.UI.Text intt, UnityEngine.UI.Text lookt, UnityEngine.UI.Text cont, UnityEngine.UI.Text piet, UnityEngine.UI.Text artt)
     {
         RollManager = roll;
         this.SFXSource = SFXSource;
         this.NeedManager = NeedManager;
+        this.MoneyT = MoneyT;
         HpG = hpg;
         energyT = energyt;
         powT = powt;
@@ -109,6 +111,7 @@ public class Singleton
         PlayerPrefs.GetInt("자습", 0);
         PlayerPrefs.GetInt("팔굽혀펴기", 0);
         PlayerPrefs.GetInt("얼굴마사지", 0);
+;
 
         //슬롯
         PlayerPrefs.GetString("슬롯0", "");
@@ -213,10 +216,12 @@ public class Singleton
         {
             legend.Add(key);
         }
+        PlayerPrefs.SetInt(key, 1);
     }
 
     public void textRefresh()
     {
+        MoneyT.text = PlayerPrefs.GetInt("돈").ToString();
         energyT.text = PlayerPrefs.GetInt("에너지").ToString() +" / 20";
         powT.text = PlayerPrefs.GetInt("힘").ToString();
         intT.text = PlayerPrefs.GetInt("지능").ToString();

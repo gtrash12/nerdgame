@@ -8,6 +8,7 @@ public class GameManagerScript : MonoBehaviour
     public AudioSource SFXSource;
     public NeedMonitorScript NeedManager;
     public GuageScript HpG;
+    public UnityEngine.UI.Text MoneyT;
     public UnityEngine.UI.Text energyT;
     public UnityEngine.UI.Text powT;
     public UnityEngine.UI.Text intT;
@@ -18,7 +19,7 @@ public class GameManagerScript : MonoBehaviour
 
     void Awake()
     {
-        Singleton.Instance.init(RollManager, SFXSource, NeedManager, HpG, energyT, powT,intT,lookT,conT,pieT,artT);
+        Singleton.Instance.init(RollManager, SFXSource, NeedManager, MoneyT, HpG, energyT, powT,intT,lookT,conT,pieT,artT);
         Singleton.Instance.textRefresh();
     }
 }

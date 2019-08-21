@@ -1902,7 +1902,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uC2A4\uD0EF"
+  m_Text: "\uD6C8\uB828"
 --- !u!222 &198528679
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2272,8 +2272,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1915626499}
-        m_MethodName: reroll
+      - m_Target: {fileID: 2075820554}
+        m_MethodName: Buy
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5920,6 +5920,7 @@ MonoBehaviour:
   SFXSource: {fileID: 279324241}
   NeedManager: {fileID: 2075820554}
   HpG: {fileID: 1583081300}
+  MoneyT: {fileID: 1786634682}
   energyT: {fileID: 2045163537}
   powT: {fileID: 1899878135}
   intT: {fileID: 2081689906}
@@ -24537,7 +24538,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uC2DC\uC124"
+  m_Text: "\uC0C1\uC810"
 --- !u!222 &1585252238
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -28172,7 +28173,7 @@ GameObject:
   - component: {fileID: 2045163538}
   - component: {fileID: 2045163537}
   m_Layer: 5
-  m_Name: "\uB3C8\uD14D\uC2A4\uD2B8"
+  m_Name: "\uC5D0\uB108\uC9C0\uD14D\uC2A4\uD2B8"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28444,6 +28445,7 @@ MonoBehaviour:
   - {fileID: 301593529}
   - {fileID: 718971591}
   - {fileID: 218974358}
+  selectedItem: {fileID: 0}
 --- !u!1001 &2078548196
 PrefabInstance:
   m_ObjectHideFlags: 0
