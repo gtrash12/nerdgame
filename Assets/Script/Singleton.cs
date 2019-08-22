@@ -262,4 +262,25 @@ public class Singleton
             PlayerPrefs.SetInt("체력", PlayerPrefs.GetInt("최대체력"));
         HpG.Refresh();
     }
+
+    public void Heal(int d)
+    {
+        int hp = PlayerPrefs.GetInt("체력");
+        if (hp > PlayerPrefs.GetInt("최대체력"))
+            PlayerPrefs.SetInt("체력", PlayerPrefs.GetInt("최대체력"));
+        else
+            PlayerPrefs.SetInt("체력", hp + d);
+        HpG.Refresh();
+    }
+
+    public void EnergyGain(int d, bool bound = true)
+    {
+        int e = PlayerPrefs.GetInt("에너지");
+        if (bound && e > 19)
+            e = 20;
+        else
+            e += d;
+        PlayerPrefs.SetInt("에너지", e);
+        energyT.text = e.ToString() + " / 20";
+    }
 }
