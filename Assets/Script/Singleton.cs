@@ -94,6 +94,35 @@ public class Singleton
 
 
         //능력치
+        if(PlayerPrefs.HasKey("체력") != true)
+        {
+            PlayerPrefs.SetInt("체력", 100);
+            PlayerPrefs.SetInt("최대체력", 100);
+            PlayerPrefs.SetInt("힘", 10);
+            PlayerPrefs.SetInt("돈", 0);
+            PlayerPrefs.SetInt("에너지", 20);
+            PlayerPrefs.SetInt("지능", 0);
+            PlayerPrefs.SetInt("외모", 0);
+            PlayerPrefs.SetInt("화술", 0);
+            PlayerPrefs.SetInt("신앙심", 0);
+            PlayerPrefs.SetInt("예술", 0);
+
+            // 행동
+            PlayerPrefs.SetInt("조깅", 1);
+            PlayerPrefs.SetInt("삼각김밥", 1);
+            PlayerPrefs.SetInt("자습", 0);
+            PlayerPrefs.SetInt("팔굽혀펴기", 0);
+            PlayerPrefs.SetInt("얼굴마사지", 0);
+            ;
+
+            //슬롯
+            PlayerPrefs.SetString("슬롯0", "");
+            PlayerPrefs.SetString("슬롯1", "");
+            PlayerPrefs.SetString("슬롯2", "");
+            PlayerPrefs.SetString("슬롯3", "");
+            PlayerPrefs.SetString("슬롯4", "");
+        }
+        /*
         PlayerPrefs.GetInt("체력", 100);
         PlayerPrefs.GetInt("최대체력", 100);
         PlayerPrefs.GetInt("힘", 10);
@@ -106,8 +135,8 @@ public class Singleton
         PlayerPrefs.GetInt("예술", 0);
 
         // 행동
-        PlayerPrefs.GetInt("조깅", 1);
-        PlayerPrefs.GetInt("삼각김밥", 1);
+        PlayerPrefs.SetInt("조깅", 1);
+        PlayerPrefs.SetInt("삼각김밥", 1);
         PlayerPrefs.GetInt("자습", 0);
         PlayerPrefs.GetInt("팔굽혀펴기", 0);
         PlayerPrefs.GetInt("얼굴마사지", 0);
@@ -119,6 +148,9 @@ public class Singleton
         PlayerPrefs.GetString("슬롯2", "");
         PlayerPrefs.GetString("슬롯3", "");
         PlayerPrefs.GetString("슬롯4", "");
+
+        Debug.Log(PlayerPrefs.GetInt("힘"));
+        */
         LoadItem();
     }
 
