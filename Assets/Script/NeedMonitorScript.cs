@@ -45,7 +45,10 @@ public class NeedMonitorScript : MonoBehaviour
    public void Buy()
     {
         if (PlayerPrefs.GetInt("돈") < cost)
+        {
+            Singleton.Instance.PlaySFX("오류");
             return;
+        }
         PlayerPrefs.SetInt("돈", PlayerPrefs.GetInt("돈") - cost);
         Singleton.Instance.addItem(selectedItem.Key);
         Singleton.Instance.textRefresh();

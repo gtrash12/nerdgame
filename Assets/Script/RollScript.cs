@@ -43,8 +43,10 @@ public class RollScript : MonoBehaviour
 
     public void reroll()
     {
-        if (Singleton.Instance.Energy < rerollCost)
+        if (Singleton.Instance.Energy < rerollCost) {
+            Singleton.Instance.PlaySFX("오류");
             return;
+        }
         Singleton.Instance.EnergyGain(-1);
         roll();
         Singleton.Instance.textRefresh();

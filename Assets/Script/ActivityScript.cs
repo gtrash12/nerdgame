@@ -92,6 +92,7 @@ public class ActivityScript : MonoBehaviour
         {
             if(PlayerPrefs.GetInt(KeytoValue(costlist[i].key)) < costlist[i].value)
             {
+                Singleton.Instance.PlaySFX("오류");
                 return;
             }
         }

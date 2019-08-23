@@ -288,4 +288,9 @@ public class Singleton
         energyT.text = e.ToString() + " / 20";
         Energy = e;
     }
+
+    public void PlaySFX(string clip)
+    {
+        SFXSource.PlayOneShot(Resources.Load<AudioClip>(clip));
+    }
 }
