@@ -43,9 +43,9 @@ public class RollScript : MonoBehaviour
 
     public void reroll()
     {
-        if (PlayerPrefs.GetInt("에너지") < rerollCost)
+        if (Singleton.Instance.Energy < rerollCost)
             return;
-        PlayerPrefs.SetInt("에너지", PlayerPrefs.GetInt("에너지") - 1);
+        Singleton.Instance.EnergyGain(-1);
         roll();
         Singleton.Instance.textRefresh();
     }

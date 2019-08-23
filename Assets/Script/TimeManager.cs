@@ -56,7 +56,7 @@ public class TimeManager : MonoBehaviour
         while (true)
         {
             now = sysTime.AddSeconds(Time.unscaledTime);
-            if (Energy < 20)
+            if (Singleton.Instance.Energy < 20)
             {
                 EnergyBox.SetActive(true);
                 int remain = 15 - now.Minute % 15;
@@ -66,9 +66,6 @@ public class TimeManager : MonoBehaviour
                 if (remain == 15 && now.Second == 0)
                 {
                     Singleton.Instance.EnergyGain(1);
-                    if (PlayerPrefs.GetInt("에너지") >= 20)
-                        EnergyBox.SetActive(false);
-
                 }
                 else
                 {
@@ -85,6 +82,10 @@ public class TimeManager : MonoBehaviour
                         s = (59 - now.Second).ToString();
                     Energyt.text = m + ":" + s;
                 }
+            }
+            else
+            {
+                EnergyBox.SetActive(false);
             }
             Debug.Log(now);
             yield return new WaitForSecondsRealtime(Time.timeScale - Time.unscaledDeltaTime);
@@ -139,7 +140,7 @@ public class TimeManager : MonoBehaviour
             OldTime = oldDate.AddSeconds(-oldDate.Second);
             resultTime = now - OldTime;
             int difMin = (int)(resultTime.TotalMinutes);
-            Debug.Log("시간차 : " + difMin);
+            Debug.Log("분차 : " + difMin);
             Singleton.Instance.Heal(difMin);
             resultTime = now - OldTime.AddMinutes(-OldTime.Minute % 15);
             difMin = (int)(resultTime.TotalMinutes);

@@ -73,6 +73,8 @@ public class Singleton
     public UnityEngine.UI.Text pieT;
     public UnityEngine.UI.Text artT;
 
+    public int Energy;
+
     public void init(RollScript roll, AudioSource SFXSource, NeedMonitorScript NeedManager, UnityEngine.UI.Text MoneyT, GuageScript hpg, UnityEngine.UI.Text energyt, UnityEngine.UI.Text powt, UnityEngine.UI.Text intt, UnityEngine.UI.Text lookt, UnityEngine.UI.Text cont, UnityEngine.UI.Text piet, UnityEngine.UI.Text artt)
     {
         RollManager = roll;
@@ -276,11 +278,14 @@ public class Singleton
     public void EnergyGain(int d, bool bound = true)
     {
         int e = PlayerPrefs.GetInt("에너지");
-        if (bound && e+d > 19)
+        if (bound && e + d > 19)
             e = 20;
+        else if (e + d < 0)
+            e = 0;
         else
             e += d;
         PlayerPrefs.SetInt("에너지", e);
         energyT.text = e.ToString() + " / 20";
+        Energy = e;
     }
 }
