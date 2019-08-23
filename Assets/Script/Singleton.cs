@@ -266,7 +266,7 @@ public class Singleton
     public void Heal(int d)
     {
         int hp = PlayerPrefs.GetInt("체력");
-        if (hp > PlayerPrefs.GetInt("최대체력"))
+        if (hp+d > PlayerPrefs.GetInt("최대체력"))
             PlayerPrefs.SetInt("체력", PlayerPrefs.GetInt("최대체력"));
         else
             PlayerPrefs.SetInt("체력", hp + d);
@@ -276,7 +276,7 @@ public class Singleton
     public void EnergyGain(int d, bool bound = true)
     {
         int e = PlayerPrefs.GetInt("에너지");
-        if (bound && e > 19)
+        if (bound && e+d > 19)
             e = 20;
         else
             e += d;

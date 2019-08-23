@@ -5639,22 +5639,22 @@ PrefabInstance:
     - target: {fileID: 8763890859535865917, guid: a9a2aa02befdb494fb9c0dd8cb2e5491,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 450
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8763890859535865917, guid: a9a2aa02befdb494fb9c0dd8cb2e5491,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -180
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8763890859535865917, guid: a9a2aa02befdb494fb9c0dd8cb2e5491,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 900
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8763890859535865917, guid: a9a2aa02befdb494fb9c0dd8cb2e5491,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 160
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8763890859535865917, guid: a9a2aa02befdb494fb9c0dd8cb2e5491,
         type: 3}
@@ -5664,7 +5664,7 @@ PrefabInstance:
     - target: {fileID: 8763890859535865917, guid: a9a2aa02befdb494fb9c0dd8cb2e5491,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8763890859535865917, guid: a9a2aa02befdb494fb9c0dd8cb2e5491,
         type: 3}
@@ -5674,7 +5674,7 @@ PrefabInstance:
     - target: {fileID: 8763890859535865917, guid: a9a2aa02befdb494fb9c0dd8cb2e5491,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8763890859535865917, guid: a9a2aa02befdb494fb9c0dd8cb2e5491,
         type: 3}
@@ -6256,6 +6256,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Energyt: {fileID: 623971166}
+  EnergyBox: {fileID: 30834086}
 --- !u!1001 &622934161
 PrefabInstance:
   m_ObjectHideFlags: 0
