@@ -23,7 +23,7 @@ public class GameManagerScript : MonoBehaviour
         init();
         Singleton.Instance.init(RollManager, SFXSource, NeedManager, CollectingManager, MoneyT, HpG, energyT, powT,intT,lookT,conT,pieT,artT);
         Singleton.Instance.textRefresh();
-        //Singleton.Instance.Heal(60);
+        Singleton.Instance.Heal(60);
     }
 
     private void init()

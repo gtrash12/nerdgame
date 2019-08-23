@@ -264,6 +264,14 @@ public class Singleton
             {
                 CollectingManager.get(v, conT, Resources.Load<Sprite>(k));
             }
+            else if (k == "신앙심")
+            {
+                CollectingManager.get(v, pieT, Resources.Load<Sprite>(k));
+            }
+            else if (k == "예술")
+            {
+                CollectingManager.get(v, artT, Resources.Load<Sprite>(k));
+            }
         }
     }
 }

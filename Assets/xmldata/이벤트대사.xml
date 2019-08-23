@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>이미지오프</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>플래시페이드인</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>5</Type>
 		<Korean>잔잔</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>후우! 후우! 후우!
 큰일이다! 소중한 시험대비 필살노트를 잃어버렸다앗!
@@ -20,306 +20,1534 @@
 		<English>ANG! Feel so good!</English>
 		<Japanese>기모찌데스</Japanese>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>나의 추측대로라면 친구가 없어서 점심시간에 잠시 갔던 도서관에서 잃어버린 것!
 지금 전력 대쉬로 되찾으로 가는 중 이라구!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>흔들림</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>플래시</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>6</Type>
 		<Korean>쿵</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>3</Type>
 		<Korean>바운스</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>2</Type>
 		<Korean>고연서</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Korean>쾅!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Korean>쾅!
 하는 소리와 함께 나는 뒤로 꼬꾸라졌다.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>아야야…</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Korean>정신을 차리고 보니 눈 앞에 대량의 책들과 종이들이 널브러져 있고, 그 앞에 나와같이 쓰러진 여학생이 있었다.</Korean>
 		<English>ㅇㅇ</English>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>6</Type>
 		<Korean>푸식</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>흔들림</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>히익!! 죄송합니다!
 다치신 곳은 없나요?!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>파란 넥타이… 선배시니 편하게 말하셔도 돼요.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>아핫..! 1학년이었구나?
 아무튼 미안해! 내가 좀 급해서 뛰어가다가…</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>괜찮으니까요.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Korean>그렇게 말하고는 주섬주섬 주위에 널브러져 있는 책들을 줍기 시작했다.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>…</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Korean>그러곤 잠시 후 어쩐지 심기가 불편해 보이기 시작하더니 갑자기 날 째려보기 시작했다.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>6</Type>
 		<Korean>의문</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>플래시</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>..?</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>3</Type>
 		<Korean>바운스</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>보기만 하지 마시고, 가시던지, 도와주시던지 할 일을 하시죠?</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>아앗! 으, 응! 나 때문에 이렇게 된 거니 도와줘야지!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>페이드전환</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>후! 드디어 다 끝났네.
 미안했었다구?</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>그런데 무슨 책을 이렇게 많이 들고 다니는 거야?</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>바쁘신거 아니었나요?</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>앗! 맞다! 내 시험대비 필살노트!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>혹시 도서실에 있던 노트가 선배 것이 었나요?</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>오우! 역시 도서관에 있던 것인가!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>그럼 이 몸은 이만!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>흔들림</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>잠시만요!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Korean>다시 도서관으로 향하려던 찰나 후배가 등 뒤를 잡아끌었다.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>으, 응? 왜 그러는 걸까나?
 혹시 이 몸에게 한 눈에 반했다거나?</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>아뇨, 그게…
 혹시 중간고사까지 저에게 공부를 가르쳐주실 수 있나해서.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>귀찮은데…</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>부탁드릴게요!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>응? 왜 굳이 나에게.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>사실 선배의 노트 몰래 봤어요.
 그 정도의 노트를 만들 수 있다면 분명 공부를 엄청 잘 하는 사람이라 생각해서 부탁드리는 거에요.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>호오! 이 몸의 금서를 훔쳐보다니!
 하지만 칭찬해도 이 몸의 마음은 변하지 않는다구?</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>…</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>그렇게 단호히 말하시면 어쩔 수 없죠.
 죄송해요. 바쁘신데 붙잡고 있어서.
 저는 이만 가볼게요.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>이미지오프</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Korean>그렇게 말하고 돌아가는 후배는 다리를 절뚝거리며 걷고있었다.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>저 다리는 나 때문인 것인가…</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>6</Type>
 		<Korean>파칭</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>플래시</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>오이!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>2</Type>
 		<Korean>고연서</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>…네?</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>이 몸의 충실한 노예가 된다면 공부를 가르쳐 줄 수도 있다만?</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>…</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>선배 쓰레기네요.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>이미지오프</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Korean>벌레를 보는 듯한 경멸의 표정을 남기고 후배는 다시 돌아가려 했다.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>헤에에엑?! 농담이라구!
 가르쳐 줄게 후배쨩!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>2</Type>
 		<Korean>고연서</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>정말이죠?</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>사나이 @이름 약속은 지킨다구!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>그럼 매일 점심시간에 도서관에서 선배를 기다리고 있을게요.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>또다시 귀찮은 임무를 떠맡고 말았군!</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>???</Name>
 		<Korean>그러고보니 제 이름도 알려드리지 않았네요.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Name>고연서</Name>
 		<Korean>제 이름은 고연서에요.
 중간고사까지 남은 한 달간 잘 부탁드릴게요 선배.</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>플래시페이드아웃</Korean>
 	</Unit>
-	<Unit key="후배1">
+	<Unit key="고연서1">
+		<Type>4</Type>
+		<Korean>플래시페이드인</Korean>
+	</Unit>
+	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>종료</Korean>
 	</Unit>
-	<Unit key="후배2">
+	<Unit key="고연서2">
 		<Korean>친구가 없어 점심시간에 매일 도서관에서 공부만 하는 나에게 귀여운 후배가 공부를 가르쳐주길 요청해왔다.</Korean>
 	</Unit>
-	<Unit key="후배2">
+	<Unit key="고연서2">
 		<Korean>이름은 고연서, 조금 무뚝뚝한 것 같지만 심성은 착한 애라고 생각한다.
 이 몸의 전력 몸통박치기를 당하고 부상을 입었지만 내가 미안해하지 않도록 내색하지 않은 점에서 그 애의 상냥함을 느꼈다.</Korean>
 	</Unit>
-	<Unit key="후배2">
+	<Unit key="고연서2">
 		<Korean>하지만 배려해주면 오히려 불편해지는 것이 바로 이몸.
 내키지 않았지만 공부를 가르쳐달라는 부탁을 거절할 수 없었던 것이다!</Korean>
 	</Unit>
-	<Unit key="후배2">
+	<Unit key="고연서2">
 		<Type>4</Type>
 		<Korean>흔들림</Korean>
 	</Unit>
-	<Unit key="후배2">
+	<Unit key="고연서2">
 		<Name>주인공</Name>
-		<Korean>그나저나 이 녀석 첫 날부터 지각이냐!</Korean>
+		<Korean>그나저나 이 녀석 첫 날부터 지각이냐!
+선배를 뭘로 보는 거냐고!</Korean>
 	</Unit>
-	<Unit/>
-	<Unit/>
-	<Unit/>
+	<Unit key="고연서2">
+		<Type>6</Type>
+		<Korean>스윽</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>2</Type>
+		<Korean>고연서</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>도서관에서는 조용히 좀 하시죠?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Korean>연서는 그렇게 말하고는 뻔뻔하게 앞자리에 앉았다.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>지금 시간이 몇시인지 아시는 분?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>1시네요.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>그래! 우리 점심시간에 여기서 보기로 했잖아!
+점심시간은 몇시지?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>12시 반이죠.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>그래! 이 공백의 30분!
+하늘같이 높은 선배님이자 너에게 공부를 가르쳐줄 티-쳐인 이몸의 귀중한 시간을 너를 하염없이 기다리는데 쓰게 한 이유를 가르쳐 주실까!</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>선배는 밥 안드세요?
+어떻게 밥도 안먹고 와요?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>난 점심따위 안 먹는다고!!</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>왜 안드시는데요?
+다이어트 하시나?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>그, 그건… 같이먹을 친구가 없어서…</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>하… 혼자 드시면 되잖아요.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>바, 바보야앗! 혼밥따위 할까보냐!!
+쪽팔린다고!!</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>정말 이상한 분이네.
+배 안고파요?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>흥! 신경끄라구!</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연소</Name>
+		<Korean>그러지 말고 이거라도 드세요.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Korean>연서는 주머니에서 초콜릿을 꺼내 내게 건냈다.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>오옷! 사실 배고팠는데 고맙다고 젠장!!
+…랄까? 이 정도는 제자로써 당연한 일이지!</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>네~ 네~ 자 그럼 오늘의 공부 시작해 주세요.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>오케이! 알겠다구!</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>4</Type>
+		<Korean>페이드전환</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>후우~ 오늘은 이 정도로 해둘까?
+어땠지? 어디서도 못 듣는 이 몸의 수업은?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>선배는 의외로 가르치는 데에 소질이 있으시네요.
+평소보다 공부가 더 잘 된 것 같은 느낌이 들어요.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>후후후! 이 정도는 기본이라구?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>자! 그럼 진짜 수업이 시작하기 전에 일어나 볼까?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>저, 선배.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Korean>일어나서 교실로 가려던 찰나에 연서가 불러세웠다.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>왜그럴까나?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>선배 급식먹기 좀 그러시면 제가 도시락이라도 싸드릴까요?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>어, 어엉?! 정말?!
+그래줄꺼야?!</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>수업료 대신이라기엔 뭐하지만… 선배가 원하시면 싸드릴게요.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>흐윽..! 고맙다고 지엔장!!
+…랄까? 이 정도는 배고픈 스승에게 제자로써 당연히 할 수 있는 일이랄까?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>참고로 맛은 보장 못하니까 너무 기대하진 마세요.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>미녀가 싸주는 도시락은 맛없어도 맛있는 법!</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>고연서</Name>
+		<Korean>그럼 내일부턴 옥상에서 공부하는 걸로 해요.
+도서관에서 도시락을 먹을 수는 없으니까요.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Korean>연서는 그렇게 말하고는 뭔가 서둘러 뛰어가는 것 처럼 보였다.</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>흐음… 급한일이라도 있는걸까나?</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>그나저나 저렇게 귀여운 후배와 옥상에서 도시락데이트라니!
+이게 무슨일이냐고 젠장!
+천사냐고!</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>6</Type>
+		<Korean>학교종</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>7</Type>
+		<Korean>2</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Name>주인공</Name>
+		<Korean>아앗! 멍 때리다 지각해버렸!</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>4</Type>
+		<Korean>플래시페이드아웃</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>4</Type>
+		<Korean>플래시페이드인</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>플래시페이드인</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>6</Type>
+		<Korean>종소리</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>7</Type>
+		<Korean>2</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>5</Type>
+		<Korean>추억</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>드디어 점심시간이 왔다.
+어제부터 기대되서 한 숨도 못잤지만 오히려 평소보다 더 기운이 팔팔하다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>서둘러서 옥상에 달려가 옥상 앞에 다다르자 연서가 옥상 문 앞에서 멀뚱멀뚱 기다리고 있었다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>안 들어가고 뭐하는거야?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>2</Type>
+		<Korean>고연서</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>아! 오셨어요?
+지금 들어가기 좀 그래서…</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>왜그러는데?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>문을 통해난 창을 통해 바라보니 그 곳에서 남녀 둘이 찐한 키스를 하고있었다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>풉! 저, 저게 뭐 하는!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>3</Type>
+		<Korean>갸우뚱</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>들어가실 거에요?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>아무리 나라도 저런 곳은 들어갈 수 없다고!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>그럼 어떡하죠?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>일단 나오는 걸 기다려 볼까?
+점심시간이니 점심 먹으려면 곧 나오겠지.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>그렇죠? 금방 나오겠죠?
+그럼 일단 계단에 앉아있죠.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>잠깐!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>옷 더러워지니 내 공책이라도 깔고 앉으라구!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>… 그럴까요?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>페이드전환</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>으..! 왜 이렇게 안나오는 거야!
+점심시간 끝나버렸!!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>에잇! 더는 못 참아! 배고프다고오!!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>나는 그렇게 말하고는 연서가 들고있던 도시락을 뺏어 뚜껑을 열었다.
+그 안에는 샌드위치가 먹음직스럽게 배열되어 있었다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>아, 앗!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>호오! 샌드위치라니 정석이지!
+빨리 먹자! 어제부터 기대되서 죽는 줄 알았다고!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>참…</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>나는 서둘러 샌드위치를 한 입에 던져넣고 맛을 음미했다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>그 모습을 연서는 긴장한 듯이 보고있었다.
+누구에게 자신의 요리를 먹여보는 것이 처음인 것 같은 모습이었다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>어때요?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>으음… 평범하게 맛있달까?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>뭐에요 그게…</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>그렇게 말하고는 연서도 샌드위치를 한 입 베어먹었다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>확실히 평범하긴 하네요.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>속에 계란이랑 햄만 넣은 주제에 얼마나 맛있길 바란거냐!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>그런데 뭘 하길래 이렇게 오랫동안 나오지 않는 걸까요?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>… 야한 일이라던가?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>커헙!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>왜그래?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>3</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>아뇨, 그냥 조금 당황해서…
+흠흠…</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>조금 덥네요…</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>연서는 그렇게 말하고는 손부채질을 시작했다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>호오? 설마 이런 거에 약한 걸까나?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>그러는 선배는 키스해 본 적 있으세요?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>있겠냐고! 이 자식 알면서 맥이려고 물어보는 거지?!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>그러는 너는? 키스해봤어?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>아뇨.
+전 사실 남자와 제대로 대화해 본 적도 없어요.
+아는 남자라고는 선배님 뿐인 걸요…</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>그래도 관심이 없는 것은 아니었어요.
+오래전부터 남자나 연애에 대해 알고싶다고 생각했을지도 몰라요.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>그래서 선배님의 제자를 자처한 걸지도 모르겠네요.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>그렇게 말하고는 연서는 어색한 웃음을 지어보였다.
+그 모습이 평서와는 사뭇 달라보였다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>그, 그렇게 말해도 모른다고!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>그리고는 사뭇 진지한 표정으로 입을 열었다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>저기, 선배는 알고싶지 않으세요?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>뭐, 뭘?</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>키스는 어떤느낌인지…</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>무, 무, 무, 무, 무, 무, 무, 무, 무슨말을 하는거냐아아앗!!!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>고연서</Name>
+		<Korean>저는… 궁금해요.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>그렇게 말하고는 연서의 얼굴이 점점 가까워졌다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Name>주인공</Name>
+		<Korean>머, 머, 머, 멈..!!</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>어둠</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Korean>너무나도 갑자기 찾아온 당황스러운 상황에 나는 무심코 눈을 감아버렸다.</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="고연서3">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>어둠</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>연서가 키스에 대해 알고싶다며 무서운 속도로 얼굴을 접근시켜 나도 모르게 눈을 감아버린지 꽤 시간이 지났다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>그런데 왜 아무일도 일어나지 않는 거지?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>응..?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>2</Type>
+		<Korean>고연서</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>선배도 이런거에 약하신가 보네요.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>5</Type>
+		<Korean>홈</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>연서는 재밌는 구경거리라도 본냥 베시시 웃고있었다.
+난 당했다는 생각이 머리를 스침과 함께 얼굴이 시뻘겋게 달아올랐다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>뭐냐고!!! 선배를 이렇게 놀리는 법이 있냐고오!!</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>3</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>선배님, 뭘 기대하신 거에요?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>따, 딱히? 기대한 건 아니라고!!
+랄까 너따위 별로?
+자, 잘 모르겠고!!!!</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>선배님 평소보다 말투가 더 심하네요.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>시, 시끄럽다고오!</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>이 녀석을 너무 얕보고 있었던 것 같다.
+분명 착한 애지만 승부욕이 강하다는 점을 눈치챘어야 했다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>지금까지 수많은 흑역사를 생성해온 흑역사 생성기인 나지만, 오늘의 흑역사는 그 중 레전드급이다.
+이 일로 앞으로 연서에게 매도당할 걸 생각하면 벌써부터 머리가 지끈거린다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>젠장 제자의 장난에 두근거리다니!
+너무 물렀다고…</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>앞으로 이런 함정에 절대 걸리지 않으리라 다짐하는 순간이었다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>6</Type>
+		<Korean>학교종</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>7</Type>
+		<Korean>2</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>결국 끝까지 안나왔네요.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>그러게 뭘 하는 건지…</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>지금 상상했죠?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>아, 아니라고오!!</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>이녀석 오늘따라 텐션이 높아 성가시다.
+어서 교실로 가야겠다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>종쳤으니 빨리 가자.
+수업 늦겠다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>그래야죠.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>나는 도망치듯 교실로 돌아가서 수업을 들었지만 어째서인지 가슴의 두근거림이 멈추지않았다.
+연서에 대한것이 계속 머리속에 떠오르는 것이었다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>그렇게 정신없는 하루가 지나고 다음날 점심시간이 찾아왔다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>우린 다시 옥상을 찾아갔고 이번에는 아무도 없었다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>오늘은 다행히 낯간지러운 장면을 보지않고 넘어갔네요.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>그럼! 옥상에서 매일 그런 짓 할까보냐!</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>그래서 오늘 점심은 뭘까나?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>오늘은 볶음밥을 만들어 봤는데 어때요?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>비주얼은 그럴듯 한 걸?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>그렇게 말하고는 크게 한 숟가락 떠서 맛을 보았다.
+그 모습을 연서가 진지한 표정으로 지켜보고 있었다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>어때요?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>흐음… 이번엔 정말 맛있는데?
+살짝 매콤한 맛이 내 취향이랄까?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>그래요? 잘 됐네요.
+자, 그럼 공부 시작해볼까요?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>밥 먹으면서 공부하는 거냐?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>어제 못 했으니 오늘은 더 열심히 해야한다구요.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>오홋? 열정이 상당하시군요?
+그럼 이 몸도 그에 보답해서 밥풀을 튀겨가며 열혈강의를 펼쳐볼까나?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>페이드전환</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>이건 이렇게 해서 이렇게 되는 거야.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>흐음… 그렇군요.
+그럼 이건 왜 이렇게 되는 거죠?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>아 그건 이것 때문에 그렇게 되는데…</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>순간 나의 손과 연서의 손이 닿아 흠칫 놀랐다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>아핫! 미안하다구?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>괜찮아요. 이정도 가지고 무슨…
+더 한 것도 괜찮으니 게의치 말고 가르쳐주세요.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>그렇게 말하고는 연서는 내 손에 깍지를 껴왔다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>이 정도까진 용서해 드릴게요.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>그렇게 말하고 또 다시 그때의 그 미소를 지어보였다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>이 녀석 또 나를 함정에 빠트릴 셈이냐?!
+하지만 이 몸은 같은 수에 당하지 않는다고?</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>나는 연서의 손을 뿌리치며 엄근진한 목소리로 말했다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>주인공</Name>
+		<Korean>어허! 알았으니까 집중!</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>아… 네…</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>후후후 저 벙찐 표정!
+너의 그 얕은수에는 두 번 다신 안 걸린다고!</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Name>고연서</Name>
+		<Korean>죄송해요… 집중할게요.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>집중한다고 말은 했지만 연서는 그 후로 뭔가 서운한 듯한 표정을 짓고있었다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>하지만 나는 크게 게의치 않았고 공부를 계속했다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>그 날 이후로도 우리는 계속 옥상에서 도시락을 먹으며 공부했다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>가끔씩 연서가 비슷한 장난을 걸어왔지만 나는 그때마다 단호하게 대응했다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Korean>그런 나날의 연속 속에서 시간은 빠르게 흘러 어느덧 약속했던 시간인 중간고사날이 다가왔다.</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>5</Type>
+		<Korean>잔잔</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>4</Type>
+		<Korean>플래시페이드인</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>중간고사가 끝났다. 학생들은 모두 홀가분한 마음에 서둘러 놀러가기 바빴지만 나와 연서는 학교 옥상에 있었다.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>2</Type>
+		<Korean>고연서</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>끝났네요…</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>그, 그렇네~
+시험은 잘 봤어?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>덕분에요.
+그동안 고마웠어요 선배.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>연서는 정중하게 인사했다.
+나는 나도모르게 고개를 꾸벅했다.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>뭐, 이 몸의 수업이 좀 뛰어나긴 했지만..?
+이 몸의 스파르타식 수업을 따라온 학생도 대단했다 랄까?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>그러는 선배는 시험 잘 보셨나요?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>뭐 이 몸은 평소만큼은 쳤달까?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>선배 공부 잘 하시니 잘 쳤다는 소리죠?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>흠흠… 그렇다고 해 둘까나?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>전부터 묻고 싶었는데… 선배의 그 이상한 말투는 도대체 뭐에요?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>내 말투에 무슨 문제라도?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>뭐가 문제인지도 모르는 거에요?
+그런 말투 계속 쓰다가는 평생 인기 없을 걸요?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>뭣이?! 그럼 나는 평생 여자친구를 못 사귀는 거냐아앗!!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>말투만 바꾸면 된다니까요?
+아, 그리고 살도. 아, 그리고 피부도.
+아, 그리고…</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>4</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>스타압! 욕하고 싶어서 돌려 말하는 거지 너!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>그게아닌데…</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>참내! 자기도 모태솔로면서!
+연애박사인 척 그만 하시지!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>됐고, 또 묻고 싶은 거 없어?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>저 그동안 계속 궁금했던 게 있어요.
+선배는 왜 아무런 대가도 없이 저에게 공부를 가르쳐주신 거에요?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>대가가 없었다니! 맛있는 점심을 매일 얻어먹었잖아!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>그건 제가 중간부터 선배가 점심을 굶는 게 안쓰러워서 해드린 거구요.
+그 전부터 저에게 공부를 가르쳐주기로 하셨잖아요.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>그거야 뭐, 내가 서두르다 네가 다쳤으니까…
+미안해서…</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>정말 그 뿐이에요?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>뭐가 더 있겠냐?!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>그럼 앞으로 우린 어떻게 되는 거에요?
+약속했던 중간고사는 끝나버렸는데…
+이걸로 선배님의 속죄는 끝난 건가요?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>그렇게 되려나..?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>이 녀석은 무슨 말이 하고 싶은 걸까?
+나에게 듣고 싶은 말이 있어 계속 유도하고 있는 거로 보인다.
+내가 무슨 말을 해 줘야 하나?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>그래서 너는 무슨 말이 하고 싶은 건데?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>잠깐의 정적후 연서는 입을 열었다.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>선배에게 공부 배우는 거… 너무 좋았어요.
+하나하나 꼼꼼하게 가르쳐주시고.
+어떤 질문에도 다 대답해주시고.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>저 혼자 공부하는 것 보다 훨씬 재미있고 유익했어요.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>저, 더 배우고 싶어요!
+선배한테 더 배우고 싶어요!</Korean>
+	</Unit>
+	<Unit>
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>선배가 졸업할 때 까지 계속 배우고 싶어요!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>그런 거면 말을 하지!
+어차피 이 몸은 친구가 없어서 점심시간에 한가하다구!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>그것 말고도 선배에게 배우고 싶은게 많아요.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>예를 들면?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>예를 들면, 연인끼리 영화관에 가면 어떤 느낌이 드는지에 대해서 배우고 싶어요.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>어, 엉?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>예를 들면, 연인끼리 맛집탐방하면 어떤 느낌이 드는지에 대해서 배우고 싶어요.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>응?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>예를 들면, 키스는 어떤 느낌인지 배우고 싶어요!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>주인공</Name>
+		<Korean>에에엥?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>예를 들면, 남자친구가 생기면 어떤 느낌인지 배우고 싶어요!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Name>고연서</Name>
+		<Korean>선배에 대해 좀 더 배우고 싶어요…</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>그 말을 끝으로 연서는 고개를 떨구고 말았다.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>이 녀석은 도대체 무슨 말을 한 걸까?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>지금 나에게 도대체 무슨 일이 벌어진 걸까?</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>분명히 함정이다.
+마지막으로 거하게 골탕먹이고 싶어하는 것이 분명하다.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>내가 여기서 고백을 받아들이면 바로 돌변해서 제자에게 흑심을 품은 스승이라 놀리려 하겠지!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>고백을 받아들이면 지는 거다!
+여기선 거절해서 내 체면을 살려야 해!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>거절의 의사를 전달하려던 찰나에 연서의 손을 봤다.
+미세하게 떨리는 손이 내 마음까지 흔드는 것 같았다.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>저것도 연기?
+메소드 연기냐고옷!!</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>분명히 함정인데…
+고백을 받아들이면 지는건데…</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Korean>하지만 난 마지막으로 귀여운 제자에게 져주기로 했다.</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>4</Type>
+		<Korean>플래시페이드아웃</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>4</Type>
+		<Korean>플래시페이드인</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
 	<Unit key="연소고1">
 		<Type>5</Type>
 		<Korean>종료</Korean>

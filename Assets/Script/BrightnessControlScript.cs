@@ -41,7 +41,7 @@ public class BrightnessControlScript : MonoBehaviour
         src.enabled = true;
         targetB = 2;
         spd = 0.5f;
-        next = "OFF";
+        next = "";
         //Invoke("OFF", 5f);
     }
 
@@ -78,6 +78,14 @@ public class BrightnessControlScript : MonoBehaviour
         src.enabled = true;
         targetB = 0;
         spd = 0.5f;
+        next = "";
+    }
+
+    public void Dark()
+    {
+        src.enabled = true;
+        targetB = 0;
+        spd = 5;
         next = "";
     }
 

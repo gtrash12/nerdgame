@@ -107,6 +107,11 @@ public class ScriptEvent : MonoBehaviour
             else if(type == 6)
             {
                 SFXSource.PlayOneShot(Resources.Load<AudioClip>(currentNode.SelectSingleNode("Korean").InnerText));
+            }else if(type == 7)
+            {
+                auto = false;
+                btn.enabled = false;
+                Invoke("getText", System.Convert.ToInt16(currentNode.SelectSingleNode("Korean").InnerText));
             }
             if (auto == true)
             {
@@ -143,9 +148,12 @@ public class ScriptEvent : MonoBehaviour
         }
         else if(ef == "플래시페이드아웃")
         {
+            btn.enabled = false;
             BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
             src.enabled = true;
             src.FlashFadeOut();
+            auto = false;
+            Invoke("getText", 2f);
         }
         else if (ef == "플래시페이드인")
         {
@@ -179,6 +187,12 @@ public class ScriptEvent : MonoBehaviour
             src.FadeIn();
             //auto = false;
             //Invoke("getText", 2f);
+        }
+        else if(ef == "어둠")
+        {
+            BrightnessControlScript src = Effect.GetComponent<BrightnessControlScript>();
+            src.enabled = true;
+            src.Dark();
         }
         else if(ef == "흔들림종료")
         {
