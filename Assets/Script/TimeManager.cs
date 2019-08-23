@@ -87,7 +87,7 @@ public class TimeManager : MonoBehaviour
                 }
             }
             Debug.Log(now);
-            yield return new WaitForSeconds(1 - Time.unscaledDeltaTime);
+            yield return new WaitForSecondsRealtime(Time.timeScale - Time.unscaledDeltaTime);
         }
     }
 
