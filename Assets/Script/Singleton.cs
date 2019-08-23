@@ -64,23 +64,27 @@ public class Singleton
     public AudioSource SFXSource;
     public NeedMonitorScript NeedManager;
     public GuageScript HpG;
-    public UnityEngine.UI.Text MoneyT;
-    public UnityEngine.UI.Text energyT;
-    public UnityEngine.UI.Text powT;
-    public UnityEngine.UI.Text intT;
-    public UnityEngine.UI.Text lookT;
-    public UnityEngine.UI.Text conT;
-    public UnityEngine.UI.Text pieT;
-    public UnityEngine.UI.Text artT;
+    public ValuetoTextScript MoneyT;
+    public ValuetoTextScript energyT;
+    public ValuetoTextScript powT;
+    public ValuetoTextScript intT;
+    public ValuetoTextScript lookT;
+    public ValuetoTextScript conT;
+    public ValuetoTextScript pieT;
+    public ValuetoTextScript artT;
+    public CollectingEffectScript CollectingManager;
 
     public int Energy;
 
-    public void init(RollScript roll, AudioSource SFXSource, NeedMonitorScript NeedManager, UnityEngine.UI.Text MoneyT, GuageScript hpg, UnityEngine.UI.Text energyt, UnityEngine.UI.Text powt, UnityEngine.UI.Text intt, UnityEngine.UI.Text lookt, UnityEngine.UI.Text cont, UnityEngine.UI.Text piet, UnityEngine.UI.Text artt)
+    public void init(RollScript roll, AudioSource SFXSource, NeedMonitorScript NeedManager, CollectingEffectScript CollectingManager
+        , ValuetoTextScript MoneyT, GuageScript hpg, ValuetoTextScript energyt, ValuetoTextScript powt, ValuetoTextScript intt, ValuetoTextScript lookt, ValuetoTextScript cont
+        , ValuetoTextScript piet, ValuetoTextScript artt)
     {
         RollManager = roll;
         this.SFXSource = SFXSource;
         this.NeedManager = NeedManager;
         this.MoneyT = MoneyT;
+        this.CollectingManager = CollectingManager;
         HpG = hpg;
         energyT = energyt;
         powT = powt;
@@ -93,66 +97,6 @@ public class Singleton
 
         //xml로드
         ItemXml.LoadXml(Resources.Load<TextAsset>("아이템데이터").text);
-
-
-        //능력치
-        if(PlayerPrefs.HasKey("체력") != true)
-        {
-            PlayerPrefs.SetInt("체력", 100);
-            PlayerPrefs.SetInt("최대체력", 100);
-            PlayerPrefs.SetInt("힘", 10);
-            PlayerPrefs.SetInt("돈", 0);
-            PlayerPrefs.SetInt("에너지", 20);
-            PlayerPrefs.SetInt("지능", 0);
-            PlayerPrefs.SetInt("외모", 0);
-            PlayerPrefs.SetInt("화술", 0);
-            PlayerPrefs.SetInt("신앙심", 0);
-            PlayerPrefs.SetInt("예술", 0);
-
-            // 행동
-            PlayerPrefs.SetInt("조깅", 1);
-            PlayerPrefs.SetInt("삼각김밥", 1);
-            PlayerPrefs.SetInt("자습", 0);
-            PlayerPrefs.SetInt("팔굽혀펴기", 0);
-            PlayerPrefs.SetInt("얼굴마사지", 0);
-            ;
-
-            //슬롯
-            PlayerPrefs.SetString("슬롯0", "");
-            PlayerPrefs.SetString("슬롯1", "");
-            PlayerPrefs.SetString("슬롯2", "");
-            PlayerPrefs.SetString("슬롯3", "");
-            PlayerPrefs.SetString("슬롯4", "");
-        }
-        /*
-        PlayerPrefs.GetInt("체력", 100);
-        PlayerPrefs.GetInt("최대체력", 100);
-        PlayerPrefs.GetInt("힘", 10);
-        PlayerPrefs.GetInt("돈", 0);
-        PlayerPrefs.GetInt("에너지", 20);
-        PlayerPrefs.GetInt("지능", 0);
-        PlayerPrefs.GetInt("외모", 0);
-        PlayerPrefs.GetInt("화술", 0);
-        PlayerPrefs.GetInt("신앙심", 0);
-        PlayerPrefs.GetInt("예술", 0);
-
-        // 행동
-        PlayerPrefs.SetInt("조깅", 1);
-        PlayerPrefs.SetInt("삼각김밥", 1);
-        PlayerPrefs.GetInt("자습", 0);
-        PlayerPrefs.GetInt("팔굽혀펴기", 0);
-        PlayerPrefs.GetInt("얼굴마사지", 0);
-;
-
-        //슬롯
-        PlayerPrefs.GetString("슬롯0", "");
-        PlayerPrefs.GetString("슬롯1", "");
-        PlayerPrefs.GetString("슬롯2", "");
-        PlayerPrefs.GetString("슬롯3", "");
-        PlayerPrefs.GetString("슬롯4", "");
-
-        Debug.Log(PlayerPrefs.GetInt("힘"));
-        */
         LoadItem();
     }
 
@@ -252,14 +196,14 @@ public class Singleton
 
     public void textRefresh()
     {
-        MoneyT.text = PlayerPrefs.GetInt("돈").ToString();
-        energyT.text = PlayerPrefs.GetInt("에너지").ToString() +" / 20";
-        powT.text = PlayerPrefs.GetInt("힘").ToString();
-        intT.text = PlayerPrefs.GetInt("지능").ToString();
-        lookT.text = PlayerPrefs.GetInt("외모").ToString();
-        conT.text = PlayerPrefs.GetInt("화술").ToString();
-        pieT.text = PlayerPrefs.GetInt("신앙심").ToString();
-        artT.text = PlayerPrefs.GetInt("예술").ToString();
+        MoneyT.txt.text = PlayerPrefs.GetInt("돈").ToString();
+        energyT.txt.text = PlayerPrefs.GetInt("에너지").ToString() +" / 20";
+        powT.txt.text = PlayerPrefs.GetInt("힘").ToString();
+        intT.txt.text = PlayerPrefs.GetInt("지능").ToString();
+        lookT.txt.text = PlayerPrefs.GetInt("외모").ToString();
+        conT.txt.text = PlayerPrefs.GetInt("화술").ToString();
+        pieT.txt.text = PlayerPrefs.GetInt("신앙심").ToString();
+        artT.txt.text = PlayerPrefs.GetInt("예술").ToString();
         if (PlayerPrefs.GetInt("체력") > PlayerPrefs.GetInt("최대체력"))
             PlayerPrefs.SetInt("체력", PlayerPrefs.GetInt("최대체력"));
         HpG.Refresh();
@@ -285,12 +229,41 @@ public class Singleton
         else
             e += d;
         PlayerPrefs.SetInt("에너지", e);
-        energyT.text = e.ToString() + " / 20";
+        energyT.txt.text = e.ToString() + " / 20";
         Energy = e;
     }
 
     public void PlaySFX(string clip)
     {
         SFXSource.PlayOneShot(Resources.Load<AudioClip>(clip));
+    }
+
+    public void StatGain(string k, int v)
+    {
+        int org = PlayerPrefs.GetInt(k);
+        PlayerPrefs.SetInt(k, org + v);
+        if (k == "체력" || k == "최대체력")
+        {
+            HpG.Refresh();
+        }
+        else
+        {
+            if (k == "힘")
+            {
+                CollectingManager.get(v, powT, Resources.Load<Sprite>(k));
+            }
+            else if (k == "지능")
+            {
+                CollectingManager.get(v, intT, Resources.Load<Sprite>(k));
+            }
+            else if (k == "외모")
+            {
+                CollectingManager.get(v, lookT, Resources.Load<Sprite>(k));
+            }
+            else if (k == "화술")
+            {
+                CollectingManager.get(v, conT, Resources.Load<Sprite>(k));
+            }
+        }
     }
 }

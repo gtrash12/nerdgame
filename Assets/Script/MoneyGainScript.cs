@@ -11,10 +11,10 @@ public class MoneyGainScript : MonoBehaviour
     public ValuetoTextScript target;
     int rotatepower;
     // Start is called before the first frame update
-    void Awake()
+    void Start()
     {
         scroll = GetComponent<UIScrollScript>();
-        height = transform.parent.parent.GetComponent<RectTransform>().sizeDelta.y;
+        height = Screen.height;
     }
 
     // Update is called once per frame
@@ -27,30 +27,45 @@ public class MoneyGainScript : MonoBehaviour
         }
     }
 
-    private void OnEnable()
+    public void spread()
     {
         transform.rotation = Quaternion.Euler(new Vector3(Random.Range(0, 90), Random.Range(0, 90), Random.Range(0, 360)));
-        spread();   
-    }
-
-    void spread()
-    {
         rotatepower = 10;
         scroll.enabled = true;
         scroll.pivot = new Vector3(Random.Range(200, 1240), Random.Range(-height/4, -height/4*2), 0);
         scroll.transform.position = new Vector3((scroll.pivot.x-720)*0.2f + 720 , (scroll.pivot.y - height/2) * 0.2f + height/2 , 0);
-        next = "get";
+        next = "spreadGet";
     }
 
-    void get()
+    void spreadGet()
     {
         rotatepower = 0;
         scroll.pivot = new Vector3(100,-100, 0);
         next = "OFF";
     }
 
+    public void get()
+    {
+        scroll.enabled = true;
+        transform.position = Input.mousePosition;
+        rotatepower = 0;
+        scroll.pivot = target.GetComponent<RectTransform>().position;
+        scroll.pivot.y = -height + scroll.pivot.y;
+        next = "OFF";
+    }
+
+    public void minus()
+    {
+        transform.position = target.transform.position;
+        rotatepower = 0;
+        scroll.pivot = target.transform.position;
+        scroll.pivot.y += 20;
+        next = "OFF";
+    }
+
     void OFF()
     {
+        Singleton.Instance.PlaySFX("흡수");
         target.Add(value);
         gameObject.SetActive(false);
     }

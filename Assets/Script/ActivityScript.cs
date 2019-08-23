@@ -100,16 +100,16 @@ public class ActivityScript : MonoBehaviour
         {
             PlayerPrefs.SetInt(KeytoValue(costlist[i].key), PlayerPrefs.GetInt(KeytoValue(costlist[i].key)) - costlist[i].value);
         }
-
+        Singleton.Instance.textRefresh();
         for (int i = 0; i < uplist.Count; i++)
         {
-            PlayerPrefs.SetInt(KeytoValue(uplist[i].key), PlayerPrefs.GetInt(KeytoValue(uplist[i].key)) + uplist[i].value);
+            Singleton.Instance.StatGain(KeytoValue(uplist[i].key), uplist[i].value);
         }
         Anim.GetComponent<UnityEngine.UI.Button>().enabled = false;
         Anim.SetInteger("상태", 1);
         PlayerPrefs.SetString("슬롯" + index.ToString(), "");
         Singleton.Instance.RollManager.use();
-        Singleton.Instance.textRefresh();
+        
     }
 
     public void getNeedInfo()

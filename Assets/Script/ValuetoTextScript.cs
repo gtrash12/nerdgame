@@ -9,6 +9,14 @@ public class ValuetoTextScript : MonoBehaviour
     public UnityEngine.UI.Text txt;
     // Start is called before the first frame update
 
+    private void Start()
+    {
+        if(connectedValue != "")
+        {
+            set(PlayerPrefs.GetInt(connectedValue));
+        }
+    }
+
     public void set(int v)
     {
         
