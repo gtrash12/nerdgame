@@ -56,6 +56,11 @@ public class GameManagerScript : MonoBehaviour
             PlayerPrefs.SetString("슬롯2", "");
             PlayerPrefs.SetString("슬롯3", "");
             PlayerPrefs.SetString("슬롯4", "");
+
+            //호감도
+            PlayerPrefs.SetInt("고연서호감도", 0);
+            PlayerPrefs.SetInt("고연서레벨", 0);
+            
         }
         /*
         PlayerPrefs.GetInt("체력", 100);
