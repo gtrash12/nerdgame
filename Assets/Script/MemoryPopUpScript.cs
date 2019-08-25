@@ -7,7 +7,10 @@ public class MemoryPopUpScript : MonoBehaviour
     public UnityEngine.UI.Image Port;
     public UnityEngine.UI.Text NamtT;
     public UnityEngine.UI.Text LevelT;
-    public UnityEngine.UI.Button[] btn1; 
+    public UnityEngine.UI.Image SkillImg;
+    public UnityEngine.UI.Text SkillInfo;
+    public UnityEngine.UI.Button[] btn1;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -37,12 +40,24 @@ public class MemoryPopUpScript : MonoBehaviour
         }
     }
 
-    public void Set(UnityEngine.UI.Text key)
+    public void Set(GirlSlotScript slot)
     {
-        NamtT.text = key.text;
-        Port.sprite = Resources.Load<Sprite>(key.text);
-        LevelT.text = PlayerPrefs.GetInt(key.text + "레벨").ToString();
-        int lv = PlayerPrefs.GetInt(key + "레벨");
+        string k = slot.Name;
+        int lv = slot.lv;
+        NamtT.text = k;
+        Port.sprite = Resources.Load<Sprite>(k);
+        LevelT.text = lv.ToString();
+        SkillImg.sprite = slot.SkillImg.sprite;
+        if (lv == 5)
+        {
+            SkillImg.color = Color.white;
+            SkillInfo.text = slot.SkillInfo;
+        }
+        else
+        {
+            SkillImg.color = Color.gray;
+            SkillInfo.text = "호감도 레벨 5 달성시 획득";
+        }
         for (int i = 0; i < lv; i++)
         {
             btn1[i].interactable = true;

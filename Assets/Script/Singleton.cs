@@ -23,6 +23,14 @@ public class Item{
 }
 */
 
+public class SkillData
+{
+    string key;
+    string name;
+    [TextArea]
+    string info;
+}
+
 public class itAttribute{
     public string key;
     public int value;
@@ -273,5 +281,16 @@ public class Singleton
                 CollectingManager.get(v, artT, Resources.Load<Sprite>(k));
             }
         }
+    }
+
+
+    public int GirlExpBound(int lv)
+    {
+        if (lv == 0) return 50;
+        else if (lv == 1) return 50;
+        else if (lv == 2) return 125;
+        else if (lv == 3) return 250;
+        else if (lv == 4) return 750;
+        else return 1500;
     }
 }

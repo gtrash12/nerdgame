@@ -22,6 +22,10 @@ public class UIScrollScript : MonoBehaviour
         pivot = t.localPosition;
         pivot.x *= -1;
     }
+    public void changePivot(int x)
+    {
+        pivot.x = x;
+    }
     public void SetDefault()
     {
         pivot.y = 0;

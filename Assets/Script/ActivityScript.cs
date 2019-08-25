@@ -120,5 +120,6 @@ public class ActivityScript : MonoBehaviour
     public void slideIn()
     {
         Anim.SetInteger("상태", 0);
+        Singleton.Instance.PlaySFX("쉭");
     }
 }

@@ -18,6 +18,8 @@ public class GameManagerScript : MonoBehaviour
     public ValuetoTextScript artT;
     public CollectingEffectScript CollectingManager;
 
+    public SkillData[] SkillDatas;
+
     void Awake()
     {
         init();

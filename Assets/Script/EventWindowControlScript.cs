@@ -23,6 +23,10 @@ public class EventWindowControlScript : MonoBehaviour
         {
             nVector3.x = Relative.anchoredPosition.x - 5760;
         }
+        else if (Relative.anchoredPosition.x < 0)
+        {
+            nVector3.x = Relative.anchoredPosition.x;
+        }
         else
         {
             nVector3.x = 0;
