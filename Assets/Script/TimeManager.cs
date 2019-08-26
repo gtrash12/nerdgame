@@ -87,7 +87,7 @@ public class TimeManager : MonoBehaviour
             {
                 EnergyBox.SetActive(false);
             }
-            Debug.Log(now);
+           // Debug.Log(now);
             yield return new WaitForSecondsRealtime(1 - Time.unscaledDeltaTime);
         }
     }

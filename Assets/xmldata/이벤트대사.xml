@@ -259,7 +259,7 @@
 	<Unit key="고연서1">
 		<Name>주인공</Name>
 		<Korean>헤에에엑?! 농담이라구!
-가르쳐 줄게 후배쨩!</Korean>
+가르쳐 줄게! 가르쳐 줄게!</Korean>
 	</Unit>
 	<Unit key="고연서1">
 		<Type>2</Type>
@@ -297,6 +297,11 @@
 	<Unit key="고연서1">
 		<Type>4</Type>
 		<Korean>플래시페이드인</Korean>
+	</Unit>
+	<Unit key="고연서1">
+		<Type>8</Type>
+		<Name>고연서레벨</Name>
+		<Korean>2</Korean>
 	</Unit>
 	<Unit key="고연서1">
 		<Type>4</Type>
@@ -551,6 +556,11 @@
 	<Unit key="고연서2">
 		<Type>4</Type>
 		<Korean>플래시페이드인</Korean>
+	</Unit>
+	<Unit key="고연서2">
+		<Type>8</Type>
+		<Name>고연서레벨</Name>
+		<Korean>3</Korean>
 	</Unit>
 	<Unit key="고연서2">
 		<Type>4</Type>
@@ -838,11 +848,12 @@
 	</Unit>
 	<Unit key="고연서3">
 		<Korean>그렇게 말하고는 연서는 어색한 웃음을 지어보였다.
-그 모습이 평서와는 사뭇 달라보였다.</Korean>
+그 모습이 평소와는 사뭇 달라보였다.</Korean>
 	</Unit>
 	<Unit key="고연서3">
 		<Name>주인공</Name>
-		<Korean>그, 그렇게 말해도 모른다고!</Korean>
+		<Korean>그렇게 말하고는 연서는 어색한 웃음을 지어보였다.
+그 모습이 평소와는 사뭇 달라보였다.</Korean>
 	</Unit>
 	<Unit key="고연서3">
 		<Korean>그리고는 사뭇 진지한 표정으로 입을 열었다.</Korean>
@@ -902,6 +913,11 @@
 		<Korean>페이드인</Korean>
 	</Unit>
 	<Unit key="고연서3">
+		<Type>8</Type>
+		<Name>고연서레벨</Name>
+		<Korean>4</Korean>
+	</Unit>
+	<Unit key="고연서3">
 		<Type>4</Type>
 		<Korean>종료</Korean>
 	</Unit>
@@ -937,7 +953,7 @@
 	</Unit>
 	<Unit key="고연서4">
 		<Name>고연서</Name>
-		<Korean>선배도 이런거에 약하신가 보네요.</Korean>
+		<Korean>선배님도 이런거에 약하신가 보네요.</Korean>
 	</Unit>
 	<Unit key="고연서4">
 		<Type>5</Type>
@@ -961,7 +977,7 @@
 	</Unit>
 	<Unit key="고연서4">
 		<Name>주인공</Name>
-		<Korean>뭐냐고!!! 선배를 이렇게 놀리는 법이 있냐고오!!</Korean>
+		<Korean>뭐냐고!!! 하늘같은 선배를 이렇게 놀리는 법이 있냐고오!!</Korean>
 	</Unit>
 	<Unit key="고연서4">
 		<Type>3</Type>
@@ -1234,6 +1250,11 @@
 	<Unit key="고연서4">
 		<Type>4</Type>
 		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="고연서4">
+		<Type>8</Type>
+		<Name>고연서레벨</Name>
+		<Korean>5</Korean>
 	</Unit>
 	<Unit key="고연서4">
 		<Type>4</Type>
@@ -1543,6 +1564,11 @@
 	<Unit key="고연서5">
 		<Type>4</Type>
 		<Korean>플래시페이드인</Korean>
+	</Unit>
+	<Unit key="고연서5">
+		<Type>8</Type>
+		<Name>고연서레벨</Name>
+		<Korean>6</Korean>
 	</Unit>
 	<Unit key="고연서5">
 		<Type>4</Type>

@@ -24,6 +24,8 @@ public class ScriptEvent : MonoBehaviour
     private UnityEngine.UI.Button btn;
     private int i;
     string currentkey;
+
+    public MemoryPopUpScript 호감도창;
     // Start is called before the first frame update
     void Start()
     {
@@ -33,11 +35,6 @@ public class ScriptEvent : MonoBehaviour
         getEvent("후배1");
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     public void SetData()
     {
@@ -111,7 +108,19 @@ public class ScriptEvent : MonoBehaviour
             {
                 auto = false;
                 btn.enabled = false;
+                
                 Invoke("getText", System.Convert.ToInt16(currentNode.SelectSingleNode("Korean").InnerText));
+            }
+            else if (type == 8)
+            {
+                string k = currentNode.SelectSingleNode("Name").InnerText;
+                int pv = PlayerPrefs.GetInt(k);
+                int nv = System.Convert.ToInt16(currentNode.SelectSingleNode("Korean").InnerText);
+                if (pv < nv)
+                {
+                    PlayerPrefs.SetInt(k, nv);
+                }
+                호감도창.current.reFreshValue();
             }
             if (auto == true)
             {

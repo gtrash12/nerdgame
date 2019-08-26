@@ -60,7 +60,7 @@ public class Singleton
     {
 
     }
-
+    private int[] girlEXPBOUND = { 50, 50, 125, 250 , 750, 1500};
     public int hp;
     public List<string> common = new List<string>();
     public List<string> rare = new List<string>();
@@ -286,11 +286,6 @@ public class Singleton
 
     public int GirlExpBound(int lv)
     {
-        if (lv == 0) return 50;
-        else if (lv == 1) return 50;
-        else if (lv == 2) return 125;
-        else if (lv == 3) return 250;
-        else if (lv == 4) return 750;
-        else return 1500;
+        return girlEXPBOUND[lv];
     }
 }

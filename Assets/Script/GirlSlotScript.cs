@@ -14,6 +14,7 @@ public class GirlSlotScript : MonoBehaviour
     public UnityEngine.UI.Image SkillImg;
 
     public int lv;
+    public bool ep;
     // Start is called before the first frame update
     void Start()
     {
@@ -29,10 +30,21 @@ public class GirlSlotScript : MonoBehaviour
             SkillImg.color = Color.white;
         else
             SkillImg.color = Color.gray;
-
-        Level.text = lv.ToString();
-        Value.text = v + "/" + b;
-        LGuage.fillAmount = v / b;
+        if (lv == 6)
+            Level.text = "MAX";
+        else
+            Level.text = lv.ToString();
+        if (v >= b)
+        {
+            Value.text = "에피소드" + lv + "를 감상할 수 있습니다.";
+            ep = true;
+        }
+        else
+        {
+            ep = false;
+            Value.text = v + "/" + b;
+        }
+        LGuage.fillAmount = (float)v / b;
         //Value.text = 
     }
 
