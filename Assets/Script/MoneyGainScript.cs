@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MoneyGainScript : MonoBehaviour
 {
-    UIScrollScript scroll;
+    public UIScrollScript scroll;
     float height;
     string next;
     public int value;
@@ -13,7 +13,6 @@ public class MoneyGainScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        scroll = GetComponent<UIScrollScript>();
         height = Screen.height;
     }
 
@@ -31,7 +30,6 @@ public class MoneyGainScript : MonoBehaviour
     {
         transform.rotation = Quaternion.Euler(new Vector3(Random.Range(0, 90), Random.Range(0, 90), Random.Range(0, 360)));
         rotatepower = 10;
-        scroll.enabled = true;
         scroll.pivot = new Vector3(Random.Range(200, 1240), Random.Range(-height/4, -height/4*2), 0);
         scroll.transform.position = new Vector3((scroll.pivot.x-720)*0.2f + 720 , (scroll.pivot.y - height/2) * 0.2f + height/2 , 0);
         next = "spreadGet";
@@ -46,7 +44,6 @@ public class MoneyGainScript : MonoBehaviour
 
     public void get()
     {
-        scroll.enabled = true;
         transform.position = Input.mousePosition;
         rotatepower = 0;
         scroll.pivot = target.GetComponent<RectTransform>().position;

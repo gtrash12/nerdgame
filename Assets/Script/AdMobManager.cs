@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using UnityEngine;
 using GoogleMobileAds.Api;
 
@@ -19,7 +20,7 @@ public class AdMobManager : MonoBehaviour
         MobileAds.Initialize(appId);
 
         this.RequestBanner();
-        ShowBanner();
+        //ShowBanner();
     }
 
     private void RequestBanner()
@@ -30,7 +31,7 @@ public class AdMobManager : MonoBehaviour
         string AdUnitID = "unDefind";
 #endif
 
-        banner = new BannerView(AdUnitID, AdSize.SmartBanner, AdPosition.Bottom);
+        banner = new BannerView(AdUnitID, AdSize.Banner, AdPosition.Bottom);
 
         // Called when an ad request has successfully loaded.
         banner.OnAdLoaded += HandleOnAdLoaded_banner;
@@ -46,6 +47,7 @@ public class AdMobManager : MonoBehaviour
         AdRequest request = new AdRequest.Builder().Build();
 
         banner.LoadAd(request);
+        
     }
 
     public void ShowBanner()
@@ -61,6 +63,8 @@ public class AdMobManager : MonoBehaviour
     public void HandleOnAdLoaded_banner(object sender, EventArgs args)
     {
         MonoBehaviour.print("HandleAdLoaded event received_banner");
+        
+        
     }
 
     public void HandleOnAdFailedToLoad_banner(object sender, AdFailedToLoadEventArgs args)

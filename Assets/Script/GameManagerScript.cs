@@ -30,6 +30,7 @@ public class GameManagerScript : MonoBehaviour
 
     private void init()
     {
+        //PlayerPrefs.DeleteAll();
         //능력치
         if (PlayerPrefs.HasKey("체력") != true)
         {

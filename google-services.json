@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "204243138335",
+    "firebase_url": "https://nerdgame-36b40.firebaseio.com",
+    "project_id": "nerdgame-36b40",
+    "storage_bucket": "nerdgame-36b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204243138335:android:410fd48e50240836",
+        "android_client_info": {
+          "package_name": "com.GalTra.Nerdgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204243138335-kl2dd1r4p4m93q50a5cev7ebv42lrn80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Wp4G5IJXsvc24Q3JpdtjbV5bDOh0COQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204243138335-kl2dd1r4p4m93q50a5cev7ebv42lrn80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8988512880714262~4909913308"
+    }
+  ],
+  "configuration_version": "1"
+}
