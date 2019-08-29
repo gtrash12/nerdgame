@@ -17,6 +17,9 @@ public class TimeManager : MonoBehaviour
 
     bool PauseChk = false;
 
+    public UnityEngine.UI.Text rewardtimeT;
+    public int rewardtimeremain;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -69,23 +72,22 @@ public class TimeManager : MonoBehaviour
                 }
                 else
                 {
-                    string m;
-                    if ((now.AddMinutes(remain - 1) - now).Minutes < 10)
-                        m = "0" + (now.AddMinutes(remain - 1) - now).Minutes.ToString();
-                    else
-                        m = (now.AddMinutes(remain - 1) - now).Minutes.ToString();
-
-                    string s;
-                    if (59 - now.Second < 10)
-                        s = "0" + (59 - now.Second).ToString();
-                    else
-                        s = (59 - now.Second).ToString();
-                    Energyt.text = m + ":" + s;
+                    Energyt.text = (now.AddMinutes(remain - 1) - now).Minutes.ToString("00") + ":" + (59 - now.Second).ToString("00");
                 }
             }
             else
             {
                 EnergyBox.SetActive(false);
+            }
+
+            if(rewardtimeremain <= 0)
+            {
+                rewardtimeT.text = "광고보고 보상받기";
+            }
+            else
+            {
+                rewardtimeremain--;
+                rewardtimeT.text =(rewardtimeremain / 60).ToString("00") + ":" + (rewardtimeremain % 60).ToString("00");
             }
            // Debug.Log(now);
             yield return new WaitForSecondsRealtime(1 - Time.unscaledDeltaTime);
@@ -110,6 +112,7 @@ public class TimeManager : MonoBehaviour
             PlayerPrefs.SetString("접속체크시간", now.ToBinary().ToString());
             PlayerPrefs.SetInt("연속출석", PlayerPrefs.GetInt("연속출석") + 1);  //연속 출석일 수, 따로 저장
             dayReward = true;
+            Singleton.Instance.EnergyGain(0);
             return;
         }
         else
@@ -185,4 +188,12 @@ public class TimeManager : MonoBehaviour
         }
     }
 
+
+    public bool rewardTimeChk()
+    {
+        if (rewardtimeremain <= 0)
+            return true;
+        else
+            return false;
+    }
 }
