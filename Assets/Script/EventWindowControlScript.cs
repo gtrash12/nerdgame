@@ -8,6 +8,7 @@ public class EventWindowControlScript : MonoBehaviour
     public RectTransform Relative;
     Vector2 nVector2;
     public Vector3 nVector3;
+    public float offset_x;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,15 +22,15 @@ public class EventWindowControlScript : MonoBehaviour
     {
         if (Relative.anchoredPosition.x > 5760)
         {
-            nVector3.x = Relative.anchoredPosition.x - 5760;
+            nVector3.x = Relative.anchoredPosition.x - 5760 + offset_x;
         }
-        else if (Relative.anchoredPosition.x < 0)
+        else if (Relative.anchoredPosition.x < offset_x)
         {
-            nVector3.x = Relative.anchoredPosition.x;
+            nVector3.x = Relative.anchoredPosition.x + offset_x - 1440;
         }
         else
         {
-            nVector3.x = 0;
+            nVector3.x = offset_x;
         }
         nVector2.y =  -950 - Relative.position.y - Relative.anchoredPosition.y/2;
         myRT.sizeDelta = nVector2;

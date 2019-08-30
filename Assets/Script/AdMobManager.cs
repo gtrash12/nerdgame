@@ -171,10 +171,10 @@ public class AdMobManager : MonoBehaviour
 
     public void UserOptToWatchAd()
     {
-        if (rewardBasedVideo.IsLoaded())
+        if (GetComponent<TimeManager>().rewardTimeChk() && rewardBasedVideo.IsLoaded())
         {
             rewardBasedVideo.Show();
-            GetComponent<TimeManager>().rewardtimeremain = 1800;
+            GetComponent<TimeManager>().setRewardTime();
         }
     }
 }

@@ -19,6 +19,7 @@ public class TimeManager : MonoBehaviour
 
     public UnityEngine.UI.Text rewardtimeT;
     public int rewardtimeremain;
+    System.DateTime nextRewardTime;
 
     // Start is called before the first frame update
     void Start()
@@ -79,7 +80,7 @@ public class TimeManager : MonoBehaviour
             {
                 EnergyBox.SetActive(false);
             }
-
+            /*
             if(rewardtimeremain <= 0)
             {
                 rewardtimeT.text = "광고보고 보상받기";
@@ -89,16 +90,32 @@ public class TimeManager : MonoBehaviour
                 rewardtimeremain--;
                 rewardtimeT.text =(rewardtimeremain / 60).ToString("00") + ":" + (rewardtimeremain % 60).ToString("00");
             }
+            */
+            System.TimeSpan rrtime = nextRewardTime - now;
+            if(rrtime.TotalSeconds <= 0)
+            {
+                rewardtimeT.text = "광고보고 보상받기";
+            }
+            else
+            {
+                rewardtimeT.text = "무료 보상까지 남은 시간\n\n"+rrtime.Minutes.ToString("00") + ":" + rrtime.Seconds.ToString("00");
+            }
            // Debug.Log(now);
             yield return new WaitForSecondsRealtime(1 - Time.unscaledDeltaTime);
         }
+    }
+
+    public void setRewardTime()
+    {
+        Debug.Log("보상받음");
+        nextRewardTime = now.AddMinutes(30);
+        PlayerPrefs.SetString("무료보상시간", nextRewardTime.ToBinary().ToString());
     }
 
 
     public void TimeDifCheck(System.DateTime t)
     {
         now = t;
-
         //인터넷 시간을 가져오지 못할 경우 기기 시간으로 참조
         //만일 해킹이 우려된다면 이 예외 사항을 없애면 될 듯....
         if (now.Year < 2000)
@@ -110,14 +127,17 @@ public class TimeManager : MonoBehaviour
         if (PlayerPrefs.HasKey("접속체크시간") == false)
         {
             PlayerPrefs.SetString("접속체크시간", now.ToBinary().ToString());
+            PlayerPrefs.SetString("무료보상시간", now.ToBinary().ToString());
             PlayerPrefs.SetInt("연속출석", PlayerPrefs.GetInt("연속출석") + 1);  //연속 출석일 수, 따로 저장
             dayReward = true;
             Singleton.Instance.EnergyGain(0);
+            nextRewardTime = now;
             return;
         }
         else
         {
             long lastTime = System.Convert.ToInt64(PlayerPrefs.GetString("접속체크시간"));
+            nextRewardTime = System.DateTime.FromBinary(System.Convert.ToInt64(PlayerPrefs.GetString("무료보상시간", now.ToBinary().ToString())));
             System.DateTime oldDate = System.DateTime.FromBinary(lastTime);
 
             //그냥 바로 가져온 시간대로 계산하면 시간적으로 24시간이 넘지 않으면 0일로 계산
@@ -140,6 +160,8 @@ public class TimeManager : MonoBehaviour
                 PlayerPrefs.SetInt("연속출석", PlayerPrefs.GetInt("연속출석") + 1);
             }
 
+
+
             OldTime = oldDate.AddSeconds(-oldDate.Second);
             resultTime = now - OldTime;
             int difMin = (int)(resultTime.TotalMinutes);
@@ -148,6 +170,8 @@ public class TimeManager : MonoBehaviour
             resultTime = now - OldTime.AddMinutes(-OldTime.Minute % 15);
             difMin = (int)(resultTime.TotalMinutes);
             Singleton.Instance.EnergyGain(difMin / 15);
+
+
 
             PlayerPrefs.SetString("접속체크시간", now.ToBinary().ToString());
         }
@@ -191,9 +215,14 @@ public class TimeManager : MonoBehaviour
 
     public bool rewardTimeChk()
     {
-        if (rewardtimeremain <= 0)
+        System.TimeSpan rrtime = nextRewardTime - now;
+        if (rrtime.TotalSeconds <= 0)
+        {
             return true;
+        }
         else
+        {
             return false;
+        }
     }
 }
