@@ -98,7 +98,7 @@ public class TimeManager : MonoBehaviour
             }
             else
             {
-                rewardtimeT.text = "무료 보상까지 남은 시간\n\n"+rrtime.Minutes.ToString("00") + ":" + rrtime.Seconds.ToString("00");
+                rewardtimeT.text = "남은 시간\n"+rrtime.Minutes.ToString("00") + ":" + rrtime.Seconds.ToString("00");
             }
            // Debug.Log(now);
             yield return new WaitForSecondsRealtime(1 - Time.unscaledDeltaTime);
@@ -110,6 +110,7 @@ public class TimeManager : MonoBehaviour
         Debug.Log("보상받음");
         nextRewardTime = now.AddMinutes(30);
         PlayerPrefs.SetString("무료보상시간", nextRewardTime.ToBinary().ToString());
+        rewardtimeT.text = "남은 시간\n30:00";
     }
 
 
