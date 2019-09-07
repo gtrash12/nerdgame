@@ -32,7 +32,10 @@ public class EventWindowControlScript : MonoBehaviour
         {
             nVector3.x = offset_x;
         }
-        nVector2.y =  -950 - Relative.position.y - Relative.anchoredPosition.y/2;
+        //nVector2.y =  -950 - Relative.position.y - Relative.anchoredPosition.y/2;
+        nVector2.y = 20-Relative.position.y - Relative.sizeDelta.y;
+        Debug.Log(Relative.position.y + "\n" + Relative.anchoredPosition.y);
+        Debug.Log(nVector2);
         myRT.sizeDelta = nVector2;
         myRT.anchoredPosition = nVector3;
     }
