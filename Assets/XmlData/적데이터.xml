@@ -6,11 +6,11 @@
 		<Power>5</Power>
 		<Spd>1</Spd>
 		<Reword>100</Reword>
-		<Idle>따까리</Idle>
-		<Hit1>따까리</Hit1>
-		<Hit2>따까리</Hit2>
-		<Hit3>따까리</Hit3>
-		<Attack>따까리</Attack>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
 		<Next>연소고1-1</Next>
 	</Unit>
 	<Unit key="연소고1">
@@ -19,11 +19,479 @@
 		<Power>6</Power>
 		<Spd>1</Spd>
 		<Reword>110</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+		<Next>연소고1엔딩</Next>
+	</Unit>
+	<Unit key="연소고2">
+		<Korean>최진혁</Korean>
+		<Hp>1000</Hp>
+		<Power>5</Power>
+		<Spd>1</Spd>
+		<Reword>100</Reword>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="연소고2">
+		<Korean>곽종훈</Korean>
+		<Hp>1200</Hp>
+		<Power>6</Power>
+		<Spd>1</Spd>
+		<Reword>110</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="연소고2">
+		<Korean>정원호</Korean>
+		<Hp>2000</Hp>
+		<Power>7</Power>
+		<Spd>1</Spd>
+		<Reword>150</Reword>
 		<Idle>따까리</Idle>
 		<Hit1>따까리</Hit1>
 		<Hit2>따까리</Hit2>
 		<Hit3>따까리</Hit3>
-		<Attack>따까리</Attack>
-		<Next>연소고1엔딩</Next>
+		<Attack>일반</Attack>
+		<Next>연소고2-엔딩</Next>
+	</Unit>
+	<Unit key="연소고3">
+		<Korean>한지훈</Korean>
+		<Hp>1000</Hp>
+		<Power>5</Power>
+		<Spd>1</Spd>
+		<Reword>100</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="연소고3">
+		<Korean>배현석</Korean>
+		<Hp>1000</Hp>
+		<Power>5</Power>
+		<Spd>1.2</Spd>
+		<Reword>110</Reword>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="연소고3">
+		<Korean>최효석</Korean>
+		<Hp>1000</Hp>
+		<Power>6</Power>
+		<Spd>1</Spd>
+		<Reword>115</Reword>
+		<Idle>따까리</Idle>
+		<Hit1>따까리</Hit1>
+		<Hit2>따까리</Hit2>
+		<Hit3>따까리</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="연소고3">
+		<Korean>김정호</Korean>
+		<Hp>1200</Hp>
+		<Power>6</Power>
+		<Spd>1</Spd>
+		<Reword>120</Reword>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="연소고3">
+		<Korean>구준헌</Korean>
+		<Hp>1400</Hp>
+		<Power>7</Power>
+		<Spd>1</Spd>
+		<Reword>125</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+		<Next>연소고3-엔딩</Next>
+	</Unit>
+	<Unit key="연소고4">
+		<Korean>서민결</Korean>
+		<Hp>5000</Hp>
+		<Power>10</Power>
+		<Spd>1</Spd>
+		<Reword>700</Reword>
+		<Idle>서민결</Idle>
+		<Hit1>서민결</Hit1>
+		<Hit2>서민결</Hit2>
+		<Hit3>서민결</Hit3>
+		<Attack>일반</Attack>
+		<Next>연소고4-엔딩</Next>
+		<Skill>불타는 주먹</Skill>
+	</Unit>
+	<Unit key="팔공공고1">
+		<Korean>팔공공고생1</Korean>
+		<Hp>2000</Hp>
+		<Power>6</Power>
+		<Spd>1</Spd>
+		<Reword>145</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="팔공공고1">
+		<Korean>팔공공고생2</Korean>
+		<Hp>2000</Hp>
+		<Power>6</Power>
+		<Spd>1</Spd>
+		<Reword>145</Reword>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="팔공공고1">
+		<Korean>팔공공고생3</Korean>
+		<Hp>2100</Hp>
+		<Power>7</Power>
+		<Spd>1</Spd>
+		<Reword>160</Reword>
+		<Idle>따까리</Idle>
+		<Hit1>따까리</Hit1>
+		<Hit2>따까리</Hit2>
+		<Hit3>따까리</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="팔공공고1">
+		<Korean>팔공공고생4</Korean>
+		<Hp>2100</Hp>
+		<Power>7</Power>
+		<Spd>1</Spd>
+		<Reword>160</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="팔공공고1">
+		<Korean>팔공공고생5</Korean>
+		<Hp>2100</Hp>
+		<Power>8</Power>
+		<Spd>1</Spd>
+		<Reword>170</Reword>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
+		<Next>팔공공고1-엔딩</Next>
+	</Unit>
+	<Unit key="팔공공고2">
+		<Korean>팔공공고생1</Korean>
+		<Hp>2700</Hp>
+		<Power>8</Power>
+		<Spd>1</Spd>
+		<Reword>200</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="팔공공고2">
+		<Korean>팔공공고생2</Korean>
+		<Hp>2700</Hp>
+		<Power>8</Power>
+		<Spd>1</Spd>
+		<Reword>200</Reword>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="팔공공고2">
+		<Korean>팔공공고생3</Korean>
+		<Hp>2800</Hp>
+		<Power>9</Power>
+		<Spd>1</Spd>
+		<Reword>230</Reword>
+		<Idle>따까리</Idle>
+		<Hit1>따까리</Hit1>
+		<Hit2>따까리</Hit2>
+		<Hit3>따까리</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="팔공공고2">
+		<Korean>팔공공고생4</Korean>
+		<Hp>2800</Hp>
+		<Power>9</Power>
+		<Spd>1.2</Spd>
+		<Reword>240</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="팔공공고2">
+		<Korean>팔공공고생5</Korean>
+		<Hp>3000</Hp>
+		<Power>9</Power>
+		<Spd>1.2</Spd>
+		<Reword>280</Reword>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
+		<Next>팔공공고2-엔딩</Next>
+	</Unit>
+	<Unit key="팔공공고3">
+		<Korean>김갑평</Korean>
+		<Hp>11000</Hp>
+		<Power>8</Power>
+		<Spd>5</Spd>
+		<Reword>2500</Reword>
+		<Idle>김갑평</Idle>
+		<Hit1>김갑평</Hit1>
+		<Hit2>김갑평</Hit2>
+		<Hit3>김갑평</Hit3>
+		<Attack>일반</Attack>
+		<Next>팔공공고3-엔딩</Next>
+	</Unit>
+	<Unit key="대구대전1">
+		<Korean>국지고생1</Korean>
+		<Hp>4500</Hp>
+		<Power>11</Power>
+		<Spd>1</Spd>
+		<Reword>500</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전1">
+		<Korean>국지고생2</Korean>
+		<Hp>2000</Hp>
+		<Power>25</Power>
+		<Spd>1</Spd>
+		<Reword>500</Reword>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전1">
+		<Korean>국지고생3</Korean>
+		<Hp>4500</Hp>
+		<Power>11</Power>
+		<Spd>1</Spd>
+		<Reword>500</Reword>
+		<Idle>따까리</Idle>
+		<Hit1>따까리</Hit1>
+		<Hit2>따까리</Hit2>
+		<Hit3>따까리</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전1">
+		<Korean>국지고생4</Korean>
+		<Hp>2000</Hp>
+		<Power>25</Power>
+		<Spd>1</Spd>
+		<Reword>500</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전1">
+		<Korean>국지고생5</Korean>
+		<Hp>4500</Hp>
+		<Power>15</Power>
+		<Spd>1</Spd>
+		<Reword>600</Reword>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
+		<Next>대구대전1-엔딩</Next>
+	</Unit>
+	<Unit key="대구대전2">
+		<Korean>국지고생1</Korean>
+		<Hp>4500</Hp>
+		<Power>11</Power>
+		<Spd>1</Spd>
+		<Reword>500</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전2">
+		<Korean>국지고생2</Korean>
+		<Hp>2000</Hp>
+		<Power>25</Power>
+		<Spd>1</Spd>
+		<Reword>500</Reword>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전2">
+		<Korean>국지고생3</Korean>
+		<Hp>4500</Hp>
+		<Power>11</Power>
+		<Spd>1</Spd>
+		<Reword>500</Reword>
+		<Idle>따까리</Idle>
+		<Hit1>따까리</Hit1>
+		<Hit2>따까리</Hit2>
+		<Hit3>따까리</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전2">
+		<Korean>국지고생4</Korean>
+		<Hp>2000</Hp>
+		<Power>25</Power>
+		<Spd>1</Spd>
+		<Reword>500</Reword>
+		<Idle>따까리2</Idle>
+		<Hit1>따까리2</Hit1>
+		<Hit2>따까리2</Hit2>
+		<Hit3>따까리2</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전2">
+		<Korean>국지고생5</Korean>
+		<Hp>4500</Hp>
+		<Power>15</Power>
+		<Spd>1</Spd>
+		<Reword>600</Reword>
+		<Idle>따까리3</Idle>
+		<Hit1>따까리3</Hit1>
+		<Hit2>따까리3</Hit2>
+		<Hit3>따까리3</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전2">
+		<Korean>국지고생6</Korean>
+		<Hp>2500</Hp>
+		<Power>30</Power>
+		<Spd>1</Spd>
+		<Reword>700</Reword>
+		<Idle>따까리</Idle>
+		<Hit1>따까리</Hit1>
+		<Hit2>따까리</Hit2>
+		<Hit3>따까리</Hit3>
+		<Attack>일반</Attack>
+		<Next>대구대전2-엔딩</Next>
+	</Unit>
+	<Unit key="대구대전3">
+		<Korean>정적성</Korean>
+		<Hp>15000</Hp>
+		<Power>20</Power>
+		<Spd>2</Spd>
+		<Reword>5000</Reword>
+		<Idle>정적성</Idle>
+		<Hit1>정적성</Hit1>
+		<Hit2>정적성</Hit2>
+		<Hit3>정적성</Hit3>
+		<Attack>크리티컬히트</Attack>
+		<Next>대구대전3-엔딩</Next>
+	</Unit>
+	<Unit key="대구대전4">
+		<Korean>마동환</Korean>
+		<Hp>25000</Hp>
+		<Power>80</Power>
+		<Spd>0.5</Spd>
+		<Reword>4000</Reword>
+		<Idle>마동환</Idle>
+		<Hit1>마동환</Hit1>
+		<Hit2>마동환</Hit2>
+		<Hit3>마동환</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전4">
+		<Korean>마형환</Korean>
+		<Hp>28000</Hp>
+		<Power>100</Power>
+		<Spd>0.5</Spd>
+		<Reword>6000</Reword>
+		<Idle>마형환</Idle>
+		<Hit1>마형환</Hit1>
+		<Hit2>마형환</Hit2>
+		<Hit3>마형환</Hit3>
+		<Attack>일반</Attack>
+		<Next>대구대전4-엔딩</Next>
+	</Unit>
+	<Unit key="대구대전5">
+		<Korean>김갑평</Korean>
+		<Hp>11000</Hp>
+		<Power>8</Power>
+		<Spd>5</Spd>
+		<Reword>2500</Reword>
+		<Idle>김갑평</Idle>
+		<Hit1>김갑평</Hit1>
+		<Hit2>김갑평</Hit2>
+		<Hit3>김갑평</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전5">
+		<Korean>정적성</Korean>
+		<Hp>15000</Hp>
+		<Power>20</Power>
+		<Spd>2</Spd>
+		<Reword>5000</Reword>
+		<Idle>정적성</Idle>
+		<Hit1>정적성</Hit1>
+		<Hit2>정적성</Hit2>
+		<Hit3>정적성</Hit3>
+		<Attack>크리티컬히트</Attack>
+	</Unit>
+	<Unit key="대구대전5">
+		<Korean>마동환</Korean>
+		<Hp>25000</Hp>
+		<Power>80</Power>
+		<Spd>0.5</Spd>
+		<Reword>4000</Reword>
+		<Idle>마동환</Idle>
+		<Hit1>마동환</Hit1>
+		<Hit2>마동환</Hit2>
+		<Hit3>마동환</Hit3>
+		<Attack>일반</Attack>
+	</Unit>
+	<Unit key="대구대전5">
+		<Korean>마형환</Korean>
+		<Hp>28000</Hp>
+		<Power>100</Power>
+		<Spd>0.5</Spd>
+		<Reword>6000</Reword>
+		<Idle>마형환</Idle>
+		<Hit1>마형환</Hit1>
+		<Hit2>마형환</Hit2>
+		<Hit3>마형환</Hit3>
+		<Attack>일반</Attack>
+		<Next>대구대전5-엔딩</Next>
 	</Unit>
 </Root>

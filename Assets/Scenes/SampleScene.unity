@@ -6856,7 +6856,7 @@ GameObject:
   - component: {fileID: 476235064}
   - component: {fileID: 476235063}
   m_Layer: 5
-  m_Name: "\uD5CC\uD305"
+  m_Name: "\uB370\uC774\uD2B8"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20402,18 +20402,18 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: f30d0ab089eb3364592942b476cf3e0e, type: 3}
-    m_FontSize: 57
+    m_FontSize: 74
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
-    m_MaxSize: 57
+    m_MaxSize: 74
     m_Alignment: 5
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\uD5CC\uD305\uAC00\uAE30"
+  m_Text: "\uB370\uC774\uD2B8"
 --- !u!222 &1335499586
 CanvasRenderer:
   m_ObjectHideFlags: 0
