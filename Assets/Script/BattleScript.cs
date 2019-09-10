@@ -161,6 +161,7 @@ public class BattleScript : MonoBehaviour
         Hit2 = Resources.Load<Sprite>(EnemList[enemIndex].Hit2);
         Hit3 = Resources.Load<Sprite>(EnemList[enemIndex].Hit3);
         Enem.sprite = Idle;
+        EnemAnim.Play("바운스");
         Enem.enabled = true;
         enemIndex++;
         
@@ -203,11 +204,17 @@ public class BattleScript : MonoBehaviour
 
     public void NextEvent()
     {
-        Evs.ScrollPannel.WindowUp();
-        Evs.UnderBar.UnderbarDown();
-        Evs.getEvent(EnemList[enemIndex - 1].next);
-        Evs.Invoke("getText", 0);
-        Evs.UnderBar.GetComponent<Animator>().SetInteger("언더바상태", 0);
+        if (Evs.getEvent(EnemList[enemIndex - 1].next))
+        {
+            Evs.ScrollPannel.WindowUp();
+            Evs.UnderBar.UnderbarDown();
+            Evs.Invoke("getText", 0);
+            Evs.UnderBar.GetComponent<Animator>().SetInteger("언더바상태", 0);
+        }
+        else
+        {
+            Ready();
+        }
     }
 
     void EnemAttack()
@@ -223,5 +230,15 @@ public class BattleScript : MonoBehaviour
 
         PlayerHp.damage(EnemList[enemIndex - 1].power);
         Invoke("EnemAttack", EnemList[enemIndex - 1].spd);
+    }
+
+    public int episodecount(string key)
+    {
+        int count = 1;
+        while (EnemyXml.SelectNodes("Root/Unit[@key='" + key + count + "']").Count >0)
+        {
+            count++;
+        }
+        return count -1;
     }
 }

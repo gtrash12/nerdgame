@@ -23,7 +23,7 @@ public class GirlSlotScript : MonoBehaviour
 
     public void reFreshValue()
     {
-        lv = PlayerPrefs.GetInt(Name + "레벨");
+        lv = PlayerPrefs.GetInt(Name + "레벨",1);
         int v = PlayerPrefs.GetInt(Name + "호감도");
         int b = Singleton.Instance.GirlExpBound(lv);
         if (lv == 5)

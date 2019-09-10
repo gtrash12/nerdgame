@@ -246,6 +246,19 @@ public class Singleton
         SFXSource.PlayOneShot(Resources.Load<AudioClip>(clip));
     }
 
+    public void VolumeFader()
+    {
+        SFXSource.volume += 0.5f * Time.deltaTime;
+        if (SFXSource.volume >= 0.5f)
+        {
+            SFXSource.volume = 0.5f;
+        }
+        else
+        {
+               
+        }
+    }
+
     public void StatGain(string k, int v)
     {
         int org = PlayerPrefs.GetInt(k);

@@ -41,11 +41,15 @@ public class ScriptEvent : MonoBehaviour
         LocalizeFile.LoadXml(ScriptXml.text);
     }
 
-    public void getEvent(string key)
+    public bool getEvent(string key)
     {
+        if (LocalizeFile.SelectNodes("Root/Unit[@key='" + key + "']").Count == 0)
+            return false;
+
         currentkey = key;
         EventNodes = LocalizeFile.SelectNodes("Root/Unit[@key='" + key + "']");
         i = 0;
+        return true;
     }
 
     public void getText()
