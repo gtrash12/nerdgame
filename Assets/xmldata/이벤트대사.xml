@@ -851,11 +851,6 @@
 그 모습이 평소와는 사뭇 달라보였다.</Korean>
 	</Unit>
 	<Unit key="고연서3">
-		<Name>주인공</Name>
-		<Korean>그렇게 말하고는 연서는 어색한 웃음을 지어보였다.
-그 모습이 평소와는 사뭇 달라보였다.</Korean>
-	</Unit>
-	<Unit key="고연서3">
 		<Korean>그리고는 사뭇 진지한 표정으로 입을 열었다.</Korean>
 	</Unit>
 	<Unit key="고연서3">
@@ -1057,7 +1052,7 @@
 		<Korean>아, 아니라고오!!</Korean>
 	</Unit>
 	<Unit key="고연서4">
-		<Korean>이녀석 오늘따라 텐션이 높아 성가시다.
+		<Korean>이 녀석 오늘따라 텐션이 높아 성가시다.
 어서 교실로 가야겠다.</Korean>
 	</Unit>
 	<Unit key="고연서4">
@@ -4600,7 +4595,7 @@
 	</Unit>
 	<Unit key="대구대전3-엔딩">
 		<Type>3</Type>
-		<Korean>부들</Korean>
+		<Korean>흔들</Korean>
 	</Unit>
 	<Unit key="대구대전3-엔딩">
 		<Name>정적성</Name>
@@ -5387,6 +5382,4858 @@
 		<Korean>페이드인</Korean>
 	</Unit>
 	<Unit key="대구대전5-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>홈</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>돼지! 우리 주말에 놀러 가자!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>갑자기 말이냐?
+이 몸은 바쁘다곳!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>네가 뭐가 바쁜데?
+가자 가자 가자아~</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>어딜 가고 싶은 건데?
+랄까, 가겠다는 건 아니고, 듣기만 할 거니깐!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>바다! 부산! 해운대!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>뭐어어엇?!!
+이 날씨에 무슨 바다얏!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>뭐야! 대구 통합 짱 비계 파이터 @이름 이 고작 추위를 두려워 하는 거야?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>흠흠… 그건 아니지만 말이지…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>좋아 갈까!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>그래야 우리 돼지지!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>한아리</Name>
+		<Korean>해운대라, 좋지~</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>아, 아리야!
+너도 갈 거야?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>그보다 너 누군데?!
+돼지! 아는 사이야?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>한아리</Name>
+		<Korean>어머~ 나 모르나?
+얼마 전에 이 돼지가 나한테 공개적으로 고백했다 아이가.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>뭐, 뭣?!
+돼지! 진짜야?!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>진짜 라고나 할까… 가짜 라고나 할까…
+그 일 꺼내면 슬프다고나 할까…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>돼지! 어떻게 이럴 수가 있어!!!
+그럼 두, 둘이 사귀는 사이인 거야?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>한아리</Name>
+		<Korean>내가? 이 돼지랑?
+하!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>나도 사람을 벌레처럼 보는 여자는 싫다곳!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>한아리</Name>
+		<Korean>뭐? 내가 싫다는 거가?!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>아니, 그건 아니고오…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>한아리</Name>
+		<Korean>어쨌든 나도 해운대 갈 거 데이!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>그래… 우리 아리 하고싶은 거 다해…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>누구 맘 대로!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Korean>이렇게 해서 나와 우정이, 아리는 셋이서 해운대로 떠나게 됐다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>대구 통합짱이 되자 마자 이렇게 인기가 많아도 되는 거냐곳!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>와! 해운대다!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>… 그런데 왜 이렇게 사람도 없고 음침하지..?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>해운대란 곳 원래 이런 느낌이야?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>한아리</Name>
+		<Korean>그럴리가 있겠나?
+아무리 비성수기라고 해도 이건 좀 심하데이…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Korean>확실히 이상하리마치 인적이 없고 조용했다.
+마치 죽은 도시 처럼 음침한 기운까지 감돌았다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>… 범죄의 냄새가 나는군!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>한아리</Name>
+		<Korean>또, 또 찐특 발동하네.
+망상 좀 그만해라 안카나! </Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>망상이 아니라곳!
+주말 대낮에 이렇게 인적이 없는 게 말이 되냐곳!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>나도 돼지 말에 동의!
+냄새가 나!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>큿! 너도 &lt;냄새&gt;를 맡을 수 있는 인간인가?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>앗! 뇌절 시작했다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>양아치1</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>양아치</Name>
+		<Korean>응? 뭐고 느그들은!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>양아치</Name>
+		<Korean>ㅋㅋ 우리 눈에 띈 이상 곱게는 못 보내주는 주 알아라!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>양아치</Name>
+		<Korean>돈은 두-둑허게 들고 왔제?
+어여 들고 온나.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>돼지! 주지마!
+너 우리 돼지가 누군지 알아?!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>양아치1</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>양아치</Name>
+		<Korean>ㅋㅋ 누구신데예~
+누구십니콰 대체ㅋㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>최우정</Name>
+		<Korean>대구 통합짱 비계 파이터 @이름 이라고!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>2</Type>
+		<Korean>양아치1</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>양아치</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>양아치</Name>
+		<Korean>푸하하하하하하!!! 비계 파이터랜다! ㅋㅋㅋㅋㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>양아치</Name>
+		<Korean>마! 직이네! 나도 콜라겐 섭취좀 해 보자 마!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1">
+		<Name>주인공</Name>
+		<Korean>얘들아 물러나!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Name>양아치</Name>
+		<Korean>으으… 대구 통합짱이라는 말이 구라가 아니었노…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>4</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Name>한아리</Name>
+		<Korean>이상하다…
+대낮부터 이런 대로에서 양아치들이 삥을 뜯다니…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>4</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Name>최우정</Name>
+		<Korean>그러게…
+돼지, 무서우니까 그냥 가자…
+뭔가 범죄도시 같다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Name>주인공</Name>
+		<Korean>내가 말 했지? 범죄의 냄새가 난다고.
+이 몸의 후각은 뛰어나다고?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Name>한아리</Name>
+		<Korean>아 너 돼지코인거 알았으니까 빨리 가자.
+여기 더 있어서 좋을 거 없을 거 같다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Name>주인공</Name>
+		<Korean>예이 예이~</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Korean>우리는 서둘러 대구로 돌아가기로 했다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>7</Type>
+		<Korean>0.2</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>4</Type>
+		<Korean>어둠</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Korean>하지만, 이 부산은 우리를 곱게 보내줄 생각이 없는 듯 곧바로 사건이 일어나버렸다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸1-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>4</Type>
+		<Korean>어둠</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>6</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Korean>우리는 서둘러 대구로 돌아가기로 했다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Name>최우정</Name>
+		<Korean>아까 그런 일이 있어서 그런가 더 무섭다.
+그치 돼지야.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Name>주인공</Name>
+		<Korean>대구를 통일시킨 무적의 이 몸이 있는 한 걱정하지 말라구!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Name>최우정</Name>
+		<Korean>와! 언제 이렇게 믿음직해 진 거야!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Name>???</Name>
+		<Korean>살려주세요오옷!!!!!!!!!!!!!!!!!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Name>한아리</Name>
+		<Korean>이 소리는…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Name>최우정</Name>
+		<Korean>뭔가 엄청나게 많이 오는데..?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Name>주인공</Name>
+		<Korean>마치 괴짜가족 오프닝을 보는 것 같군!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Name>최우정</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>4</Type>
+		<Korean>지진</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Name>???</Name>
+		<Korean>살려달라고요오오옷!!!!!!!!!!!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Name>주인공</Name>
+		<Korean>어쩔 수 없네…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>해, 행님! 구해주셔서 감사합니데이!!
+즈는 진병호라 함다!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>그건 그런데 보기보다 쎄시네예!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>최우정</Name>
+		<Korean>당연하지! 우리 돼지는 대구 통합 짱이거든!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>대, 대단하심다!!
+햄으로 모시겠습니다!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>한아리</Name>
+		<Korean>그보다 왜 쫓기고 있던 거야?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>으매 이쁜거!!
+햄 처럼 강하면 역시 이렇게 이쁜 아들을 거느리고 다니는 검니까?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>한아리</Name>
+		<Korean>거느리긴 누굴 거느려!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>히익! 죄송함다 죄송함다!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>아까 왜 쫓기고 있었냐고 물으셨지예?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>이유 같은 건 없심다…
+그냥 여기에서는 살려면 준내 튀야합니다…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>지금 여긴 가출하는게 유행처럼 번지고 있심다.
+큰 뜻을 가지고 하는 게 아니고 그자~ 친구따라서, 얕보이지 않을라고, 핵교가기 싫어서 너도나도 가출하고 있심다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>지금에 와서는 가출 하지 않은 놈들은 완전히 찐따취급 받고 있심더.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>한아리</Name>
+		<Korean>여기가 이렇게 삭막해 진 것도 이해가 가네.
+가출팸이 문제 맞제?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>누님 말이 맞심다. 다 가출팸들 때문임다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>아이들이 다 집을 나가니 가정의 웃음이 끊기고, 집을 나간 애들이 먹고살기 위해 가출팸을 형성해 삥을 뜯고 다니니, 이제는 길 거리에서 사람을 볼 수가 없는 지경에 이르렀습니다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>최우정</Name>
+		<Korean>그게 무슨…
+가출이 유행이라니…
+그게 얼마나 오래 지속됐길래 이렇게 된 거야?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>이 상태가 된지 벌써 3개월 째 임다.
+사실 저도 얼마 전에 가출했심니다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>3</Type>
+		<Korean>피격2</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>주인공</Name>
+		<Korean>이 철 없는 자식!
+어디 부모님 가슴에 대못을 박아!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>아! 행님 아픕니다!
+지는 집에 돌아갈낍니다!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>하지만 행님, 집에 돌아가도 이대로는 사는게 사는 것이 아님다…
+지는 봤심더… 집나간 애들이 모여서 뭘 하는지.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>지는 그 걸 보고 이렇게 도망나온 낌니다…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>행님 막아야합니더!!
+이대로 두면 부산은 큰일납니데이!!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>주인공</Name>
+		<Korean>뭐, 뭘 도와달라는 거냐?
+이 몸은 바쁘다고?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Name>진병호</Name>
+		<Korean>가출팸의 리더인 썬더피스트 전광석을 멈춰주십쇼 햄!!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Korean>그렇지 않으면 해운대는 정말 범죄의 왕국이 되어버릴 검다!!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Korean>도무지 현실감이 없는 진병호의 얘기를 곧이 곧대로 믿을 수는 없었지만, 주변의 분위기와 진병호의 절박한 얼굴을 보니 도저히 지나칠 수 없었다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Korean>썬더피스트 전광석… 도대체 가출한 애들을 데리고 무슨 일을 하려는 거냐!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸2-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>6</Type>
+		<Korean>비장</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>진병호</Name>
+		<Korean>전광석의 주도 하에 가출팸 애들이 하려는 짓을 막지 못하면 해운대는 범죄의 왕국이 되어버릴 검다!!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>최우정</Name>
+		<Korean>도대체 무슨 일을 하려하길래 그렇게 심각한 거야?
+서, 설마 살인?!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>주인공</Name>
+		<Korean>말 했지! 내가 범죄의 냄새가 난다곳!!
+아무리 이 몸이라도 살인은 무섭다고!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>진병호</Name>
+		<Korean>살인을 계획하고 있는 건 아닌데 그 만큼 지금 해운대의 상황이 좋지 않다는 겁니데이…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>진병호</Name>
+		<Korean>삥 뜯어서 연명하던 가출팸들도 이렇게 길거리에 사람이 사라진 이후로는 돈을 벌 수단이 없어서 극단적인 방법을 강구한 겁니데이…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>진병호</Name>
+		<Korean>그래서 진병호가 생각한 것이 강도 짓 임다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>한아리</Name>
+		<Korean>이 상황에서 집에 돌아간다 이외의 선택지는 그 거 밖에 없을지도 모르겠네.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>최우정</Name>
+		<Korean>하지만 강도 짓은…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>진병호</Name>
+		<Korean>예… 범죄지예.
+그 것도 아주 심각한 범죄예…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>진병호</Name>
+		<Korean>다들 망설이고 있지만 전광석은 그 놈은 강제로라도 시킬 검니다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>주인공</Name>
+		<Korean>확실히 네 말 대로라면 조만간 돌아올 수 없는 다리를 건너버릴지도 모르겠군…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>주인공</Name>
+		<Korean>좋아 이 몸이 정신 못 차리는 일진들을 혼내줘서 집으로 돌려보내 주겠어!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>최우정</Name>
+		<Korean>역시 돼지야!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>한아리</Name>
+		<Korean>뭐, 이게 너 다운 거겠지.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>진병호</Name>
+		<Korean>해애애애애애앰!!!!!!!!!!!!!!!!!!!!!!
+감동임다!!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>진병호</Name>
+		<Korean>그럼 바로 아지트로 안내 하겠슴다!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Korean>우리는 진병호의 안내에 따라 가출팸의 아지트로 몰래 들어왔다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>진병호</Name>
+		<Korean>여기가 아지트 입니데이.
+그런데 전광석이가 안보이는 거 같은데예?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>양아치1</Korean>
+	</Unit>
+	<Unit>
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>가출청소년</Name>
+		<Korean>너네 뭐고?
+못 보던 아들인데?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>최우정</Name>
+		<Korean>어떡해! 들켰어 돼지야…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>진병호</Name>
+		<Korean>이, 임마들은 새로 가출한 애들인데예…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>2</Type>
+		<Korean>양아치1</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>가출청소년</Name>
+		<Korean>구라치지 마라!!
+교복 보니 이 근방 교복이 아닌데!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Name>가출청소년</Name>
+		<Korean>야들아! 쳐라!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Name>가출청소년</Name>
+		<Korean>돼지 같은게 와이래 쎄노…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Name>주인공</Name>
+		<Korean>전광석은 어딨냐?!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Name>가출청소년</Name>
+		<Korean>광석이..?
+방금 전에 돈 벌러 나갔는데</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Name>진병호</Name>
+		<Korean>돈을 벌로 갔다니…
+설마?! 아니지예?!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Name>가출청소년</Name>
+		<Korean>그거 맞다.
+광석이 금마 말려도 소용없다.
+이미 눈까리 뒤집혔다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Name>진병호</Name>
+		<Korean>행님 빨리 가시죠!
+방금 나갔다 하이 아직 얼마 못 갔을 겁니다!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Name>주인공</Name>
+		<Korean>옷! 가자굿!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸3-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>4</Type>
+		<Korean>어둠</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>5</Type>
+		<Korean>발소리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Korean>우리는 전광석을 찾아 해운대 밤 거리를 정신없이 뛰었다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>진병호</Name>
+		<Korean>행님 여긴 없슴다!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>최우정</Name>
+		<Korean>여기도!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>한아리</Name>
+		<Korean>여기도 없데이.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>6</Type>
+		<Korean>유리깨짐</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>비명소리</Name>
+		<Korean>꺄아아아아아악!!!!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Korean>그 순간 비명소리가 밤하늘에 울려퍼졌다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Korean>소리를 따라 도착한 그 곳에는 이미 돌이킬 수 없는 일이 벌어진 후였다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>2</Type>
+		<Korean>양아치1</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>가출청소년</Name>
+		<Korean>이, 이건 아닌거 같은데…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>2</Type>
+		<Korean>전광석</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>전광석</Name>
+		<Korean>아니긴 뭐가 아니고!
+빨리 돈 될 거나 찾아라!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Korean>그 곳에는 전광석과 가출청소년들, 그리고 머리에 피를 흘리며 쓰러진 여자가 있었다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>최우정</Name>
+		<Korean>탐정아 저 여자 설마 죽은 건 아니겠지..?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>주인공</Name>
+		<Korean>우정아 보지말고 경찰에 신고해줘.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>최우정</Name>
+		<Korean>으, 응!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>한아리</Name>
+		<Korean>결국 해 버렸구마.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>2</Type>
+		<Korean>전광석</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>전광석</Name>
+		<Korean>너거는 뭐고?!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>주인공</Name>
+		<Korean>오늘 부터 너의 담당 일진이 된 @이름 이다!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>전광석</Name>
+		<Korean>찐따가 실성했나.
+야들아 이 것들 정리해라.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>2</Type>
+		<Korean>양아치1</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Name>가출청소년</Name>
+		<Korean>맡겨달라구!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4-엔딩">
+		<Type>2</Type>
+		<Korean>전광석</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4-엔딩">
+		<Name>전광석</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4-엔딩">
+		<Name>전광석</Name>
+		<Korean>니 문데?
+왜 방해하는데?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4-엔딩">
+		<Type>4</Type>
+		<Name>주인공</Name>
+		<Korean>말했잖아, 너의 당담 일진이라고.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4-엔딩">
+		<Name>전광석</Name>
+		<Korean>말로 해서는 안 될 놈이네?
+함 맞자.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸4-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>6</Type>
+		<Korean>비장</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>2</Type>
+		<Korean>전광석</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Name>전광석</Name>
+		<Korean>함 맞자.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Name>진병호</Name>
+		<Korean>행님 조심하십쇼.
+전광석이는 이 전에 꼴통 학교로 소문난 해운공고에서 짱을 먹었던 놈입니다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Name>한아리</Name>
+		<Korean>그러니 썬더피스트라는 별명이 붙었겠지.
+별명은 학교 짱에게만 붙는 거니까.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Name>주인공</Name>
+		<Korean>전 학교 짱이라…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>2</Type>
+		<Korean>전광석</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Name>전광석</Name>
+		<Korean>뭐라 씨부렁 거리고 있노!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>전광석</Name>
+		<Korean>으으…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>주인공</Name>
+		<Korean>자! 이제 방황은 그만 하고 애들을 집으로 돌아가도록!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>전광석</Name>
+		<Korean>싫다!!!
+집에 가면 그 자식이 있으니 절대 안 갈 거다!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>주인공</Name>
+		<Korean>그 자식?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Korean>그 순간 요란한 사이렌 소리가 울려퍼졌고, 곧 경찰이 들이닥쳤다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>경찰</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>경찰</Name>
+		<Korean>움직이지 마!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Korean>그리고 경찰 중 한 명이 전광석에게 뚜벅뚜벅 걸어왔다.
+그리고는…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>6</Type>
+		<Korean>퍽</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>경찰</Name>
+		<Korean>멍청한 놈!!!
+어디서 뭘 하나 했더만… 이게 뭐 하는 짓이야!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Korean>있는 힘껏 전광석을 때렸다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>전광석</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>전광석</Name>
+		<Korean>아부지가 뭔데요?!!!
+아부지가 뭔데요?!!!!!!!!!!!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>주인공</Name>
+		<Korean>아부지?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>경찰</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>경찰</Name>
+		<Korean>… 집에 오지 않은 이유가 뭔냐?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>전광석</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>전광석</Name>
+		<Korean>어머니를 죽인 사람이 있는 집에 어떻게 돌아갑니까?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>경찰</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>경찰</Name>
+		<Korean>뭐?</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>전광석</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>전광석</Name>
+		<Korean>엄마를 죽게 한 그 증오스러운 경찰 제복을 입고 있는 한!
+아부지가 어머니를 죽인 거나 다름 없습니다!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>전광석</Name>
+		<Korean>어떻게 그런 일이 있었는데 아직도 경찰을 하고 있는 겁니까?!
+아부지가 사람입니까?!</Korean>
+	</Unit>
+	<Unit>
+		<Type>2</Type>
+		<Korean>경찰</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>경찰</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>최우정</Name>
+		<Korean>저게 무슨 소리야…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>진병호</Name>
+		<Korean>전광석의 부모님은 두분 다 경찰이셨는데, 어느 날 두 분이 같이 출동했다가, 전광석의 어머님이 순직하셨다고 들었습니다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>진병호</Name>
+		<Korean>경찰에서 오랫동안 쫓았던 범인의 발을 묶기 위해 위험한 걸 알면서도 근처에 있던 비무장 상태의 두 분을 보냈던 거라는 소문이 있었습니다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>최우정</Name>
+		<Korean>그런 일이…</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>전광석</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>전광석</Name>
+		<Korean>더 이상 아부지 얼굴 보고싶지 않습니다!
+잡아서 빵에 넣든 말든 하십쇼!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>경찰</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>경찰</Name>
+		<Korean>너만 이 직업이 미운 게 아니다…
+아빠도 몇 번이나 그만두자고 생각했어.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>경찰</Name>
+		<Korean>하지만 네 엄마가 마지막에 나에게 말했다.
+너 좀 잘 부탁 한다고.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>경찰</Name>
+		<Korean>아빠 그만 못 둔다.
+너 대학가고, 번듯한 직장 얻어서 남부럽지 않게 살 때까지 분하고 억울해도 붙어 있을 거야.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>전광석</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>전광석</Name>
+		<Korean>… 아부지…
+그런 줄도 모르고..!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Korean>경찰은 전광석의 머리를 쓰다듬으며 말했다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>경찰</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>경찰</Name>
+		<Korean>광석아 죗값 치르고 나오면 집에 돌아오는 거다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Korean>전광석은 눈물을 흘리며 대답했다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>전광석</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>전광석</Name>
+		<Korean>예… 갈 겁니다.
+꼭 돌아 갈겁니다..!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Korean>이렇게 해운대에서의 가출 소동은 마무리가 되었다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Korean>우두머리가 사라져서 였는지, 전광석과 그의 아버지의 모습이 인상에 남았는지, 가출한 애들은 모두 집에 돌아갔다고 한다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>2</Type>
+		<Korean>진병호</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>진병호</Name>
+		<Korean>어무이, 아부지. 저 왔습니다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>어무이</Name>
+		<Korean>이눔시키 이거!!
+어딜 갔다가 이제 들어와!!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>진병호</Name>
+		<Korean>히익!! 죄송합니다!!!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>어무이</Name>
+		<Korean>마 됐고! 밥이나 무라!</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Name>진병호</Name>
+		<Korean>… 예~</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Korean>더욱 단단해진 부모와 자식간의 연을 바탕으로</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Korean>해운대는 다시 예전의 활기를 되찾아 갈 것이다.</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="해운대가출팸5-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>5</Type>
+		<Korean>엉뚱</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>어둠</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Korean>우리는 지금 신안에 와 있다.
+왜냐? </Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Korean>우리는 이 곳에 염전노예로 팔려 온 것이다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>선생님</Name>
+		<Korean>뭣 들 하는 거야?
+이런 값진 경험 아무데서나 할 수 있는 게 아니라구?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>주인공</Name>
+		<Korean>선생님! 이건 좀 아닌 것 같습니다만?
+힘들어 죽겠습니다만?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>선생님</Name>
+		<Korean>어허! 젊은 청춘이 이정도로 힘들다 하면 쓰나?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>한아리</Name>
+		<Korean>야 나는 간다.
+내 몫까지 열심히 하고 있어라.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>주인공</Name>
+		<Korean>뭐, 뭣이?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>주인공</Name>
+		<Korean>선생님! 아리가 농땡이 치고 있습니다만!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>선생님</Name>
+		<Korean>한아리! 똑바로 안해?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>한아리</Name>
+		<Korean>너… 두고 봐..!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>주인공</Name>
+		<Korean>그런데 아까부터 주변이 왜 이렇게 소란스럽지?
+마을 사람들이 계속 뛰어다니네…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>한아리</Name>
+		<Korean>뭔 일 났나?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>경찰</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>6</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>경찰</Name>
+		<Korean>거기서!!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>선생님</Name>
+		<Korean>저기 이장님…
+혹시 무슨 일인지 아시나요?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>할아버지</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>이장</Name>
+		<Korean>… 너무 신경 쓰지 마시여.
+요즘 이짝 고등학생들이 말썽이 심하데요.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>5</Type>
+		<Korean>재개</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>선생님</Name>
+		<Korean>어머 그런가요?
+힘드시겠네요.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>할아버지</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type> </Type>
+		<Name>이장</Name>
+		<Korean>그렇지 뭐…
+그건 마을 일이니께 신경 쓰지 마시드라고.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>이장</Name>
+		<Korean>선생님은 그냥 편히 놀면서 지내랑께.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>선생님</Name>
+		<Korean>아… 네…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>한아리</Name>
+		<Korean>여기 학생들도 상태가 영 별로인갑다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>주인공</Name>
+		<Korean>훗 그런가보군…
+이 몸의 손이 닿지 않는 곳은 다 이런 법인 것인가…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>한아리</Name>
+		<Korean>돼지자식 도 맛탱이 갔노…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Korean>그 학생 한 명이 맹렬한 기세로 이 쪽을 향해 달려왔다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>남호석</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>???</Name>
+		<Korean>비켜비켜비켜!!!!!!!!!!!!!!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>할아버지</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>이장</Name>
+		<Korean>히이익!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Korean>그 학생은 곧장 이장에게 달려들어 덮쳤다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>5</Type>
+		<Korean>비장</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>남호석</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>???</Name>
+		<Korean>선생님을 어디에 숨겼어?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>할아버지</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>이장</Name>
+		<Korean>히익!!! 이봐요!! 살려줘요!!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>한아리</Name>
+		<Korean>야… 이러다 무슨 일 나겠다.
+니가 좀 말리봐라…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>주인공</Name>
+		<Korean>어쩔 수 없구만…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Korean>나는 그 학생을 이장에게서 떼어냈다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>남호석</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>???</Name>
+		<Korean>넌 뭐다냐?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>주인공</Name>
+		<Korean>어르신에게 무슨 짓이냐?!
+버릇없는 놈!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>선생님</Name>
+		<Korean>우리 @이름 가 언제 저렇게 기특해져서는…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>2</Type>
+		<Korean>남호석</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>???</Name>
+		<Korean>골로 가고 싶으냐?
+그럼 그렇게 해 줄테니께.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>주인공</Name>
+		<Korean>해보시지!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Name>???</Name>
+		<Korean>후회 하지 마랑께.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Name>???</Name>
+		<Korean>크으… 이게..!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Name>주인공</Name>
+		<Korean>더 할 테냐?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>6</Type>
+		<Korean>둥</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Name>???</Name>
+		<Korean>아직 시작도 안 했당께!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>2</Type>
+		<Korean>경찰</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>3</Type>
+		<Name>바운스</Name>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Name>경찰</Name>
+		<Korean>거기! 너!!!!!!!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>2</Type>
+		<Korean>남호석</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Name>???</Name>
+		<Korean>칫!
+너 다음에 보자.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>6</Type>
+		<Korean>발소리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Korean>그 말을 남기고 그 녀석은 부리나케 도망쳤다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Name>선생님</Name>
+		<Korean>그런데 이장님 저 학생과 아는 사이인가요?
+왜 이장님에게 달려들어서…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>2</Type>
+		<Korean>할아버지</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Name>이장</Name>
+		<Korean>나에게 왜 달려들었는지는 잘 모르겠지만…
+저 학생이 누군지는 잘 알지요.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>6</Type>
+		<Korean>둥</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Name>이장</Name>
+		<Korean>천일고의 짱 남호석이라고.
+학생들 사이에서는 거시기 싸우전드 원 솔트라고 불린데요.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>5</Type>
+		<Korean>재개</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Name>주인공</Name>
+		<Korean>거시기 싸우전드 원 솔트…
+나보다 심한 별명은 처음이군..!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Name>이장</Name>
+		<Korean>거시기는 빼고 그냥 싸우전드 원 솔트랑께!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Name>한아리</Name>
+		<Korean>에휴 쯧…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Korean>싸우전드 원 솔트 남호석.
+무슨 이유로 이장님을 공격한 걸까?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Korean>그러고 보니 녀석은 분명
+&lt;color=#F15F5F&gt;'선생님을 어디에 숨겼어'&lt;/color&gt; 라고 했다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Korean>어쩌면 이 곳의 어둠은 생각보다 깊게 뻗어있는지도 모르겠어.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건1-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>5</Type>
+		<Korean>엉뚱</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>선생님</Name>
+		<Korean>후우… 얘들아 잠시 쉬었다가 하자.
+선생님은 잠시 마을에 가서 간식 사올게~</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>한아리</Name>
+		<Korean>하아… 힘들다…
+내가 왜 이런 일을 해야하는 건데?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>주인공</Name>
+		<Korean>아리 넌 공부 못하니까 이런 일을 하게 될 지도 모른다구?
+큭큭큭…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>한아리</Name>
+		<Korean>이게 도란나?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>6</Type>
+		<Korean>퍽</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>주인공</Name>
+		<Korean>악!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>2</Type>
+		<Korean>할아버지</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>이장</Name>
+		<Korean>학생은 참한게 여기서 일 하면 참- 좋을텐데 말이여~
+낄낄</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Korean>이장은 그렇게 말하고는 음흉한 미소를 날려보였다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>3</Type>
+		<Korean>부들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>한아리</Name>
+		<Korean>아… 네…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>주인공</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>한아리</Name>
+		<Korean>저 할배 뭔가 음흉한게 좀 싸하노…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>학생들</Name>
+		<Korean>웅성웅성…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>한아리</Name>
+		<Korean>선생님 와이래 안 오시노…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>주인공</Name>
+		<Korean>그러게…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Korean>벌써 대구로 돌아가야할 시간을 아득히 넘어 해가 뉘엿뉘엿 저물고 있었지만.
+마을로 갔던 선생님이 돌아오지 않고 있다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Korean>그 때 이장님이 의미심장한 미소를 띄며 말했다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>2</Type>
+		<Korean>할아버지</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>이장</Name>
+		<Korean>허허… 아무래도 길을 잃어버렸나 보네.
+아무래도 여기가 촌이다 길이 잘 안 되 있긴 하지…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>이장</Name>
+		<Korean>나가 함 찾아 볼랑께 학생들은 여서 쉬고 있어.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>이장</Name>
+		<Korean>마을에는 오덜 말고~
+밤만 되면 불량한 애들이 많이 나타나니께.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>학생들</Name>
+		<Korean>네~</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>한아리</Name>
+		<Korean>… 아무래도 뭔가 잘 못 돌아가고 있는 거 같다.
+우리도 한 번 가보자.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>주인공</Name>
+		<Korean>그치만 이장님이 가지 말랬는 걸?
+이 몸은 약속은 지키는 몸이라구?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>한아리</Name>
+		<Korean>이..!
+됐다! 나 혼자라도 갈 거다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>6</Type>
+		<Korean>발소리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>주인공</Name>
+		<Korean>참~ 아리는 오바가 심하다니까.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Korean>잠시후 저 멀리서 학생 여러명이 걸어왔다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>학생</Name>
+		<Korean>..!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>학생</Name>
+		<Korean>이 놈이다!
+이 놈이 우리를 방해한 다던 그 돼지다!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>주인공</Name>
+		<Korean>뭐, 뭣?!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Name>학생</Name>
+		<Korean>더러운 어른의 추종자 자식!
+죽어랏!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2-엔딩">
+		<Name>학생</Name>
+		<Korean>읏..!
+겁나 쎄구마..!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2-엔딩">
+		<Korean>그 순간 지나가던 학생 무리가 이 쪽을 향해왔다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2-엔딩">
+		<Type>2</Type>
+		<Korean>따까리2</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2-엔딩">
+		<Name>학생</Name>
+		<Korean>쟈들 뭐여?!
+왜 맞고 있는겨?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2-엔딩">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2-엔딩">
+		<Name>학생</Name>
+		<Korean>저 놈 잡어!
+저 놈이 호석이가 말했던 그 놈이여!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건2-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Type>2</Type>
+		<Korean>따까리2</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Name>학생</Name>
+		<Korean>저 돼지가?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Name>학생</Name>
+		<Korean>얕보지 말어!
+겁나 쎄부니께!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Type>2</Type>
+		<Korean>따까리2</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Name>학생</Name>
+		<Korean>오케이!
+덥쳐!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Name>학생</Name>
+		<Korean>읏..!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Name>주인공</Name>
+		<Korean>왜 우릴 공격하는 거야?!
+어른의 앞잡이라는 건 또 무슨 뜻이고?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Name>학생</Name>
+		<Korean>너가 우릴 방해하니까 그런 거 아니여?!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Name>주인공</Name>
+		<Korean>이 몸이 뭘?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Name>학생</Name>
+		<Korean>그러고 보니 너네 선생은 어디갔냐?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Name>주인공</Name>
+		<Korean>마을에 잠시 내려갔다 길을 일은 것 같은데?
+조금 한심한 선생님이랄까?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Name>학생</Name>
+		<Korean>..!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Name>학생</Name>
+		<Korean>설마 여선생이여?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Name>주인공</Name>
+		<Korean>그렇다만?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>6</Type>
+		<Korean>둥</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Name>학생</Name>
+		<Korean>큰일이랑께!!!
+빨리 구해야 한당께!!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건3-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>5</Type>
+		<Korean>비장</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>2</Type>
+		<Korean>따까리2</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>학생</Name>
+		<Korean>큰일이랑께!!!
+빨리 구해야 한당께!!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>주인공</Name>
+		<Korean>왜 또 갑자기 오바지?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>학생</Name>
+		<Korean>오바하는 게 아니야!
+여기서 여자 혼자 다니면 쥐도새도 모르게 사라지는 건 일도 아니랑께!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>학생</Name>
+		<Korean>우리 선생도 그런 식으로 사라졌으야…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>주인공</Name>
+		<Korean>그게 무슨…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>주인공</Name>
+		<Korean>그러고 보니 남호석이 이장님에게 그랬지…
+선생님 어디에 숨겼냐고…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>학생</Name>
+		<Korean>이 동네 어른들은 다 한패야…
+경찰도 선생도 아무도 믿을 수 없당께..!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>주인공</Name>
+		<Korean>… 그러고 보니 아리도!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>학생</Name>
+		<Korean>아리가 누구여?
+설마 여학생이여?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>주인공</Name>
+		<Korean>어…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>학생</Name>
+		<Korean>이러고 있을 때가 아니다 빨리 쫓아가라!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>주인공</Name>
+		<Korean>어…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Korean>그 녀석이 했던 말을 다 믿을 수는 없었지만 일단 아리가 갔던 곳으로 가보기로 했다.
+확실히 해도 저물고 있고 여자 혼자서는 위험할 수도 있다는 생각이 들었기 때문이다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Korean>아니야… 아닐 거야…
+계속 되뇌면서 아리와 선생님을 찾아 다녔다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Korean>그렇게 찾아 해맨지 1시간이 되고 나서야 뭔가가 잘 못 되었다는 것을 알아챌 수 있었다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>주인공</Name>
+		<Korean>후욱… 후욱…
+도대체 어디 있는 거냣?!
+정말 실종 되어버린 거냐고옷?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Korean>그때 멀리서 소란스러운 소리가 들려왔다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>주인공</Name>
+		<Korean>저긴가?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Korean>그 곳에는 아리가 불량한 학생들에게 끌려가고 있었다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>주인공</Name>
+		<Korean>오이!! 아리에게서 손 떼라구!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>한아리</Name>
+		<Korean>돼지 이 것들 좀 어떻게 해봐라.
+막무가내다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>2</Type>
+		<Korean>따까리3</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>3</Type>
+		<Korean>갸우뚱</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>학생</Name>
+		<Korean>뭐지 저 돼지는?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>학생</Name>
+		<Korean>앗 호석이가 말했던 그 녀석 아니냐?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>2</Type>
+		<Korean>따까리3</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Name>학생</Name>
+		<Korean>그런 거 같네!
+공격해라!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Name>학생</Name>
+		<Korean>큭! 듣던 대로 쎄구마..</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Name>주인공</Name>
+		<Korean>너네들! 아리를 끌고가서 어쩌려고 한 거냣!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Name>학생</Name>
+		<Korean>우짜긴 뭘 우째?!
+돌려보내려고 한 건지!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Name>주인공</Name>
+		<Korean>거짓말 하지 마!
+이 몸에겐 느껴진다구?
+'거짓의 냄새'가.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Name>한아리</Name>
+		<Korean>쟤들 구라치는 거 아니다.
+진짜 나보고 돌아가라 했다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Name>한아리</Name>
+		<Korean>내가 선생님 찾는다고 안 간 것 뿐이다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Name>주인공</Name>
+		<Korean>그래?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Name>주인공</Name>
+		<Korean>그럼 역시 별 일 없었네.
+여기 학생들은 왜 이렇게 오바가 심한 거야?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>2</Type>
+		<Korean>따까리3</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Name>학생</Name>
+		<Korean>오바하는게 아니여…
+여기서 벌어지고 있는 일을 생각하면 절대 오바하는 게 아니여!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Name>주인공</Name>
+		<Korean>도대체 무슨 일이 벌어졌다는 거야?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Korean>그 순간 등 뒤에서 인기척이 느껴졌다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Name>???</Name>
+		<Korean>이게 무슨 일이냐?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Korean>소름끼치는 기척…
+강자의 기척이었다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건4-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Type>5</Type>
+		<Korean>보스전</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Type>2</Type>
+		<Korean>따까리3</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Name>학생</Name>
+		<Korean>호, 호석아!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Type>2</Type>
+		<Korean>남호석</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Name>남호석</Name>
+		<Korean>또 너냐?
+결국 넌 역시 우리의 적이었구만…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Name>주인공</Name>
+		<Korean>아리야 물러서!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Name>한아리</Name>
+		<Korean>진작에 도망쳤다.
+니나 조심해라.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Name>주인공</Name>
+		<Korean>쿠쿡 정말 자기 몸 하나는 잘 지키는 애라니까?
+랄까 이 몸 걱정이나 해 볼까.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Name>주인공</Name>
+		<Korean>아무래도 전에 만났을 때와 분위기 부터가 다르니까.
+이 몸도 전력을 다 할 필요가 있겠군..!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Type>2</Type>
+		<Korean>남호석</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Name>남호석</Name>
+		<Korean>방해하는 놈은 용서 못한다.
+죽어줘야 쓰겄다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Name>남호석</Name>
+		<Korean>크윽..!
+너 정체가 뭐여?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Name>한아리</Name>
+		<Korean>임마는 대구의 통합 짱.
+비계파이터 @이름 이다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Name>남호석</Name>
+		<Korean>대구 통합 짱..!
+그런 놈들이 왜 우릴 방해하는 건데!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Name>주인공</Name>
+		<Korean>방해?
+어르신을 공경하지 못 할 망정 공격을 하면 당연히 말려야지!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Name>남호석</Name>
+		<Korean>어르신을 공경?
+하! 여기 어른들은 다 쓰레기야!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Name>주인공</Name>
+		<Korean>너네 전부 왜 그래?
+어른들이 뭘 했다고?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Name>남호석</Name>
+		<Korean>우리반 선생님…
+벌써 한 달째 행방불명이여.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Type>6</Type>
+		<Korean>둥</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Type>5</Type>
+		<Korean>비장</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Name>남호석</Name>
+		<Korean>분명 이 마을 어른들이 뭔 짓을 한 것이여.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Korean>너무나도 확신에 찬 진지한 녀석의 표정을 보고,
+나는 더 이상 호들갑을 떤다며 무시할 수 없었다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건5-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>5</Type>
+		<Korean>비장</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>2</Type>
+		<Korean>남호석</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>서울에서 올라오신 선생님이었는데 정말 좋은 선생님이었어.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>이 곳 선생들과는 전혀 달랐지.
+덕분에 방황하던 나도 생각을 고쳐먹었었다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>그런데 한 달 전에 갑자기 사라져 버린 거여…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>주인공</Name>
+		<Korean>실종됐다 해도 다양한 경우가 있을 수 있는 거 아니냐?
+그런데 왜 어른들이 문제라는 거냐?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>주인공</Name>
+		<Korean>중2병이냣?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>괜히 이러는게 아니여…
+내가 지나가다 봤당께.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>6</Type>
+		<Korean>둥</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>선생님이 사라졌던 그 날 밤 난 봤어.
+이장의 집 앞에 선생님의 구두가 떨어져 있었던 것을.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>그리고 바로 경찰에 신고했지만…
+경찰은 아무 것도 해주지 않았어.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>틀림없어.
+경찰과 마을의 어른들 모두… 사건을 은폐하려 한다고!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>한아리</Name>
+		<Korean>… 확실히 아까 이장 할배 뭔가 싸한 느낌이 들긴 했다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>주인공</Name>
+		<Korean>아리 너 까지…
+요즘 세상에 그렇게 대놓고…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>2</Type>
+		<Korean>남호석</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>이 곳 신안에서는 요즘 세상같은 말은 통하지 않으야.
+폐쇄적인 환경 속에서 어른들의 시각은 전혀 변하지 않았당께…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>한아리</Name>
+		<Korean>여성을 전혀 인간으로서 존중하지 않는다는 말이가?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>2</Type>
+		<Korean>남호석</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>6</Type>
+		<Korean>둥</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>그라제!
+그냥 본능이 시키는 대로 움직이는 짐승이랑께…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>도대체 그 천사같은 선생님한테 무슨 짓을 한 것이여!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>주인공</Name>
+		<Korean>… 그렇다면 우리 선생님도…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>6</Type>
+		<Korean>둥</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>아직 모른다…
+그러니까 더 늦기 전에 찾아서 이 곳 신안에서 나가라!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>2</Type>
+		<Korean>경찰</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>경찰</Name>
+		<Korean>여기 있었네 양아치덜…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>경찰</Name>
+		<Korean>매일 사고치고 다니는 너네 쓰레기들을 더 이상 눈 감아 줄 수 없당께.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>경찰</Name>
+		<Korean>외지인은 어서 가거라.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>주인공</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>주인공</Name>
+		<Korean>그런데 경찰아저씨…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>주인공</Name>
+		<Korean>아저씨에게서 선생님 냄새가 납니다만?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>경찰</Name>
+		<Korean>!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>한아리</Name>
+		<Korean>!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>2</Type>
+		<Korean>남호석</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>남호석</Name>
+		<Korean>!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>2</Type>
+		<Korean>경찰</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>경찰</Name>
+		<Korean>아무래도 곱게 보내주긴 글러부렀네?
+아저씨들이랑 얘기 좀 해야쓰겄어.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Korean>그 순간 우리를 애워싸고 있던 경찰들의 눈빛이 달라졌다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>6</Type>
+		<Korean>둥</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Name>주인공</Name>
+		<Korean>다 물러나!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>경찰</Name>
+		<Korean>고등학생이 뭔데 이래 쎈기야?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>6</Type>
+		<Korean>둥</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>주인공</Name>
+		<Korean>선생님을 어쨌어욧!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>경찰</Name>
+		<Korean>어쩌긴 뭘 어째?!
+여자를 양도한 후에는 내 알바 아니여.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>주인공</Name>
+		<Korean>양도?! 누구에게?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>경찰</Name>
+		<Korean>말 할 수 있겄냐?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>???</Name>
+		<Korean>살려주세요!!!!!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>경찰</Name>
+		<Korean>잉??</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>한아리</Name>
+		<Korean>이 목소린…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>선생님</Name>
+		<Korean>살려주세욧!!!!!!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>한아리</Name>
+		<Korean>저거 선생님 아이가?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>주인공</Name>
+		<Korean>그런 것 같군…
+랄까? 쫓기고 있는 것 아니냣?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Name>선생님</Name>
+		<Korean>얘들아?
+이런 곳에서 뭐하고 있어 도망쳐!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>4</Type>
+		<Korean>페이즈아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건6-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>5</Type>
+		<Korean>일렉</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Name>선생님</Name>
+		<Korean>얘들아?
+이런 곳에서 뭐하고 있어 도망쳐!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>2</Type>
+		<Korean>마동환</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Korean>선생님의 뒤에는 건장한 청년들이 쫓아오고 있었다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Name>주인공</Name>
+		<Korean>저거 마형환, 마동환이 왜 저렇게 많은 거야?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Name>한아리</Name>
+		<Korean>근육돼지들은 다 저렇게 생긴 법이라 안카나!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Name>주인공</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Name>한아리</Name>
+		<Korean>어쨌든 빨리 선생님 구해 드리라!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Name>주인공</Name>
+		<Korean>오케이!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>한아리</Name>
+		<Korean>더 없는 거 맞제?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>주인공</Name>
+		<Korean>후! 정말 힘들었다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>5</Type>
+		<Korean>어두운잔잔</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>선생님</Name>
+		<Korean>떽!!
+싸움하면 못 써요!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>주인공</Name>
+		<Korean>… 이 몸이 아니었다면 선생님의 목숨은 이 세상의 것이 아니었다구?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>선생님</Name>
+		<Korean>도망치면 되잖니?!
+이 선생님은 다리 만큼은 빠르답니다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>주인공</Name>
+		<Korean>오호?
+그래서 선생님의 다리가 그렇게 굵은 것 입니까?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>선생님</Name>
+		<Korean>이게 선생님에게 뭐라는 거야?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>한아리</Name>
+		<Korean>그런데 무슨 일이 있었던 거에요?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>선생님</Name>
+		<Korean>그게… 마을에 들어왔다가 길을 잃었었거든.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>주인공</Name>
+		<Korean>결국 길은 잃었던 겁니까?!(척!)</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>선생님</Name>
+		<Korean>경찰에게 길을 물어서 안내를 받았는데 점점 으슥한 곳으로 가더라고.
+그래서 자연스럽게 빠져나오려고 했더니 이제는 억지로 끌고 가는 거야!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>선생님</Name>
+		<Korean>선생님 너무 무서워서 울어버렸어…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>주인공</Name>
+		<Korean>그런 거 안 궁금합니다만?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>선생님</Name>
+		<Korean>음 그렇게 계속 끌려갔더니 누군가에게 날 양도하려 하더라고?
+굉장히 음흉하게 생겼었는데…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>한아리</Name>
+		<Korean>아무튼 빨랑 가요!
+여기 더는 못 있겠어요!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>선생님</Name>
+		<Korean>그래.
+돌아가면 혼나겠지?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>주인공</Name>
+		<Korean>학생을 염전 노예로 부려먹은 죗값을 치르게 되겠군!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>선생님</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>선생님</Name>
+		<Korean>선생님 시말서 쓰는 거 싫어싫어~!!!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Korean>우리는 곧장 대구로 돌아갔고,
+경찰과 언론에 신안에서 있었던 일을 신고했다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Korean>선생님이 겪었던 일을 생각하면 남호석이 말했던 선생님이 실종된 사건의 배후가 그 마을의 사람들이라는 이야기도 납득이 가기 시작했다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Korean>그 후 신안은 어떻게 되었을까?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Korean>며 칠 후</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>한아리</Name>
+		<Korean>마 돼지. 니 이거 봤나.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>주인공</Name>
+		<Korean>당연하지! 이 몸은 가만히 있어도 이 세상의 모든 정보가 들어온다구?
+랄까? 뭔데 뭔데?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>한아리</Name>
+		<Korean>우리 저번에 염전 체험하러 간 곳에서 시체가 발견됐다 카드라.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>주인공</Name>
+		<Korean>시체..?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>한아리</Name>
+		<Korean>어, 그 이장집 근처 야산에서 젊은 여자 시체가 발견됐데.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>주인공</Name>
+		<Korean>… 그 시체가 설마…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>갸우뚱</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>한아리</Name>
+		<Korean>왜?
+뭐 아는 거 있나?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>최우정</Name>
+		<Korean>왜! 왜! 무슨 얘기를 그렇게 심각하게 하는데?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>한아리</Name>
+		<Korean>닌 좀 너네 반에서 놀아라.
+친구 없나?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>최우정</Name>
+		<Korean>아니거든?!
+그리고 너랑 놀려고 온 거 아니거든?
+돼지랑 놀 거 거든?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>갸우뚱</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>최우정</Name>
+		<Korean>그치 돼지~?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>주인공</Name>
+		<Korean>어, 어…</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>한아리</Name>
+		<Korean>그래서? 뭐 좀 아는 거 있어?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>6</Type>
+		<Korean>의문</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>주인공</Name>
+		<Korean>… 랄까?
+사실 뭔가 알고 있는 척을 해 봤달까?</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>한아리</Name>
+		<Korean>하… 뭐야 진짜 닌 찐따인 이유가 있다.</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Name>최우정</Name>
+		<Korean>아 뭔데 뭔데?!
+왜 너네끼리만 얘기하는데?!</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="신안 교사 실종 사건7-엔딩">
+		<Type>4</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>5</Type>
+		<Korean>홈</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>우리는 지금 대전에 있는 고등학교, 천신 고등학교에 와 있다.
+왜 이 곳에 있느냐?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>얼마 전 있었던 외부강사의 강의, &lt;color=#F15F5F&gt;'믿음이란 어디에서 나오는가?'&lt;/color&gt;에서 &lt;color=#F15F5F&gt;'여러분이 믿는 것은 무엇인가요?'&lt;/color&gt;라는 질문에 &lt;color=#F15F5F&gt;'나 자신뿐 (훗)'&lt;/color&gt;이라는 멋진 대답을 한 탓이다.</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>나의 이 철학을 똥통 양아치 소굴인 자신의 모교에 퍼트려 달라나?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>이 몸은 입이 떠억 벌어질 만한 페이를 보고 일을 받아드린 건 아니라구?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>한아리</Name>
+		<Korean>혼자 뭐라 씨부리는 거고?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>최우정</Name>
+		<Korean>돼지 또 망상의 세계에 빠져버린 거야?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>그런데 너네는 왜 따라온 거냣?!
+이 몸이 받은 페이는 나눠줄 수 없다고?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>최우정</Name>
+		<Korean>쪼잔하게!
+누가 돈 달래?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>한아리</Name>
+		<Korean>더럽게 쪼잔하네 쯥.</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>제 돈 입니다만?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>최우정</Name>
+		<Korean>알았으니까 차비라도 주라!!</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>우왁!! 멋대로 따라와 놓고 무슨 짓이냐앗!!</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Korean>그렇게 소란을 떨고 있자 교무실에서 누군가 나왔다.</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>교사</Name>
+		<Korean>여기서 이러지 마시고 1학년 1반부터 시작해 주세요.
+자습 시간이니 자유롭게 들어가셔서 하시면 됩니다.</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>넵!</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>6</Type>
+		<Korean>발소리</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Korean>우리는 1학년 1반 앞에 섰다.</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>자 그럼 들어간다?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>6</Type>
+		<Korean>퍽</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>5</Type>
+		<Korean>종료</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>한아리</Name>
+		<Korean>빨리 드가라!</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>이미지오프</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Korean>아리의 발길질에 의해 나는 교실로 떠밀려 졌다.</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Korean>그 곳은 마치 야생의 왕국과도 같은 광경이 펼쳐져있었다.</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>최우정</Name>
+		<Korean>돼지 파이팅!</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Korean>등 뒤로 우정이의 응원소리가 들려왔지만 별로 힘이 되진 않았다.</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>흠흠… 얘들아 조용히 해줄래?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>5</Type>
+		<Korean>일렉</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>학생</Name>
+		<Korean>엥 저 돼지는 뭐여?
+관종이냐?!</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>따까리2</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>학생</Name>
+		<Korean>쳐맞기 전에 가라~
+ㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>조요오오옹!!!!
+이 몸은 너희들을 갱생시킬 일일 강사 님이라구?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>따까리3</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>학생</Name>
+		<Korean>ㅋㅋㅋ 강사는 뭐 개나 소나 돼지나 다 하는 거냐?
+개 웃겨 ㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>학생</Name>
+		<Korean>강사가 아니라 개그하러 온 듯 ㅋㅋㅋ</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>내, 내가 웃기다고?!!</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>조금 기쁠지도…</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>따까리2</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>학생</Name>
+		<Korean>야 됐고 빨리 나가~
+형님한테 쳐맞고 울지 말고~</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>이래봬도 내가 너네 보다 형이라구?
+그러니 반말은…</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>따까리3</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>학생</Name>
+		<Korean>아! 뭐래!
+좀 나가!!!!!!</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>후훗 돈을 받은 입장으로써 그럴 수는 없다구?
+너네는 어려서 모르겠지만 그것이 &lt;color=#F15F5F&gt;'어른의 사정'&lt;/color&gt;이란 것이다.</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>학생</Name>
+		<Korean>아 슬슬 짜증난다.
+야 그냥 받은 돈 병원비로 쓰게 하자.</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>따까리2</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>학생</Name>
+		<Korean>올ㅋ 천재?</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>2</Type>
+		<Korean>따까리</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>학생</Name>
+		<Korean>쳐!</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>이런이런이런~ 결국 이렇게 되는 것인가…</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Name>주인공</Name>
+		<Korean>이 몸의 &lt;color=#F15F5F&gt;'피'&lt;/color&gt;가 싸움을 부르고 마는 것인가..!</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>싸움준비</Korean>
+	</Unit>
+	<Unit key="천신고1">
+		<Type>4</Type>
+		<Korean>싸움시작</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>3</Type>
+		<Korean>피격2</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>5</Type>
+		<Korean>엉뚱</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>학생</Name>
+		<Korean>켁! 돼지주제에 왜 이렇게 세냐?</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>4</Type>
+		<Korean>플래시</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>4</Type>
+		<Korean>흔들림</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>주인공</Name>
+		<Korean>형님!</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>3</Type>
+		<Korean>흔들</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>학생</Name>
+		<Korean>혀, 형님…</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>주인공</Name>
+		<Korean>좋아! 자 그럼 분위기도 가라앉았고 하니 강의 시작해 볼까?</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>주인공</Name>
+		<Korean>오늘의 주제는 &lt;color=#F15F5F&gt;'내가 믿는 것은 이 몸 뿐(훗)'&lt;/color&gt;이다!</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>학생</Name>
+		<Korean>…</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>2</Type>
+		<Korean>최우정</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>최우정</Name>
+		<Korean>돼지 끝났어?
+어땠어?</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>주인공</Name>
+		<Korean>후훗 다들 이 몸의 강의를 경청해 주더군!</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>주인공</Name>
+		<Korean>이대로 가면 이 학교는 우리 학교 처럼 평화로운 학교가 될 거라고?</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>3</Type>
+		<Korean>바운스</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>최우정</Name>
+		<Korean>와! 돼지 대단해!!</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>2</Type>
+		<Korean>한아리</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>한아리</Name>
+		<Korean>너는 정말 아까 그 소란을 못 들어서 그런 소리 하는 거야?</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Korean>아리는 고개를 저으며 한숨을 쉬었다.</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>주인공</Name>
+		<Korean>자! 그럼 다음 반으로 고고고!</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>4</Type>
+		<Korean>페이드아웃</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>???</Name>
+		<Korean>천신님!
+어떤 돼지가 학교를 돌면서 신자들을 공격하고 있다고 하는데요?</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>???</Name>
+		<Korean>돼지?</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>???</Name>
+		<Korean>아! 진짜 돼지가 아니라 돼지 같이 살 찐 사람입니다!</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>???</Name>
+		<Korean>그 정도는 말 안해도 안다!</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>???</Name>
+		<Korean>히익!!! 죄송합니닷!</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>???</Name>
+		<Korean>저기 그래서 그 놈, 어떻게 처리할까요..?</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>???</Name>
+		<Korean>… 천지급 전사들을 보내라.</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>6</Type>
+		<Korean>파칭</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>???</Name>
+		<Korean>천지급 전사를 말입니까?!!</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>???</Name>
+		<Korean>그래… 두 번 말하게 하지 말도록.</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>6</Type>
+		<Korean>푸식</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Name>???</Name>
+		<Korean>예, 옛!</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
+		<Type>4</Type>
+		<Korean>페이드인</Korean>
+	</Unit>
+	<Unit key="천신고1-엔딩">
 		<Type>4</Type>
 		<Korean>종료</Korean>
 	</Unit>
