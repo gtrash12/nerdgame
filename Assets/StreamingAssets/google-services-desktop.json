@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1006601838630",
+    "firebase_url": "https://nerd-rising.firebaseio.com",
+    "project_id": "nerd-rising",
+    "storage_bucket": "nerd-rising.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006601838630:android:2e8505575278e34b2e86e7",
+        "android_client_info": {
+          "package_name": "com.GalTra.Nerdgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006601838630-ulgj84kr9hnrk1bibvo4g69psi580deh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBod0u72mEPEjYucyDsej0eNMSfykIW0Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006601838630-ulgj84kr9hnrk1bibvo4g69psi580deh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
