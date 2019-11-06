@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://nerd-rising.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1006601838630</string>
+  <string name="google_storage_bucket" translatable="false">nerd-rising.appspot.com</string>
+  <string name="project_id" translatable="false">nerd-rising</string>
+  <string name="google_api_key" translatable="false">AIzaSyBod0u72mEPEjYucyDsej0eNMSfykIW0Ak</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBod0u72mEPEjYucyDsej0eNMSfykIW0Ak</string>
+  <string name="google_app_id" translatable="false">1:1006601838630:android:2e8505575278e34b2e86e7</string>
+  <string name="default_web_client_id" translatable="false">1006601838630-ulgj84kr9hnrk1bibvo4g69psi580deh.apps.googleusercontent.com</string>
+</resources>
